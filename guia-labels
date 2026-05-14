@@ -1,0 +1,16 @@
+LABELS USADAS QA-PRACTICAS
+
+QA-P = Issues identificados por Julio Castellón y Mateo Domenech
+General = Issues de carácter general en la aplicación
+Scada = Issues en la página de Scada
+Widgets = Issues en los widgets que se implementan en las plantillas
+Calendario = Issues en la página de calendario
+Tareas = Isssues en la página tareas
+Tooltips = Issues en los tooltips de cualquier parte de la aplicación
+Dashboard = Issues en la página de Dashboards
+Alarmas = Issues en la página de Alarmas
+Header = Issues en el header de la interfaz de la aplicación
+Sidebar = Issues en el sidebar de la interfaz de la aplicación
+Inicio = Issues en la página de inicio de la aplicación
+Informe = Issues en la página de Informe
+Auditoria = Issues en la página de Auditoria
