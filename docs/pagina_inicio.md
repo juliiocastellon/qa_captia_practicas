@@ -1,13 +1,12 @@
-Markdown
-#Pagina de inicio
+# Página de inicio
 
-**Objetivo Principal:** [Define en una sola frase qué hace el usuario en esta vista. Ej: Permite al usuario registrar un nuevo proyecto en el sistema.]
+## Objetivo principal
+Permite al operario obtener de un vistazo el estado actual de la planta, identificar tareas y alarmas prioritarias y acceder a la siguiente acción recomendada por la IA.
 
-## 📸 Mapeo de Interfaz
+## 📸 Mapeo de interfaz
 <img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/d1598a7b-dda0-47f8-9ff0-2b9f70e62062" />
 
-
-## 🧩 Despiece de Elementos Funcionales
+## 🧩 Despiece de elementos funcionales
 
 | Sección | Descripción | Observaciones QA |
 |---|---|---|
@@ -21,5 +20,36 @@ Markdown
 | Navegación lateral | Iconos de secciones principales sin etiquetas de texto | Sin labels visibles, depende solo de iconos — posible problema de accesibilidad |
 | Versión | v0.24 visible en esquina inferior izquierda | Útil para reportar bugs, confirmar que está visible |
 
-## 💡 Guía de Uso (Generada por IA)
+## 💡 Guía de uso
 
+### ¿Qué verás al entrar?
+Al iniciar sesión llegarás directamente a la página de inicio. La plataforma detecta automáticamente tu turno activo y genera un resumen del estado de la planta basado en los datos disponibles en ese momento.
+
+### Cómo leer la Lectura AI de planta
+El bloque azul central es el resumen más importante de la página. La IA analiza alarmas, tareas y dashboards conectados y te presenta:
+- **El estado actual** en una frase directa ("Atención requerida ahora: 4 tareas vencidas")
+- **Los badges** indican qué ha revisado la IA (REVISADO), qué está pendiente de datos (PENDIENTE) y el nivel de confianza del análisis (CONFIANZA alta/media/baja)
+- **Las citas numeradas** [1][2] enlazan a las fuentes de datos usadas. Haz clic en "Ver fuentes" para consultarlas
+
+### Cómo usar el Radar de atención
+El radar muestra 6 dominios industriales ordenados por prioridad. Cada dominio indica:
+- Un valor numérico si hay datos disponibles
+- **s/d** (sin datos) si el origen de datos no está conectado
+- Un nivel de prioridad: BASE (normal), MEDIA (requiere atención), ALTA (acción inmediata)
+
+### Cómo usar el Manufacturing Signal Board
+Es la tabla de señales de producción. Cada celda muestra el valor actual de una métrica clave. Los estados posibles son:
+- **Sin MES** — el sistema MES no está conectado, no hay datos de producción
+- **s/d** — sin datos disponibles en este momento
+- Un número — valor actual de la métrica
+- Las etiquetas de color (pendiente, atención, revisar, alta, base) indican el nivel de urgencia
+
+### Acciones disponibles desde esta página
+- **Revisar tareas vencidas** — abre el listado de tareas que han superado su fecha límite
+- **Analizar con Copilot** — lanza un análisis asistido por IA sobre el estado actual
+- **Por qué veo esto** — explica qué datos y reglas ha usado la IA para generar el resumen
+
+## ⚠️ Limitaciones conocidas
+- Los dominios sin origen de datos conectado (MES, scrap, consumo energético) muestran "s/d" y no generan recomendaciones
+- El toggle "Carrusel" de la barra superior rota automáticamente entre dashboards; desactívalo si prefieres navegación manual
+- La navegación lateral solo muestra iconos sin etiquetas; pasa el cursor por encima para ver el nombre de cada sección
