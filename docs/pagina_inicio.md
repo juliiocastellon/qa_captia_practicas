@@ -8,8 +8,6 @@
 
 ## 🧩 Despiece de elementos funcionales
 
-## 🧩 Despiece de elementos funcionales
-
 | Nº | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :---: | :--- | :--- | :--- | :--- |
 | 1 | Saludo y turno | Información | — | Muestra el nombre del usuario, turno activo, fecha y última lectura. El enlace "4 tareas" redirige al listado de tareas pendientes. |
