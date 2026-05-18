@@ -14,3 +14,5 @@ Markdown
 | Enlace "Volver" | Link | Navega a Inicio | Cancela la acción y devuelve al listado general. |
 
 ## 💡 Guía de Uso (Generada por IA)
+
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/d1598a7b-dda0-47f8-9ff0-2b9f70e62062" />
