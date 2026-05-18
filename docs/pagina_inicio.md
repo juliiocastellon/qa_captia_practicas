@@ -10,7 +10,7 @@
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Lectura AI de la instalación | Bloque informativo | — | Resume el estado de la instalación con lenguaje natural. Indica alarmas activas y tareas vencidas del turno actual. Incluye badges de estado (REVISADO, PENDIENTE, CONFIANZA) y nivel de confianza del análisis en porcentaje. |
+| 1 | Lectura AI de la instalación | Bloque informativo | — | Resume el estado de la instalación con lenguaje natural. Indica alarmas activas y tareas vencidas del turno actual. Incluye badges de estado. |
 | 2 | Citas numeradas [1][2] / "Ver fuentes" | Enlace | Despliega panel "Fuentes consultadas" | Muestra las fuentes de datos usadas por la IA para generar el resumen. [1] corresponde a alarms.list_active (alarmas abiertas con prioridad P1/P2) y [2] a tasks.list (tareas vencidas, las que vencen hoy y total). Accesible tanto desde las citas numeradas como desde el enlace "Ver fuentes (2)". |
 | 3 | Siguiente mejor acción | Bloque informativo | — | Muestra la acción prioritaria recomendada por la IA con una descripción breve del impacto esperado. |
 | 4 | Botón "Por qué veo esto" | CTA Secundario | Despliega panel en la misma vista | Muestra las reglas aplicadas por la IA para generar el briefing. Parámetros visibles: severity_pill, narrative_mode, kpis, watchlist, reasons y tenant_inventory. Actualmente en formato técnico crudo, no interpretable por un usuario final. |
