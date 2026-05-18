@@ -4,7 +4,8 @@ Markdown
 **Objetivo Principal:** [Define en una sola frase qué hace el usuario en esta vista. Ej: Permite al usuario registrar un nuevo proyecto en el sistema.]
 
 ## 📸 Mapeo de Interfaz
-*(Añadir aquí la captura de pantalla de la vista)*
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/d1598a7b-dda0-47f8-9ff0-2b9f70e62062" />
+
 
 ## 🧩 Despiece de Elementos Funcionales
 
@@ -15,4 +16,3 @@ Markdown
 
 ## 💡 Guía de Uso (Generada por IA)
 
-<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/d1598a7b-dda0-47f8-9ff0-2b9f70e62062" />
