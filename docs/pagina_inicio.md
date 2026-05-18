@@ -1,7 +1,6 @@
-# Página de inicio
+# 🖥️ Página de inicio
 
-## Objetivo principal
-Permite al operario obtener de un vistazo el estado actual de la planta, identificar tareas y alarmas prioritarias y acceder a la siguiente acción recomendada por la IA.
+**Objetivo principal:** Permite al operario obtener de un vistazo el estado actual de la planta, identificar tareas y alarmas prioritarias y acceder a la siguiente acción recomendada por la IA.
 
 ## 📸 Mapeo de interfaz
 <img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/d55076c4-f391-4c19-8b1b-95afa3d1b111" />
