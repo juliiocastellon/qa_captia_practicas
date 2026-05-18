@@ -4,8 +4,7 @@
 
 ## 📸 Mapeo de interfaz
 
-<img width="1677" height="938" alt="image" src="https://github.com/user-attachments/assets/daf89e67-99a1-472e-ae8e-7d8d6ca7e9f2" />
-
+<img width="1677" height="938" alt="image" src="https://github.com/user-attachments/assets/4b4dee35-443c-4854-a539-b6e73250fe93" />
 
 ## 🧩 Despiece de elementos funcionales
 
