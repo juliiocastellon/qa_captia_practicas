@@ -4,7 +4,8 @@
 Permite al operario obtener de un vistazo el estado actual de la planta, identificar tareas y alarmas prioritarias y acceder a la siguiente acción recomendada por la IA.
 
 ## 📸 Mapeo de interfaz
-<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/d1598a7b-dda0-47f8-9ff0-2b9f70e62062" />
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/6a6605cf-1ae9-4a96-a650-546c325a9ddc" />
+
 
 ## 🧩 Despiece de elementos funcionales
 
