@@ -2,6 +2,9 @@
 
 **Objetivo principal:** Permite al usuario crear, editar y supervisar workflows automáticos mediante nodos visuales, conexiones lógicas y reglas industriales para automatizar procesos y acciones dentro de la plataforma.
 
+## 📸 Mapeo de interfaz
+<img width="1227" height="582" alt="image" src="https://github.com/user-attachments/assets/1b3281b7-a537-4e67-b665-80759a692694" />
+
 ## 🧩 Despiece de elementos funcionales
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
@@ -17,8 +20,8 @@
 | 9 | Selector de modo | Selector de vista | Cambiar modo | Permite alternar entre distintos modos de visualización o edición del workflow. |
 | 10 | Botón de ejecución / despliegue | CTA Secundario | Ejecutar workflow | Permite lanzar o desplegar el workflow configurado. |
 | 11 | Variables del workflow | Panel contextual | Gestionar variables | Permite visualizar y gestionar variables utilizadas dentro de la automatización. |
-| 12 | Biblioteca de nodos | Panel lateral | Añadir nodos | Contiene todos los nodos y componentes disponibles para construir workflows automáticos. |
-| 13 | Selector de biblioteca | Selector de categoría | Cambiar catálogo | Permite alternar entre nodos del workflow y catálogo UDT disponibles. |
+| 12 | Categoría "Nodos del workflow" | Categoría de biblioteca | Mostrar nodos | Permite visualizar los nodos estándar disponibles para construir workflows automáticos dentro del canvas. |
+| 13 | Categoría "Catálogo UDT" | Categoría de biblioteca | Mostrar catálogo UDT | Permite acceder a nodos y elementos basados en definiciones UDT disponibles para automatizaciones avanzadas. |
 | 14 | Categorías de nodos | Listado de categorías | Filtrar nodos | Organiza los nodos disponibles por categorías funcionales como triggers, acciones, variables o monitorización. |
 | 15 | Canvas del workflow | Área de trabajo | Edita automatización | Espacio principal donde se crean, conectan y organizan los nodos visuales del workflow automático. |
 
