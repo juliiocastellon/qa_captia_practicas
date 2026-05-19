@@ -2,7 +2,7 @@
 
 **Objetivo principal:** Permite al usuario visualizar, organizar y acceder rápidamente a las pantallas SCADA disponibles, facilitando la supervisión en tiempo real de instalaciones, dispositivos y procesos industriales.
 
-
+## 📸 Mapeo de interfaz
 <img width="1227" height="585" alt="image" src="https://github.com/user-attachments/assets/ef657b2a-12a5-4e68-808d-e3432124ad1d" />
 
 
