@@ -22,4 +22,4 @@ La sección de Calendario permite organizar y supervisar temporalmente eventos, 
 
 El calendario puede mostrarse en diferentes formatos, como vista mensual, semanal, diaria o agenda, facilitando la planificación operativa según el nivel de detalle necesario. Además, es posible crear nuevos eventos rápidamente y consultar la leyenda visual para interpretar correctamente los colores y categorías mostrados.
 
-[← Volver al índice](../README.md)
+<sub>[← Volver al índice](../README.md)</sub>
