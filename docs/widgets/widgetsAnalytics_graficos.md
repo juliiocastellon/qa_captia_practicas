@@ -23,4 +23,7 @@
 
 La sección de widgets gráficos permite incorporar distintos tipos de visualizaciones dentro de dashboards y pantallas SCADA. Cada widget está orientado a representar información específica, como tendencias temporales, comparaciones entre categorías o distribuciones porcentuales.
 
-Para utilizar un widget, basta con seleccionarlo desde el panel lateral e insertarlo en el área de trabajo. Posteriormente, cada gráfico podrá configurarse mediante propiedades visuales, conexiones de datos y parámetros de visualización adaptados al contexto industrial.carechimba
+Para utilizar un widget, basta con seleccionarlo desde el panel lateral e insertarlo en el área de trabajo. Posteriormente, cada gráfico podrá configurarse mediante propiedades visuales, conexiones de datos y parámetros de visualización adaptados al contexto industrial.
+
+
+<sub>[← Volver al índice](../README.md)</sub>
