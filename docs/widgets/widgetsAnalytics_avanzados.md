@@ -16,3 +16,5 @@
 ## 💡 Guía de Uso (Generada por IA)
 
 La sección **Avanzados** está pensada para casos de análisis que requieren mayor potencia de visualización que los gráficos estándar. Con **Series Avanzadas** (3.9.1) puedes representar simultáneamente variables de naturaleza o escala diferente en un único gráfico, gracias al soporte de doble eje Y: por ejemplo, combinar temperatura y presión sin que ninguna serie quede distorsionada por la escala de la otra. Además, la posibilidad de añadir líneas de referencia te permite marcar visualmente umbrales críticos, objetivos de producción o valores de alerta directamente sobre el gráfico. El contador (1) en la cabecera indica el elemento disponible en esta sección, y puedes colapsar o expandir el bloque con la flecha de la derecha.
+
+<sub>[← Volver al índice](../README.md)</sub>
