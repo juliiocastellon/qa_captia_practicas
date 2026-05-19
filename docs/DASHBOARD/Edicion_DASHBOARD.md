@@ -18,8 +18,8 @@
 | 7 | Selector de agregación | Filtro desplegable | Cambia agregación | Permite seleccionar el tipo de agregación de datos mostrado en los widgets. |
 | 8 | Selector de turno/franja | Filtro desplegable | Filtra por turno | Permite visualizar información según turnos o franjas horarias configuradas. |
 | 9 | Botón refrescar datos | CTA Secundario | Actualiza dashboard | Fuerza la actualización manual de los datos y widgets del dashboard. |
-| 10 | Configuración del dashboard | CTA Secundario | Abre configuración | Permite acceder a parámetros generales y opciones avanzadas del dashboard. |
-| 11 | Estado de guardado | Indicador de estado | — | Muestra si existen cambios pendientes de guardar en el dashboard actual. |
+| 10 | Configuración de navegación y filtros | CTA Secundario | Configurar barra superior | Permite configurar los elementos visibles de navegación y filtros del dashboard, incluyendo opciones como planta, zona, agregación y otros controles contextuales. |
+| 11 | Vista previa del dashboard | CTA Secundario | Abrir vista previa | Permite visualizar el dashboard en modo preview para comprobar su comportamiento y apariencia antes de guardar o publicar cambios. |
 | 12 | Botón guardar | CTA Principal | Guarda cambios | Guarda los cambios realizados en el dashboard actual. |
 | 13 | Toggle panel lateral derecho | Toggle | Mostrar/ocultar widgets | Permite abrir o cerrar el panel lateral de widgets y propiedades. |
 | 14 | Canvas del dashboard | Área de trabajo | Edita dashboard | Espacio principal donde se añaden, organizan y configuran los widgets del dashboard. |
