@@ -2,7 +2,8 @@
 
 **Objetivo principal:** Permite al usuario crear, configurar y personalizar dashboards interactivos mediante widgets, filtros y herramientas visuales para supervisión y análisis de datos industriales.
 
-
+## 📸 Mapeo de interfaz
+<img width="1228" height="552" alt="image" src="https://github.com/user-attachments/assets/e4e8de41-b228-44db-8580-a683074bb8e1" />
 
 ## 🧩 Despiece de elementos funcionales
 
