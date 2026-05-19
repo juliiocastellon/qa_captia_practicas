@@ -1,18 +1,18 @@
-# 🖥️ Formas SCADA
+# 🖥️ Avanzados
 
-**Objetivo Principal:** Permite al usuario insertar elementos gráficos de tipo SCADA con reglas visuales dinámicas para representar el estado y comportamiento de equipos o procesos industriales.
+**Objetivo Principal:** Permite al usuario insertar elementos de visualización avanzada para el análisis de series temporales complejas con doble eje Y y líneas de referencia configurables.
 
 ## 📸 Mapeo de Interfaz
 
-<img width="1171" height="282" alt="Captura de pantalla 2026-05-19 131002" src="https://github.com/user-attachments/assets/1b837d61-e28e-4730-befe-bbfc6173a7a5" />
+<img width="1092" height="311" alt="Captura de pantalla 2026-05-19 131745" src="https://github.com/user-attachments/assets/1c3c30c2-5dc5-49db-96f6-f41e9b2a0515" />
 
 ## 🧩 Despiece de Elementos Funcionales
 
 | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- |
-| Sección "Formas SCADA" (3.8) | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos gráficos de tipo SCADA disponibles. Muestra un contador (1) con el total de subelementos. |
-| Forma (3.8.1) | Elemento seleccionable | Inserta una forma con reglas visuales | Permite añadir un elemento gráfico SCADA cuyo aspecto visual (color, icono, estado) cambia dinámicamente en función de reglas configuradas, reflejando el estado real del proceso o equipo monitorizado. |
+| Sección "Avanzados" (3.9) | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de visualización avanzada disponibles. Muestra un contador (1) con el total de subelementos. |
+| Series Avanzadas (3.9.1) | Elemento seleccionable | Inserta un gráfico de series con doble eje Y y referencias | Permite representar múltiples series temporales en un mismo gráfico utilizando dos ejes Y independientes, ideal para comparar variables con unidades o rangos de valores distintos, y añadir líneas de referencia como umbrales o targets. |
 
 ## 💡 Guía de Uso (Generada por IA)
 
-La sección **Formas SCADA** pone a tu disposición un elemento gráfico especializado para la representación visual de procesos industriales. Al seleccionar **Forma** (3.8.1), podrás insertar un componente cuyo comportamiento visual —como el color o el icono mostrado— se adapta automáticamente en función de las reglas que definas, permitiéndote reflejar de un vistazo el estado operativo real de un equipo o proceso. Este tipo de elemento es especialmente útil en dashboards de supervisión y control donde la detección rápida de anomalías o cambios de estado es crítica. El contador (1) en la cabecera confirma el elemento disponible en esta sección, y puedes colapsar o expandir el bloque con la flecha de la derecha.
+La sección **Avanzados** está pensada para casos de análisis que requieren mayor potencia de visualización que los gráficos estándar. Con **Series Avanzadas** (3.9.1) puedes representar simultáneamente variables de naturaleza o escala diferente en un único gráfico, gracias al soporte de doble eje Y: por ejemplo, combinar temperatura y presión sin que ninguna serie quede distorsionada por la escala de la otra. Además, la posibilidad de añadir líneas de referencia te permite marcar visualmente umbrales críticos, objetivos de producción o valores de alerta directamente sobre el gráfico. El contador (1) en la cabecera indica el elemento disponible en esta sección, y puedes colapsar o expandir el bloque con la flecha de la derecha.
