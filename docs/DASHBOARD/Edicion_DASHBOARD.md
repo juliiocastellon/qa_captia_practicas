@@ -26,12 +26,12 @@
 | 15 | Selector de resolución | Selector | Cambia resolución | Permite modificar el formato o resolución de visualización del dashboard. |
 | 16 | Zoom del canvas | Herramienta de visualización | Ajusta zoom | Permite ampliar o reducir la escala de visualización del dashboard. |
 | 17 | Herramientas de ajuste visual | Toolbar | Ajustes rápidos | Incluye herramientas rápidas relacionadas con visualización y posicionamiento. |
-| 18 | Herramientas de interacción | Toolbar | Acciones rápidas | Permite activar acciones de interacción sobre widgets y elementos del canvas. |
-| 19 | Configuración de fondo | Herramienta visual | Cambia fondo | Permite modificar el fondo visual del dashboard. |
-| 20 | Herramientas de alineación | Toolbar | Alinear elementos | Permite organizar y alinear widgets dentro del área de trabajo. |
-| 21 | Herramientas de organización | Toolbar | Reorganizar widgets | Permite reorganizar automáticamente los widgets del dashboard. |
-| 22 | Herramientas de eliminación | Toolbar | Eliminar elementos | Permite eliminar widgets o elementos seleccionados del dashboard. |
-| 23 | Controles de redimensionamiento | Control visual | Ajusta tamaño | Permite modificar manualmente el tamaño de widgets y elementos visuales dentro del dashboard. |
+| 18 | Pantalla completa | Herramienta de visualización | Activar fullscreen | Permite expandir el canvas del dashboard a pantalla completa para facilitar la edición y visualización. |
+| 19 | Herramienta de bloqueo | Herramienta de edición | Bloquear elementos | Permite bloquear widgets o elementos del dashboard para evitar modificaciones accidentales durante la edición. |
+| 20 | Configuración de fondo | Herramienta visual | Cambiar fondo | Permite modificar el fondo visual del dashboard mediante colores, imágenes o configuraciones personalizadas. |
+| 21 | Herramientas de alineación | Toolbar | Alinear elementos | Permite organizar y alinear automáticamente los widgets dentro del canvas del dashboard. |
+| 22 | Herramienta de reorganización | Toolbar | Reorganizar widgets | Permite reorganizar automáticamente los widgets y componentes visuales dentro del dashboard. |
+| 23 | Herramienta de eliminación | Toolbar | Eliminar elementos | Permite eliminar widgets o elementos seleccionados del dashboard. |
 
 ## 💡 Guía de uso
 
