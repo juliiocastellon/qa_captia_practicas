@@ -20,6 +20,8 @@
 | 8 | Manufacturing Signal Board | Tabla de métricas | — | Presenta 9 indicadores clave con su valor en tiempo real. Los estados posibles son: valor numérico, "s/d" (sin datos disponibles) o "Sin MES" (sistema de gestión de producción no conectado). El contador "5 s/d" refleja cuántos indicadores están actualmente sin datos. |
 | 9 | Contexto y preparación | Panel informativo | Enlace "Configurar vigilancia" | Detalla los servicios conectados (API Backend, Firebase, Dashboard Adapter), la calidad de los datos disponibles y los gaps pendientes de conexión. Incluye el enlace "Configurar vigilancia" para ajustar qué monitoriza Captia. |
 | 10 | Siguientes mejores acciones | Carrusel de tarjetas | Varía por tarjeta | Presenta hasta 10 acciones recomendadas por la IA, ordenadas por prioridad. Cada tarjeta especifica el tipo de acción (PREPARAR, NAVEGAR o ANALIZAR), el nivel de prioridad (Alta, Media o Baja) y el motor de ejecución (Copilot o Navega). El contador "4 de 10" indica el total de acciones disponibles. |
+| 11 | Botón "?" (signo de interrogación) | CTA Secundario | Despliega panel en la misma vista | Muestra información técnica del layout actual: modo de operación, plantilla y rol aplicados (generic_home / ADMIN_TENANT), reglas activas (R3, events count), boosts activos (ordenación de KPIs) y origen del cálculo con timestamp. Orientado a perfiles técnicos y soporte. |
+| 12 | Botón "Vista clásica" | CTA Secundario | Navega al dashboard principal | Redirige al dashboard marcado como principal por el usuario. Si ningún dashboard o vista SCADA está marcado como principal, muestra una pantalla de configuración con el mensaje "Configura tu panel de inicio" y el botón "Seleccionar contenido de inicio". |
 
 
 ## 💡 Guía de uso 
