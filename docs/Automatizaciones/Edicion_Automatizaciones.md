@@ -32,3 +32,5 @@ El editor de automatizaciones permite construir workflows visuales mediante nodo
 Los paneles laterales permiten consultar información, estadísticas y triggers asociados al workflow. Además, la biblioteca de nodos organiza los distintos componentes disponibles por categorías para facilitar la construcción de automatizaciones complejas.
 
 Durante la edición, el sistema permite guardar cambios, duplicar workflows, deshacer acciones y ejecutar automatizaciones para validar su comportamiento antes de ponerlas en producción.
+
+[← Volver al índice](../README.md)
