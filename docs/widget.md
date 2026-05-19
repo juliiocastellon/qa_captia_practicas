@@ -3,15 +3,16 @@
 **Objetivo principal:** Permite al operador explorar, añadir y configurar los widgets disponibles para construir dashboards y vistas SCADA personalizadas.
 
 ## 📸 Mapeo de interfaz
-*(Añadir aquí la captura de pantalla de la vista)*
+
+<img width="517" height="775" alt="image" src="https://github.com/user-attachments/assets/4a96993e-6966-43d4-a39c-ccd69a48b0ea" />
 
 ## 🧩 Despiece de elementos funcionales
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Pestaña "Widgets" | Pestaña activa | Muestra el catálogo de widgets | Vista activa del panel lateral. Muestra todos los widgets disponibles organizados por categoría, listos para añadir al canvas. |
-| 2 | Pestaña "Propiedades" | Pestaña | Muestra propiedades del elemento seleccionado | Cambia la vista del panel lateral para mostrar las propiedades de configuración del widget actualmente seleccionado en el canvas. |
-| 3 | Widgets de Analytics | Grupo colapsable | Despliega/colapsa subcategorías | Agrupa todos los widgets de análisis de datos. Contiene 9 subcategorías con un total variable de widgets. Se puede arrastrar al canvas o hacer clic para añadir. |
+| 1 | Pestaña "Widgets" | Pestaña activa | Muestra el catálogo de widgets | Vista activa del panel lateral. Muestra todos los widgets disponibles organizados por categoría. |
+| 2 | Pestaña "Propiedades" | Pestaña | Muestra propiedades del elemento seleccionado | Cambia la vista del panel lateral para mostrar las propiedades de configuración del widget actualmente seleccionado. |
+| 3 | Widgets de Analytics | Grupo colapsable | Despliega/colapsa subcategorías | Agrupa todos los widgets de análisis de datos. Contiene 9 subcategorías con un total variable de widgets. |
 | 3.1 | Gráficos | Subcategoría | Despliega listado de widgets | Widgets de representación visual de datos. Contiene 9 widgets disponibles. |
 | 3.2 | Textos | Subcategoría | Despliega listado de widgets | Widgets de contenido textual. Contiene 2 widgets disponibles. |
 | 3.3 | Indicadores | Subcategoría | Despliega listado de widgets | Widgets para mostrar valores de indicadores y KPIs individuales. Contiene 5 widgets disponibles. |
