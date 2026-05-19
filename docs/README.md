@@ -3,6 +3,7 @@ widgets.md
 barra_lateral.md
 barra_superior.md
 SCADA.md
+Edicion_SCADA.md
 Dashboards.md
 Informes.md
 Automatizaciones.md
