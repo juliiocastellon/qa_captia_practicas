@@ -4,7 +4,7 @@
 
 ## 🧩 Despiece de elementos funcionales
 
-<img width="696" height="734" alt="image" src="https://github.com/user-attachments/assets/20d6f397-244f-4927-8396-b0d3b13af0fe" />
+<img width="696" height="734" alt="image" src="https://github.com/user-attachments/assets/dcd9b693-e0e0-48ac-89d5-90778f36241a" />
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
