@@ -17,8 +17,8 @@
 | 5 | Selector de modo | Control de estado | Cambia modo edición/ejecución | Permite alternar entre el modo de edición de la pantalla y el modo de ejecución/visualización operativa. |
 | 6 | Estado de guardado | Indicador de estado | — | Muestra el estado actual de persistencia de cambios realizados en la escena SCADA. |
 | 7 | Estado de conexión realtime | Indicador de estado | — | Indica el estado de conexión en tiempo real con los datos o servicios SCADA asociados a la pantalla. |
-| 8 | Herramientas rápidas de edición | Toolbar | Acciones rápidas | Incluye accesos rápidos relacionados con configuración, herramientas de diseño y acciones de edición avanzada. |
-| 9 | Botón de vista previa / ejecución | CTA Secundario | Ejecutar vista SCADA | Permite abrir una previsualización operativa de la escena SCADA en ejecución. |
+| 8 | Asistente IA | Herramienta IA | Abre asistente inteligente | Permite acceder al asistente de inteligencia artificial integrado para ayudar en tareas de diseño, configuración y automatización dentro del entorno SCADA. |
+| 9 | Botón de imagen de fondo | CTA Secundario | Configurar fondo de escena | Permite añadir, modificar o reemplazar la imagen de fondo utilizada en la escena SCADA actual. |
 | 10 | Botón "Guardar" | CTA Principal | Guarda cambios | Guarda los cambios realizados en la pantalla SCADA actual. |
 | 11 | Área de diseño SCADA | Canvas de edición | Edita escena | Espacio principal de trabajo donde se colocan, organizan y configuran los elementos visuales y widgets SCADA. |
 | 12 | Panel lateral de widgets y propiedades | Panel lateral | Configura elementos | Permite añadir widgets, componentes SCADA y modificar propiedades visuales o funcionales de los elementos seleccionados. |
