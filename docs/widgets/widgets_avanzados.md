@@ -4,7 +4,7 @@
 
 ## 📸 Mapeo de Interfaz
 
-<img width="1092" height="311" alt="Captura de pantalla 2026-05-19 131745" src="https://github.com/user-attachments/assets/768854c5-fe26-4f92-b83d-cb4f1e91dcae" />
+<img width="1171" height="282" alt="Captura de pantalla 2026-05-19 131002" src="https://github.com/user-attachments/assets/1b837d61-e28e-4730-befe-bbfc6173a7a5" />
 
 ## 🧩 Despiece de Elementos Funcionales
 
