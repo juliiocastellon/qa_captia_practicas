@@ -1,5 +1,5 @@
 # 🖥️ Barra Superior
-**Objetivo principal:** Permite al operario obtener de un vistazo el estado actual de la planta, identificar tareas y alarmas prioritarias y acceder a la siguiente acción recomendada por la IA.
+**Objetivo principal:** Permite al usuario acceder rápidamente a funciones globales de la plataforma, consultar el estado general de los servicios, identificar la sección actual de navegación y gestionar elementos relacionados con la sesión y las notificaciones.
 
 ## 📸 Mapeo de interfaz
 <img width="1143" height="97" alt="Captura de pantalla 2026-05-19 085723" src="https://github.com/user-attachments/assets/23e83df9-f693-41a3-aac9-2da8ef376f2d" />
