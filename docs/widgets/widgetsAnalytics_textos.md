@@ -17,3 +17,6 @@
 ## 💡 Guía de Uso (Generada por IA)
 
 En la sección **Textos** encontrarás dos tipos de elementos para incorporar contenido escrito en tu diseño. Si necesitas añadir un título o una nota estática, selecciona **Texto** (3.2.1), pensado para contenido fijo y sin formato complejo. Si en cambio tu contenido debe adaptarse dinámicamente —por ejemplo, mostrando el nombre del usuario o valores calculados—, utiliza **Texto Enriquecido** (3.2.2), que admite variables dinámicas. El número indicado en la cabecera de la sección (2) te muestra cuántos tipos de elementos de texto tienes disponibles; puedes colapsar o expandir este bloque en cualquier momento usando la flecha situada a la derecha.
+
+
+<sub>[← Volver al índice](../README.md)</sub>
