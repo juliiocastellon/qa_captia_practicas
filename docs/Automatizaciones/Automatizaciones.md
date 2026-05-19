@@ -2,7 +2,7 @@
 
 **Objetivo principal:** Permite al usuario visualizar, crear y gestionar workflows automáticos para ejecutar acciones, reglas y procesos industriales de forma automatizada dentro de la plataforma.
 
-
+## 📸 Mapeo de interfaz
 <img width="1227" height="586" alt="image" src="https://github.com/user-attachments/assets/2af60168-5d99-442a-8479-8fff80a05d84" />
 
 ## 🧩 Despiece de elementos funcionales
