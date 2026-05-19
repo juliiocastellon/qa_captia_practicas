@@ -22,3 +22,5 @@
 ## 💡 Guía de Uso (Generada por IA)
 
 La sección **Elementos SCADA – Básicos** reúne los seis componentes fundamentales para construir pantallas de supervisión y control interactivas. Para incorporar cualquier elemento a tu vista, arrástralo directamente al canvas o haz clic sobre él para añadirlo en la posición por defecto. Los elementos de lectura —**Indicador Lectura** (4.1.1) y **Piloto Redondo** (4.1.2)— te permiten monitorizar variables y estados en tiempo real, mientras que **Consigna** (4.1.3) y **Slider / Consigna** (4.1.6) habilitan la escritura y el envío de valores desde la propia pantalla. Completa tu diseño con **Panel de Estados** (4.1.5) para una supervisión compacta de múltiples señales, y utiliza **Botón de Navegación** (4.1.4) para conectar distintas vistas SCADA y ofrecer una experiencia de navegación fluida al operador.
+
+<sub>[← Volver al índice](../README.md)</sub>
