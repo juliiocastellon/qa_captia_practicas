@@ -21,3 +21,5 @@
 La sección de Calendario permite organizar y supervisar temporalmente eventos, tareas y procesos programados dentro de la plataforma. Desde la parte superior puedes navegar entre distintos periodos de tiempo y filtrar únicamente los tipos de eventos que deseas visualizar.
 
 El calendario puede mostrarse en diferentes formatos, como vista mensual, semanal, diaria o agenda, facilitando la planificación operativa según el nivel de detalle necesario. Además, es posible crear nuevos eventos rápidamente y consultar la leyenda visual para interpretar correctamente los colores y categorías mostrados.
+
+[← Volver al índice](../README.md)
