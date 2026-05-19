@@ -10,8 +10,8 @@
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Toggle panel lateral | Toggle | Mostrar/ocultar panel | Permite expandir o contraer el panel lateral de widgets y herramientas. |
-| 2 | Navegación de retorno | CTA Secundario | Volver a dashboards | Permite regresar al listado general de dashboards. |
-| 3 | Nombre del dashboard | Información editable | Renombrar dashboard | Muestra el nombre actual del dashboard y permite identificar el panel abierto. |
+| 2 | Toggle navegación lateral | Toggle | Mostrar/ocultar navegación | Permite expandir o contraer la barra lateral principal de navegación de la plataforma. |
+| 3 | Navegación y nombre del dashboard | Navegación contextual | Volver a dashboards | Muestra el nombre del dashboard actualmente abierto y permite regresar al listado general de dashboards. |
 | 4 | Selector temporal | Filtro | Cambia rango temporal | Permite seleccionar el periodo temporal de visualización de datos. |
 | 5 | Filtro de planta | Filtro desplegable | Filtra por planta | Permite seleccionar la planta o instalación sobre la que se mostrarán los datos. |
 | 6 | Filtro de zona | Filtro desplegable | Filtra por zona | Permite filtrar los datos según zonas o áreas específicas de la instalación. |
