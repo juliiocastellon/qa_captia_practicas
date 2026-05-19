@@ -25,3 +25,5 @@
 ## 💡 Guía de Uso (Generada por IA)
 
 La pantalla **Maintenance KPIs** proporciona una visión centralizada de los indicadores clave de mantenimiento y fiabilidad de los equipos industriales. Desde esta vista, el usuario puede acceder rápidamente a métricas relacionadas con disponibilidad, tiempos medios entre fallos (MTBF), tiempos de reparación (MTTR), incidencias registradas y paradas no planificadas. Además, incorpora gráficos analíticos para estudiar la frecuencia de fallos y el desglose de tiempos de parada, facilitando la identificación de problemas recurrentes y la optimización de tareas de mantenimiento preventivo y correctivo.
+
+<sub>[← Volver al índice](../README.md)</sub>
