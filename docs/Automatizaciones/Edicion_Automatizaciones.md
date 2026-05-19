@@ -20,6 +20,7 @@
 | 9 | Botón guardar workflow | CTA Principal | Guarda cambios | Permite guardar los cambios realizados en el workflow o automatización actual. |
 | 10 | Botón de logs de ejecución | CTA Secundario | Ver logs | Permite acceder al historial y registros de ejecución del workflow actual para supervisión y depuración. |
 | 11 | Atajos de teclado | Panel contextual | Ver atajos | Permite visualizar los atajos de teclado disponibles para agilizar la edición y navegación dentro del editor de automatizaciones. || 12 | Categoría "Nodos del workflow" | Categoría de biblioteca | Mostrar nodos | Permite visualizar los nodos estándar disponibles para construir workflows automáticos dentro del canvas. |
+| 12 | Categoría "Nodos del workflow" | Categoría de biblioteca | Mostrar nodos | Permite visualizar los nodos estándar disponibles para construir workflows automáticos dentro del canvas. |
 | 13 | Categoría "Catálogo UDT" | Categoría de biblioteca | Mostrar catálogo UDT | Permite acceder a nodos y elementos basados en definiciones UDT disponibles para automatizaciones avanzadas. |
 | 14 | Categorías de nodos | Listado de categorías | Filtrar nodos | Organiza los nodos disponibles por categorías funcionales como triggers, acciones, variables o monitorización. |
 | 15 | Canvas del workflow | Área de trabajo | Edita automatización | Espacio principal donde se crean, conectan y organizan los nodos visuales del workflow automático. |
