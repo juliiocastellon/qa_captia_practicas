@@ -1,1 +1,14 @@
-
+pagina_inicio.md
+widgets.md
+barra_lateral.md
+barra_superior.md
+SCADA.md
+Dashboards.md
+Informes.md
+Automatizaciones.md
+Tareas.md
+Calendario.md
+Alarmas.md
+Variables.md
+Auditoria.md
+Cuenta.md
