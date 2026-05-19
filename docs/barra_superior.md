@@ -1,11 +1,11 @@
-🖥️ Página de inicio
-Objetivo principal: Permite al operario obtener de un vistazo el estado actual de la planta, identificar tareas y alarmas prioritarias y acceder a la siguiente acción recomendada por la IA.
+# 🖥️ Barra Superior
+**Objetivo principal:** Permite al operario obtener de un vistazo el estado actual de la planta, identificar tareas y alarmas prioritarias y acceder a la siguiente acción recomendada por la IA.
 
-📸 Mapeo de interfaz
+## 📸 Mapeo de interfaz
 <img width="1143" height="97" alt="Captura de pantalla 2026-05-19 085723" src="https://github.com/user-attachments/assets/23e83df9-f693-41a3-aac9-2da8ef376f2d" />
 
 Texto
-🧩 Despiece de elementos funcionales
+## 🧩 Despiece de elementos funcionales
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Nombre de plataforma / entorno | Información | — | Muestra el nombre de la plataforma y el entorno activo de trabajo visible para el usuario. |
@@ -15,5 +15,5 @@ Texto
 | 5 | Menú de usuario | Menú desplegable | Abre opciones de cuenta | Muestra accesos relacionados con la sesión del usuario, configuración personal y cierre de sesión. |
 | 6 | Indicador de pantalla actual | Navegación contextual | — | Indica en qué sección de la plataforma se encuentra actualmente el usuario (Inicio, Dashboards, Informes, SCADA, etc.), facilitando la orientación y el contexto de navegación. |
 
-💡 Guía de uso
+# 💡 Guía de uso
 La barra superior proporciona acceso rápido a funciones globales de la plataforma. Desde ella el usuario puede identificar la sección actual en la que se encuentra, consultar el estado general de los servicios, acceder a notificaciones, gestionar su sesión y activar o desactivar el carrusel automático de dashboards.
