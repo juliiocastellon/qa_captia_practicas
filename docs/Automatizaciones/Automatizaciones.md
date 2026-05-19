@@ -24,3 +24,5 @@
 La sección de Automatizaciones centraliza todos los workflows y reglas automáticas configuradas dentro de la plataforma. Desde esta vista puedes buscar automatizaciones concretas, filtrarlas por estado o tipo y consultar rápidamente el estado de ejecución de cada una.
 
 Cada tarjeta representa un workflow independiente e incluye información relevante como triggers configurados, fecha de última ejecución y estado operativo. Desde esta sección también es posible consultar logs de ejecución, seleccionar múltiples workflows para gestión masiva y crear nuevas automatizaciones adaptadas a distintos procesos industriales.
+
+[← Volver al índice](../README.md)
