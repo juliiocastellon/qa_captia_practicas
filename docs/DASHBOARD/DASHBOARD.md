@@ -20,3 +20,5 @@
 La vista Dashboards centraliza todos los paneles de control disponibles dentro de la plataforma. Desde esta sección puedes buscar dashboards concretos, ordenar el contenido según distintos criterios y consultar rápidamente cuántos dashboards existen actualmente.
 
 Cada tarjeta representa un dashboard independiente y muestra información resumida sobre su contenido y última actividad. Desde aquí puedes acceder directamente a un dashboard existente o crear nuevos paneles de visualización para supervisar indicadores, métricas y datos industriales en tiempo real.
+
+<sub>[← Volver al índice](../README.md)</sub>
