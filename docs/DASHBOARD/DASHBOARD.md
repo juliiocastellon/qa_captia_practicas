@@ -2,6 +2,9 @@
 
 **Objetivo principal:** Permite al usuario visualizar, organizar y acceder rápidamente a dashboards de monitorización y análisis, facilitando el seguimiento visual de indicadores, widgets y datos industriales en tiempo real.
 
+## 📸 Mapeo de interfaz
+<img width="1228" height="633" alt="image" src="https://github.com/user-attachments/assets/6e950a36-4d70-4dca-862f-9d555c3cfa37" />
+
 ## 🧩 Despiece de elementos funcionales
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
