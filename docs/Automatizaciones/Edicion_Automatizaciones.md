@@ -15,8 +15,8 @@
 | 4 | Gestión de pestañas de workflows | Navegación por pestañas | Cambiar workflow | Permite alternar entre distintos workflows abiertos y crear nuevas pestañas de edición. |
 | 5 | Cabecera del workflow | Navegación contextual | Identifica workflow | Muestra el nombre, estado y tipo del workflow actualmente abierto. |
 | 6 | Controles de deshacer y rehacer | Herramienta de edición | Deshacer/Rehacer acciones | Permite revertir o restaurar cambios realizados durante la edición del workflow. |
-| 7 | Herramienta de duplicado | Herramienta de edición | Duplicar workflow | Permite crear una copia del workflow actual. |
-| 8 | Botón guardar workflow | CTA Principal | Guarda cambios | Guarda los cambios realizados en la automatización actual. |
+| 7 | Herramienta de copiar selección | Herramienta de edición | Copiar nodos | Permite copiar los nodos o elementos seleccionados dentro del workflow actual. |
+| 8 | Herramienta de pegar | Herramienta de edición | Pegar nodos | Permite pegar nodos o elementos previamente copiados dentro del canvas del workflow. |
 | 9 | Selector de modo | Selector de vista | Cambiar modo | Permite alternar entre distintos modos de visualización o edición del workflow. |
 | 10 | Botón de ejecución / despliegue | CTA Secundario | Ejecutar workflow | Permite lanzar o desplegar el workflow configurado. |
 | 11 | Variables del workflow | Panel contextual | Gestionar variables | Permite visualizar y gestionar variables utilizadas dentro de la automatización. |
