@@ -37,8 +37,8 @@
 
 El editor de dashboards permite construir paneles visuales personalizados mediante widgets y filtros dinámicos. Desde la barra superior puedes configurar el contexto de visualización, incluyendo planta, zona, agregación temporal y rango horario.
 
-<sub>[← Volver al índice](../README.md)</sub>
-
 El área central funciona como un canvas interactivo donde se añaden y organizan widgets visuales. Los elementos pueden redimensionarse, alinearse y reorganizarse libremente para adaptar el dashboard a las necesidades operativas.
 
 Las herramientas inferiores permiten controlar el zoom, resolución, fondo y organización visual del panel. El sistema muestra continuamente el estado de guardado para indicar si existen cambios pendientes antes de publicar o abandonar el dashboard.
+
+<sub>[← Volver al índice](../README.md)</sub>
