@@ -17,8 +17,8 @@
 | 6 | Controles de deshacer y rehacer | Herramienta de edición | Deshacer/Rehacer acciones | Permite revertir o restaurar cambios realizados durante la edición del workflow. |
 | 7 | Herramienta de copiar selección | Herramienta de edición | Copiar nodos | Permite copiar los nodos o elementos seleccionados dentro del workflow actual. |
 | 8 | Herramienta de pegar | Herramienta de edición | Pegar nodos | Permite pegar nodos o elementos previamente copiados dentro del canvas del workflow. |
-| 9 | Selector de modo | Selector de vista | Cambiar modo | Permite alternar entre distintos modos de visualización o edición del workflow. |
-| 10 | Botón de ejecución / despliegue | CTA Secundario | Ejecutar workflow | Permite lanzar o desplegar el workflow configurado. |
+| 9 | Botón guardar workflow | CTA Principal | Guarda cambios | Permite guardar los cambios realizados en el workflow o automatización actual. |
+| 10 | Botón de logs de ejecución | CTA Secundario | Ver logs | Permite acceder al historial y registros de ejecución del workflow actual para supervisión y depuración. |
 | 11 | Variables del workflow | Panel contextual | Gestionar variables | Permite visualizar y gestionar variables utilizadas dentro de la automatización. |
 | 12 | Categoría "Nodos del workflow" | Categoría de biblioteca | Mostrar nodos | Permite visualizar los nodos estándar disponibles para construir workflows automáticos dentro del canvas. |
 | 13 | Categoría "Catálogo UDT" | Categoría de biblioteca | Mostrar catálogo UDT | Permite acceder a nodos y elementos basados en definiciones UDT disponibles para automatizaciones avanzadas. |
