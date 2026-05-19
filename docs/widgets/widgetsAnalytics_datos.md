@@ -4,7 +4,7 @@
 
 ## 📸 Mapeo de Interfaz
 
-*(Sección 3.6 – Captura de la vista "Datos" con sus dos subsecciones expandidas)*
+<img width="1107" height="372" alt="Captura de pantalla 2026-05-19 125533" src="https://github.com/user-attachments/assets/74a0af32-ae2c-47ab-94b9-1389c0a68b5f" />
 
 ## 🧩 Despiece de Elementos Funcionales
 
