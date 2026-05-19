@@ -16,3 +16,5 @@
 
 # 💡 Guía de uso
 La barra superior proporciona acceso rápido a funciones globales de la plataforma. Desde ella el usuario puede identificar la sección actual en la que se encuentra, consultar el estado general de los servicios, acceder a notificaciones, gestionar su sesión y activar o desactivar el carrusel automático de dashboards.
+
+<sub>[← Volver al índice](../README.md)</sub>
