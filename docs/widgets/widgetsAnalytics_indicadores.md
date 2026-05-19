@@ -20,3 +20,5 @@
 ## 💡 Guía de Uso 
 
 En la sección **Indicadores** dispones de cinco elementos para visualizar el rendimiento y seguimiento de tus métricas. Para mostrar un valor puntual y directo, utiliza **KPI** (3.3.1); si ese valor debe calcularse a partir de una fórmula propia, opta por **KPI Calculado** (3.3.2). Cuando necesites representar el progreso hacia un objetivo de forma visual, puedes elegir entre **Gauge Radial** (3.3.3), con formato circular, o **Gauge** (3.3.4), con formato de velocímetro. Por último, si quieres presentar varias métricas de forma compacta y comparativa en un mismo espacio, selecciona **Grupo de KPIs** (3.3.5). El contador (5) en la cabecera de la sección te indica el total de elementos disponibles, y puedes colapsar o expandir el bloque en cualquier momento usando la flecha de la derecha.
+
+<sub>[← Volver al índice](../README.md)</sub>
