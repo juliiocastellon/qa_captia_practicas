@@ -21,7 +21,7 @@
 | 9 | Botón de imagen de fondo | CTA Secundario | Configurar fondo de escena | Permite añadir, modificar o reemplazar la imagen de fondo utilizada en la escena SCADA actual. |
 | 10 | Botón "Guardar" | CTA Principal | Guarda cambios | Guarda los cambios realizados en la pantalla SCADA actual. |
 | 11 | Área de diseño SCADA | Canvas de edición | Edita escena | Espacio principal de trabajo donde se colocan, organizan y configuran los elementos visuales y widgets SCADA. |
-| 12 | Panel lateral de widgets y propiedades | Panel lateral | Configura elementos | Permite añadir widgets, componentes SCADA y modificar propiedades visuales o funcionales de los elementos seleccionados. |
+| 12 | Toggle panel de widgets | Toggle | Mostrar/ocultar panel lateral | Permite abrir o cerrar el panel lateral de widgets y propiedades para maximizar el área de trabajo del editor SCADA. |
 
 ## 💡 Guía de uso
 
