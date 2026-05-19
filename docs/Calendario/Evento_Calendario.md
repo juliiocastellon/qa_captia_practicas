@@ -2,6 +2,9 @@
 
 **Objetivo principal:** Permite al usuario crear y programar eventos dentro del calendario, definiendo tipo, categoría, fechas, responsables y contexto operativo asociado.
 
+## 📸 Mapeo de interfaz
+<img width="357" height="791" alt="image" src="https://github.com/user-attachments/assets/2157be83-2e06-44f3-a50d-b22fa0a6bef3" />
+
 ## 🧩 Despiece de elementos funcionales
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
