@@ -1,5 +1,6 @@
 - `pagina_inicio.md` 
-- `widgets.md` 
+- `widgets`
+    -`hola` 
 - `barra_lateral.md`
 - `barra_superior.md`
 - `SCADA.md`
