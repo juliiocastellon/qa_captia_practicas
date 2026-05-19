@@ -3,7 +3,7 @@
 **Objetivo principal:** Permite al usuario visualizar y organizar eventos, tareas, workflows y mantenimientos programados dentro de un calendario interactivo para facilitar la planificación operativa y el seguimiento temporal de actividades.
 
 ## 📸 Mapeo de interfaz
-<img width="1223" height="580" alt="image" src="https://github.com/user-attachments/assets/b751dffa-d883-4459-81da-55177c3bb4f4" />
+<img width="1225" height="573" alt="image" src="https://github.com/user-attachments/assets/e051c0e2-a622-4122-ab1d-f6e268d5f972" />
 
 ## 🧩 Despiece de elementos funcionales
 
