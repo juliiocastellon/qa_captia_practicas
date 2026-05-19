@@ -16,6 +16,8 @@
 - [Widgets maintenance KPIS](./widgets/widgetsAnalytics_maintenance_KPIS.md)
 - [Widgets manufacturing KPIS](./widgets/widgetsAnalytics_manufacturing_KPIS.md)
 - [Widgets textos](./widgets/widgetsAnalytics_textos.md)
+- [Widgets Alarmas](./widgets/widgetsScada_alarmas.md)
+- [Widgets Basicos](./widgets/widgetsScada_basicos.md)
 
 ## SCADA
 - [SCADA](./SCADA/SCADA.md)
