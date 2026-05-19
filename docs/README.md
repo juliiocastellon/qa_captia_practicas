@@ -1,24 +1,24 @@
 # 📚 Índice de documentación CAPTIA.ai
 
 ## Base
-- [Página inicio](./pagina_inicio.md)
-- [Barra superior](./barra_superior.md)
-- [Barra lateral](./barra_lateral.md)
+- Página_inicio.md
+- Barra_superior.md
+- Barra_lateral.md
 
 ## Widgets
-- [Widgets](./widgets/widget.md)
+- Widgets.md
 
 ## SCADA
-- [SCADA](./SCADA/SCADA.md)
-- [Edición SCADA](./SCADA/Edicion_SCADA.md)
+- SCADA.md
+- Edición_SCADA.md
 
 ## Otros módulos
-- [Dashboards](./Dashboards.md)
-- [Informes](./Informes.md)
-- [Automatizaciones](./Automatizaciones.md)
-- [Tareas](./Tareas.md)
-- [Calendario](./Calendario.md)
-- [Alarmas](./Alarmas.md)
-- [Variables](./Variables.md)
-- [Auditoría](./Auditoria.md)
-- [Cuenta](./Cuenta.md)
+- Dashboards.md
+- Informes.md
+- Automatizaciones.md
+- Tareas.md
+- Calendario.md
+- Alarmas.md
+- Variables.md
+- Auditoría.md
+- Cuenta.md
