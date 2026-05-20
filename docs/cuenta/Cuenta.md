@@ -27,4 +27,4 @@ El panel de recursos permite supervisar el uso actual del plan contratado, inclu
 
 El asistente CAPTIA ofrece recomendaciones inteligentes y ayuda contextual relacionada con la configuración de la cuenta y la optimización de recursos dentro de la plataforma.
 
-<sub>[← Volver al índice](../README.md)</sub>
+[← Anterior](../Auditoria/Auditoria.md) • [📚 Índice](../README.md)
