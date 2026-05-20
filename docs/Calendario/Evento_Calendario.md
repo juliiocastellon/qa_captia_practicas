@@ -26,4 +26,4 @@ La ventana de creación de eventos permite programar actividades, mantenimientos
 
 Posteriormente, puedes seleccionar el tipo y categoría del evento, establecer las fechas y horas correspondientes y asociarlo a usuarios, plantas, zonas o máquinas específicas. También es posible configurar recordatorios automáticos para asegurar el seguimiento adecuado de la actividad programada.
 
-<sub>[← Volver al índice](../README.md)</sub>
+[← Anterior](./Calendario.md) • [📚 Índice](../README.md) • [Siguiente →](../Variables/Variables.md)
