@@ -21,4 +21,4 @@ La vista Dashboards centraliza todos los paneles de control disponibles dentro d
 
 Cada tarjeta representa un dashboard independiente y muestra información resumida sobre su contenido y última actividad. Desde aquí puedes acceder directamente a un dashboard existente o crear nuevos paneles de visualización para supervisar indicadores, métricas y datos industriales en tiempo real.
 
-<sub>[← Volver al índice](../README.md)</sub>
+[← Anterior](../SCADA/Edicion_SCADA.md) • [📚 Índice](../README.md) • [Siguiente →](./Edicion_DASHBOARD.md)
