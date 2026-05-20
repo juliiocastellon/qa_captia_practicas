@@ -18,6 +18,6 @@
 | 6 | Pestaña "Auditoría" | Tab | Navega al registro de auditoría de alarmas | Presenta el historial de acciones realizadas sobre las alarmas, incluyendo cambios de estado, asignaciones y resoluciones. |
 | 7 | Pestaña "Monitores" | Tab | Navega a la gestión de monitores de alarma | Permite configurar y supervisar los monitores encargados de la detección continua de condiciones de alarma. |
 
-## 💡 Guía de Uso (Generada por IA)
+## 💡 Guía de Uso
 
 La sección **Alarmas** de Captia.ai se organiza en siete pestañas que cubren todo el ciclo de vida de las alarmas industriales. Comienza por **Overview** (1) para obtener una visión global del estado actual del sistema de alarmas, y utiliza **Timeline** (2) para explorar su evolución temporal. Si necesitas definir o modificar las condiciones que disparan las alarmas, accede a **Reglas** (3); para detectar patrones y relaciones entre eventos, dirígete a **Correlación** (4). Las pestañas **KPIs** (5) y **Auditoría** (6) te permiten evaluar el rendimiento de la gestión de alarmas y consultar el historial de acciones realizadas, mientras que **Monitores** (7) te ofrece control sobre los agentes de detección continua del sistema.
