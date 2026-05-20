@@ -8,19 +8,18 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- |
-| Maintenance KPIs | Categoría / Contenedor | Expande o colapsa el listado | Agrupa todos los widgets y métricas relacionadas con mantenimiento industrial. |
-| Availability | Widget KPI | Navega al detalle de disponibilidad | Muestra la disponibilidad operativa del equipo respecto al tiempo total planificado. |
-| MTBF | KPI Temporal | Navega al detalle de fiabilidad | Presenta el tiempo medio entre fallos (Mean Time Between Failures). |
-| MTTR | KPI Temporal | Navega al detalle de reparación | Muestra el tiempo medio necesario para reparar incidencias (Mean Time To Repair). |
-| Fault Events | Contador KPI | Navega al detalle de fallos | Indica el número total de eventos de fallo registrados en los equipos. |
-| Unplanned Downtime | KPI Temporal | Navega al detalle de paradas | Permite visualizar el tiempo de parada no planificada. |
-| Setup Time | KPI Operacional | Navega al detalle de preparación | Muestra el tiempo empleado en preparación, configuración o cambios de producción. |
-| Fault Events per Hour | Gráfico de barras | Navega al análisis horario | Representa la cantidad de eventos de fallo registrados por hora. |
-| Downtime Breakdown | Gráfico stacked | Navega al desglose de paradas | Visualiza la distribución de tiempos de parada clasificados por tipo o causa. |
-| Contador lateral “8” | Indicador numérico | Informativo | Indica la cantidad total de widgets o elementos disponibles en la categoría. |
-| Flecha desplegable | Control expandible | Expande/colapsa sección | Permite mostrar u ocultar los KPIs contenidos en Maintenance KPIs. |
+| # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
+| :--- | :--- | :--- | :--- | :--- |
+| 3.5 | Maintenance KPIs | Categoría / Contenedor | Expande o colapsa el listado | Agrupa todos los widgets y métricas relacionadas con mantenimiento industrial. |
+| 3.5.1 | Availability | Widget KPI | Navega al detalle de disponibilidad | Muestra la disponibilidad operativa del equipo respecto al tiempo total planificado. |
+| 3.5.2 | MTBF | KPI Temporal | Navega al detalle de fiabilidad | Presenta el tiempo medio entre fallos (Mean Time Between Failures). |
+| 3.5.3 | MTTR | KPI Temporal | Navega al detalle de reparación | Muestra el tiempo medio necesario para reparar incidencias (Mean Time To Repair). |
+| 3.5.4 | Fault Events | Contador KPI | Navega al detalle de fallos | Indica el número total de eventos de fallo registrados en los equipos. |
+| 3.5.5 | Unplanned Downtime | KPI Temporal | Navega al detalle de paradas | Permite visualizar el tiempo de parada no planificada. |
+| 3.5.6 | Setup Time | KPI Operacional | Navega al detalle de preparación | Muestra el tiempo empleado en preparación, configuración o cambios de producción. |
+| 3.5.7 | Fault Events per Hour | Gráfico de barras | Navega al análisis horario | Representa la cantidad de eventos de fallo registrados por hora. |
+| 3.5.8 | Downtime Breakdown | Gráfico stacked | Navega al desglose de paradas | Visualiza la distribución de tiempos de parada clasificados por tipo o causa. |
+
 
 ## 💡 Guía de Uso (Generada por IA)
 
