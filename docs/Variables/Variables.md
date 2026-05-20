@@ -2,6 +2,10 @@
 
 **Objetivo principal:** Permite al usuario visualizar, gestionar y filtrar las variables y señales disponibles dentro de la plataforma para su utilización en dashboards, automatizaciones, SCADA e informes.
 
+## 📸 Mapeo de interfaz
+<img width="1227" height="587" alt="image" src="https://github.com/user-attachments/assets/004a0449-d94e-44d0-a73d-19e7ba72bf30" />
+
+
 ## 🧩 Despiece de elementos funcionales
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
