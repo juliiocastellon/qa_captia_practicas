@@ -2,6 +2,10 @@
 
 **Objetivo principal:** Permite al usuario gestionar la información de su organización, usuarios, permisos, recursos contratados y configuraciones generales relacionadas con la cuenta de la plataforma.
 
+## 📸 Mapeo de interfaz
+
+<img width="1220" height="583" alt="image" src="https://github.com/user-attachments/assets/271102b1-71d9-4aa9-9f6f-0b0e3b2a413a" />
+
 ## 🧩 Despiece de elementos funcionales
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
