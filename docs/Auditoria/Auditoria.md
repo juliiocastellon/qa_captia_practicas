@@ -25,3 +25,5 @@ La sección de Auditoría permite supervisar toda la actividad registrada dentro
 Desde la parte superior puedes aplicar filtros por fecha, usuario, acción, recurso o resultado para localizar rápidamente eventos específicos. La tabla principal muestra información detallada de cada registro, incluyendo quién realizó la acción, sobre qué recurso se ejecutó y cuál fue el resultado obtenido.
 
 Esta sección resulta especialmente útil para tareas de supervisión, trazabilidad, seguridad y análisis operativo dentro del entorno industrial.
+
+<sub>[← Volver al índice](../README.md)</sub>
