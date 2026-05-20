@@ -29,4 +29,11 @@
 
 La página de inicio es tu centro de control al comenzar cada turno. En cuanto accedas, la IA analizará automáticamente el estado de la instalación y te mostrará un resumen con las alarmas activas, tareas vencidas y la acción más urgente a tomar. Desde el Radar de atención y el Manufacturing Signal Board podrás ver de un vistazo qué dominios e indicadores requieren tu atención, identificando fácilmente qué tiene datos disponibles y qué está pendiente de conexión. Si necesitas profundizar, las tarjetas de "Siguientes mejores acciones" te guiarán paso a paso hacia la siguiente tarea prioritaria, ya sea preparando un informe, navegando a una sección o lanzando un análisis con Copilot.
 
+Code snippet
+graph TD;
+    A[Pantalla Login] --> B{¿Credenciales Correctas?};
+    B -- Sí --> C[Panel de Control Principal];
+    B -- No --> D[Notificación de Error 401];
+
+
 [Siguiente →](./barra_superior.md)
