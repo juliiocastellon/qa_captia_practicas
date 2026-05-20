@@ -102,15 +102,15 @@ Migracion de informes a konva
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
+- **Observaciones:** No se ha detectado ningún error que afecte al correcto funcionamiento de la funcionalidad de informes durante las pruebas realizadas.
 - **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
@@ -155,16 +155,16 @@ Modal de chackra
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** El problema ha sido corregido en todos los apartados revisados. Como excepción, en SCADA no aparece actualmente una alerta de confirmación al eliminar un widget.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -208,16 +208,16 @@ Debe funcionar informes sin problema
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** El apartado de informes funciona correctamente y no se han detectado incidencias durante las pruebas realizadas.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -254,7 +254,7 @@ El QA tester debe poder duplicar reglas y modificar solo lo necesario. La variab
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
@@ -298,16 +298,16 @@ Investigar la exportacion de las reglas para poder extraerlas de un SCADA y llev
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** La funcionalidad de exportación e importación de reglas de coloración dinámica funciona correctamente y no se han detectado errores durante las pruebas realizadas.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -364,16 +364,16 @@ El selector de la variable debe ser externalizado del modal actual, igual que en
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** Las variables pueden modificarse y eliminarse sin afectar al resto de reglas configuradas. Las reglas permanecen almacenadas correctamente, aunque dejan de aplicarse al no disponer de una variable asociada sobre la que operar.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -417,16 +417,16 @@ Cambiar la configuración de este widget en las aulas necesarias
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [x] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** No tengo acceso a este tenant.
+- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [x] necesita aclaración
 
 ---
 
@@ -482,16 +482,16 @@ No debería dar error
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [x] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** No tengo acceso a este tenant.
+- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [x] necesita aclaración
 
 ---
 
@@ -546,16 +546,16 @@ Peticion que envia el boton Revocar acceso:
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** El usuario se revoca correctamente y el contador de usuarios se actualiza de forma adecuada, incrementándose al crear un usuario y disminuyendo al eliminarlo.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -588,16 +588,16 @@ El workflow importado debe poder configurarse con variables del tenant destino, 
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** El workflow puede exportarse e importarse correctamente entre distintos workflows y tenants sin presentar errores durante el proceso.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -629,16 +629,16 @@ La imagen de fondo debe cargar con la resolución y proporción correctas desde 
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** El fondo se carga correctamente y, tras recargar la página de forma consecutiva, mantiene tanto la resolución como el tamaño original sin presentar alteraciones visuales.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -688,16 +688,16 @@ La libreria chackra UI debe estar bien implantada en la pantalla
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** El error relacionado con el límite de usuarios ya no aparece. Además, todos los botones se encuentran correctamente alineados y mantienen un estilo visual consistente dentro de la interfaz.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -733,7 +733,7 @@ Las tarjetas KPI deben mostrar datos correctos y mantener un comportamiento esta
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
@@ -770,16 +770,16 @@ El menú derecho debe ser usable, claro y no romper la configuración de widgets
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** La creación de nuevas tarjetas KPI funciona correctamente y, tras recargar la página, los valores permanecen correctamente configurados y visibles sin presentar inconsistencias.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -811,16 +811,16 @@ Todos los objetos deben mostrarse correctamente en la primera carga.
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [x] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** Al cargar la página de SCADA por primera vez, algunos elementos informativos no se renderizan correctamente de forma inicial, mostrando inconsistencias visuales o carga incompleta hasta refrescar la vista.
+- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [x] necesita aclaración
 
 ---
 
