@@ -29,3 +29,5 @@
 ## 💡 Guía de Uso (Generada por IA)
 
 El **menú de navegación lateral** de Captia.ai es el punto de acceso central a todas las funcionalidades de la plataforma. Desde aquí puedes moverte entre las secciones principales —**SCADA**, **Dashboards**, **Informes**, **Automatizaciones**, **Tareas**, **Calendario**, **Alarmas** y **Variables**— con un solo clic sobre el ítem correspondiente, que se resaltará en verde para indicar la sección activa. En la parte inferior encontrarás las opciones de administración **Auditoría** y **Cuenta**, así como el interruptor global **ON/OFF** (12) que controla el estado operativo de la sesión. Si necesitas ampliar el espacio de trabajo, utiliza el botón de colapsar situado en la cabecera del menú para reducirlo a una barra de iconos.
+
+<sub>[← Volver al índice](../README.md)</sub>
