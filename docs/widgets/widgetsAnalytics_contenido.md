@@ -8,10 +8,11 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- |
-| Sección "Contenido" (3.7) | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de contenido contextual disponibles. Muestra un contador (1) con el total de subelementos. |
-| Tiempo meteorológico (3.7.1) | Elemento seleccionable | Inserta un widget de tiempo actual y pronóstico | Muestra las condiciones meteorológicas en tiempo real y la previsión para una ubicación configurada, útil para dashboards con operaciones sensibles a las condiciones climáticas. |
+| # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
+| :--- | :--- | :--- | :--- | :--- |
+| 3.7 | Sección "Contenido" | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de contenido contextual disponibles. Muestra un contador (1) con el total de subelementos. |
+| 3.7.1 | Tiempo meteorológico | Elemento seleccionable | Inserta un widget de tiempo actual y pronóstico | Muestra las condiciones meteorológicas en tiempo real y la previsión para una ubicación configurada, útil para entornos operativos sensibles a las condiciones climáticas. |
+
 
 ## 💡 Guía de Uso (Generada por IA)
 
