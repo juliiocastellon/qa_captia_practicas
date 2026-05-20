@@ -23,4 +23,4 @@ La vista SCADA centraliza todas las pantallas disponibles dentro de la instalaci
 
 Cada tarjeta representa una pantalla SCADA independiente y muestra información resumida sobre su contenido y última actividad. Desde aquí puedes acceder directamente a una pantalla existente, importar configuraciones externas o crear nuevas pantallas para supervisar procesos, sensores o instalaciones en tiempo real.
 
-<sub>[← Volver al índice](../README.md)</sub>
+[← Anterior](../widgets/widgetsScada_basicos.md) • [📚 Índice](../README.md) • [Siguiente →](./Edicion_SCADA.md)
