@@ -28,3 +28,5 @@
 La sección de Variables centraliza todas las señales y variables disponibles dentro de la plataforma. Desde esta vista puedes buscar variables concretas, filtrarlas por estado, categoría, origen o fábrica y consultar rápidamente información técnica relevante.
 
 La tabla principal muestra datos detallados de cada variable, incluyendo nombre técnico, unidad, tipo, categoría y estado operativo. Además, es posible sincronizar señales externas, crear nuevas variables y alternar entre una vista general y una vista realtime para supervisar cambios en tiempo real.
+
+[← Anterior](../Calendario/Evento_Calendario.md) • [📚 Índice](../README.md) • [Siguiente →](./Crear_variable.md)
