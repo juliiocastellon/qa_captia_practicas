@@ -21,6 +21,6 @@
 | 9 | Sección "Incidentes Principales" | Listado informativo | — | Muestra los incidentes activos de mayor relevancia. En el estado actual no hay incidentes activos ("Sin incidentes activos"). |
 | 10 | Mapa de Calor "Alarmas Activas" | Visualización / Heatmap | — | Representa gráficamente la distribución de alarmas activas por nivel de prioridad (P1–P4). La fila P2 muestra 2 alarmas activas resaltadas en naranja, mientras que el resto de prioridades no presentan alarmas. |
 
-## 💡 Guía de Uso (Generada por IA)
+## 💡 Guía de Uso
 
 La pestaña **Overview** del Centro de Alarmas es el panel de control principal para la supervisión del estado de alarmas en tiempo real. Los cuatro **KPIs** de la cabecera (3–6) ofrecen de un vistazo las métricas más críticas: número de alarmas activas, alarmas pendientes de reconocimiento, tiempo medio de respuesta e incidentes abiertos. El **gráfico de tasa de alarmas** (7) permite identificar picos de actividad en las últimas horas, mientras que la sección **Alarmas Prioritarias** (8) lista aquellas que requieren atención inmediata junto con su antigüedad y estado. Por último, el **Mapa de Calor** (12) proporciona una visión rápida de la concentración de alarmas por nivel de prioridad, facilitando la priorización de la respuesta operativa. Activa el modo **En vivo** (2) para mantener todos los datos actualizados automáticamente.
