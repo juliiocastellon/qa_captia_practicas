@@ -16,7 +16,7 @@
 | 3.6.2 | Tabla por Asset | Elemento seleccionable | Inserta una tabla de promedios por asset y variable | Muestra los valores promedio de cada variable agrupados por activo, facilitando la comparativa entre equipos o recursos. |
 
 
-## 💡 Guía de Uso (Generada por IA)
+## 💡 Guía de Uso
 
 La sección **Datos** pone a tu disposición dos elementos de tipo tabla para representar información estructurada en tu vista. Si necesitas mostrar el detalle completo de cada registro sin agregaciones, selecciona **Tabla** (3.6.1), ideal para inspeccionar datos a nivel individual. Si en cambio tu objetivo es comparar el comportamiento de distintas variables entre diferentes activos, utiliza **Tabla por Asset** (3.6.2), que agrupa y promedia los valores por equipo o recurso para ofrecer una visión comparativa rápida. El contador (2) en la cabecera de la sección confirma los elementos disponibles, y puedes colapsar o expandir el bloque en cualquier momento con la flecha de la derecha.
 
