@@ -5,9 +5,6 @@
 - [Barra superior](./base/barra_superior.md)
 - [Barra lateral](./base/Barra_lateral.md)
 
-- [Barra superior](./base/barra_superior.md)
-- [Barra lateral](./base/Barra_lateral.md)
-
 ## Widgets
 - [Widgets](./widgets/widget.md)
 - [Widgets Analytics avanzados](./widgets/widgetsAnalytics_avanzados.md)
