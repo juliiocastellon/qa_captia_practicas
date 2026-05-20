@@ -17,5 +17,4 @@
 
 La sección **Formas SCADA** pone a tu disposición un elemento gráfico especializado para la representación visual de procesos industriales. Al seleccionar **Forma** (3.8.1), podrás insertar un componente cuyo comportamiento visual —como el color o el icono mostrado— se adapta automáticamente en función de las reglas que definas, permitiéndote reflejar de un vistazo el estado operativo real de un equipo o proceso. Este tipo de elemento es especialmente útil en dashboards de supervisión y control donde la detección rápida de anomalías o cambios de estado es crítica. El contador (1) en la cabecera confirma el elemento disponible en esta sección, y puedes colapsar o expandir el bloque con la flecha de la derecha.
 
-
-<sub>[← Volver al índice](../README.md)</sub>
+[← Anterior](./widgetsAnalytics_datos.md) • [📚 Índice](../README.md) • [Siguiente →](./widgetsAnalytics_graficos.md)
