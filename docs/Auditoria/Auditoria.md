@@ -26,4 +26,4 @@ Desde la parte superior puedes aplicar filtros por fecha, usuario, acción, recu
 
 Esta sección resulta especialmente útil para tareas de supervisión, trazabilidad, seguridad y análisis operativo dentro del entorno industrial.
 
-<sub>[← Volver al índice](../README.md)</sub>
+[← Anterior](../Variables/Crear_variable.md) • [📚 Índice](../README.md) • [Siguiente →](../cuenta/Cuenta.md)
