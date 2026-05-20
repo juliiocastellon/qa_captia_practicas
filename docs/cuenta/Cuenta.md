@@ -25,5 +25,6 @@ La sección de Cuenta centraliza toda la información relacionada con la organiz
 
 El panel de recursos permite supervisar el uso actual del plan contratado, incluyendo variables, dashboards, automatizaciones y vistas SCADA disponibles. Además, la sección de equipo facilita la gestión de usuarios, roles y permisos dentro de la organización.
 
-<sub>[← Volver al índice](../README.md)</sub>
 El asistente CAPTIA ofrece recomendaciones inteligentes y ayuda contextual relacionada con la configuración de la cuenta y la optimización de recursos dentro de la plataforma.
+
+<sub>[← Volver al índice](../README.md)</sub>
