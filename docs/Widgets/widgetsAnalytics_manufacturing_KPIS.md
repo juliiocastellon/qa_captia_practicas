@@ -24,7 +24,7 @@
 | 3.4.11 | Timeline Estados | Elemento seleccionable | Inserta timeline de estados de máquina (multi-asset) | Representa cronológicamente los distintos estados operativos de una o varias máquinas simultáneamente. |
 | 3.4.12 | Ranking Máquinas | Elemento seleccionable | Inserta tabla de ranking por KPIs | Muestra una clasificación comparativa de máquinas o líneas ordenadas según sus valores de KPIs seleccionados. |
 
-## 💡 Guía de Uso (Generada por IA)
+## 💡 Guía de Uso 
 
 La sección **Manufacturing KPIs** agrupa los 12 indicadores industriales esenciales para el seguimiento del rendimiento de tus equipos y líneas de producción. Puedes comenzar con los indicadores fundamentales del OEE —**OEE** (3.4.1), **Disponibilidad** (3.4.2), **Rendimiento** (3.4.3) y **Calidad** (3.4.4)— para obtener una visión global de la eficiencia operativa, y complementarlos con métricas específicas como **Tasa de Scrap** (3.4.6), **Tiempo de Paro** (3.4.7) o **Energía** (3.4.8) según las necesidades de tu análisis. Para una visión más analítica y comparativa, dispones de **OEE Trend** (3.4.10) para identificar patrones temporales, **Timeline Estados** (3.4.11) para auditar el historial de estados de máquina en múltiples activos, y **Ranking Máquinas** (3.4.12) para comparar el desempeño entre equipos de un vistazo.
 
