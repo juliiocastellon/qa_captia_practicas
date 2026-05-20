@@ -21,7 +21,7 @@
 | 3.5.8 | Downtime Breakdown | Gráfico stacked | Navega al desglose de paradas | Visualiza la distribución de tiempos de parada clasificados por tipo o causa. |
 
 
-## 💡 Guía de Uso (Generada por IA)
+## 💡 Guía de Uso 
 
 La pantalla **Maintenance KPIs** proporciona una visión centralizada de los indicadores clave de mantenimiento y fiabilidad de los equipos industriales. Desde esta vista, el usuario puede acceder rápidamente a métricas relacionadas con disponibilidad, tiempos medios entre fallos (MTBF), tiempos de reparación (MTTR), incidencias registradas y paradas no planificadas. Además, incorpora gráficos analíticos para estudiar la frecuencia de fallos y el desglose de tiempos de parada, facilitando la identificación de problemas recurrentes y la optimización de tareas de mantenimiento preventivo y correctivo.
 
