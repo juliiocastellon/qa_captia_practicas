@@ -111,7 +111,7 @@ Migracion de informes a konva
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
 - **Observaciones:** No se ha detectado ningún error que afecte al correcto funcionamiento de la funcionalidad de informes durante las pruebas realizadas.
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -864,16 +864,16 @@ No tiene que mostrar pantalla en blanco, deberia de cargar la pantalla de Tareas
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** La pantalla de tareas funciona correctamente y actualmente se muestran todas las tareas disponibles de forma adecuada, sin incidencias detectadas durante las pruebas realizadas.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -905,16 +905,16 @@ El botón de tres puntos debe tener un tamaño coherente y no debe alterar indeb
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** Con las nuevas opciones de configuración para mostrar u ocultar el header, ahora existen distintas formas de visualizarlo y el comportamiento del botón asociado ya no presenta problemas.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -946,16 +946,16 @@ La opción **Plano (borde sutil)** debe estar eliminada o correctamente sustitui
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [x] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** Se necesita una mayor especificación sobre la ubicación y comportamiento esperado de la opción “piano” (borde sutil), ya que actualmente no queda claro en qué sección o contexto debe aplicarse.
+- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [x] necesita aclaración
 
 ---
 
@@ -987,16 +987,16 @@ El hover debe mostrar los iconos de forma consistente y sin aparición incorrect
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
-- **Fecha de prueba:**
+- **Fecha de prueba:** 20/05/2026
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** El efecto hover ya se encuentra correctamente configurado y los widgets funcionan de forma adecuada sin presentar incidencias durante las pruebas realizadas.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
@@ -1110,7 +1110,7 @@ Eliminar el error
 
 ### Reporte del QA tester
 
-- **Resultado:** [ ] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
+- **Resultado:** [x] OK / Validada  [ ] Falla  [ ] Bloqueada  [ ] No aplica
 - **Entorno probado:**
 - **Tenant / cliente usado:**
 - **Usuario / rol usado:**
@@ -1118,8 +1118,8 @@ Eliminar el error
 - **Pasos ejecutados:**
 - **Resultado observado:**
 - **Evidencias:** enlace a captura, vídeo, logs o descripción
-- **Observaciones:**
-- **Recomendación:** [ ] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
+- **Observaciones:** La imagen de fondo de SCADA funciona correctamente y, tras recargar la página, no se detecta ningún error ni alteración visual relacionada con su carga.
+- **Recomendación:** [x] cerrar issue  [ ] devolver a desarrollo  [ ] necesita aclaración
 
 ---
 
