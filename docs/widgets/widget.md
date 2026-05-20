@@ -31,4 +31,5 @@
 
 El panel de widgets es tu punto de partida para construir dashboards y vistas SCADA. Desde aquí puedes explorar el catálogo completo de widgets organizados en dos grandes grupos: Widgets de Analytics, con 9 subcategorías que van desde gráficos e indicadores hasta KPIs de producción y mantenimiento, y Elementos SCADA, con componentes básicos y de alarma para vistas de control. Para añadir cualquier widget al canvas, arrástralo directamente o haz clic sobre él. Una vez colocado, selecciónalo y accede a la pestaña "Propiedades" para configurar su comportamiento y apariencia.
 
-<sub>[← Volver al índice](../README.md)</sub>
+[← Anterior](../base/Barra_lateral.md) • [📚 Índice](../README.md) • [Siguiente →](./widgetsAnalytics_avanzados.md)
+
