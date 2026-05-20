@@ -8,10 +8,10 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- |
-| Sección "Alarmas" (4.1) | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de gestión y visualización de alarmas disponibles. Muestra un contador (1) con el total de subelementos. |
-| Banner de Alarmas (4.1.1) | Elemento seleccionable | Inserta un banner compacto de alarmas activas | Presenta de forma condensada la lista de alarmas que se encuentran activas en el momento de la consulta, permitiendo al operador identificar incidencias de forma rápida sin abandonar la vista actual. |
+| # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
+| :--- | :--- | :--- | :--- | :--- |
+| 4.1 | Sección "Alarmas" | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de gestión y visualización de alarmas disponibles. Muestra un contador (1) con el total de subelementos. |
+| 4.1.1 | Banner de Alarmas | Elemento seleccionable | Inserta un banner compacto de alarmas activas | Presenta de forma condensada la lista de alarmas activas en el momento de la consulta, permitiendo al operador identificar incidencias rápidamente sin abandonar la vista actual. |
 
 ## 💡 Guía de Uso (Generada por IA)
 
