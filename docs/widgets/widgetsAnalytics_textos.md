@@ -8,11 +8,11 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- |
-| Sección "Textos" (3.2) | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de tipo texto disponibles. Muestra un contador (2) con la cantidad de subelementos. |
-| Texto (3.2.1) | Elemento seleccionable | Inserta un bloque de texto simple | Permite añadir notas y títulos estáticos sin formato avanzado. |
-| Texto Enriquecido (3.2.2) | Elemento seleccionable | Inserta un bloque de texto con variables | Permite añadir texto dinámico con soporte de variables, ideal para contenido personalizado o condicional. |
+| # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
+| :--- | :--- | :--- | :--- | :--- |
+| 3.2 | Sección "Textos" | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de tipo texto disponibles. Muestra un contador (2) con la cantidad de subelementos. |
+| 3.2.1 | Texto | Elemento seleccionable | Inserta un bloque de texto simple | Permite añadir notas y títulos estáticos sin formato avanzado. |
+| 3.2.2 | Texto Enriquecido | Elemento seleccionable | Inserta un bloque de texto con variables | Permite añadir texto dinámico con soporte de variables, ideal para contenido personalizado o condicional. |
 
 ## 💡 Guía de Uso (Generada por IA)
 
