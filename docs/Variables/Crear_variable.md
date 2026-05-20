@@ -25,3 +25,5 @@ La ventana de creación de variables globales permite registrar nuevas señales 
 Para crear una variable, primero debes definir un nombre identificativo y seleccionar tanto el tipo de señal como el tipo de dato asociado. Posteriormente, puedes añadir información complementaria como unidad de medida, categoría funcional, descripción o asset relacionado.
 
 Opcionalmente, también es posible definir un valor inicial para la variable antes de guardarla dentro del sistema.
+
+[← Anterior](./Variables.md) • [📚 Índice](../README.md) • [Siguiente →](../Auditoria/Auditoria.md)
