@@ -8,10 +8,10 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- |
-| Sección "Avanzados" (3.9) | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de visualización avanzada disponibles. Muestra un contador (1) con el total de subelementos. |
-| Series Avanzadas (3.9.1) | Elemento seleccionable | Inserta un gráfico de series con doble eje Y y referencias | Permite representar múltiples series temporales en un mismo gráfico utilizando dos ejes Y independientes, ideal para comparar variables con unidades o rangos de valores distintos, y añadir líneas de referencia como umbrales o targets. |
+| # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
+| :--- | :--- | :--- | :--- | :--- |
+| 3.8 | Sección "Formas SCADA" | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos gráficos de tipo SCADA disponibles. Muestra un contador (1) con el total de subelementos. |
+| 3.8.1 | Forma | Elemento seleccionable | Inserta una forma con reglas visuales | Permite añadir un elemento gráfico SCADA cuyo aspecto visual cambia dinámicamente en función de reglas configuradas, reflejando el estado real del proceso o equipo monitorizado. |
 
 ## 💡 Guía de Uso (Generada por IA)
 
