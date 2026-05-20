@@ -18,6 +18,6 @@
 | 6 | Fecha "13 may 2026" | Etiqueta de fecha | — | Muestra la fecha de creación o última modificación de la plantilla. |
 | 7 | Botón "+ Nueva plantilla" | CTA Principal | Abre el flujo de creación de una nueva plantilla | Inicia el proceso de creación de una nueva plantilla de informe desde cero. |
 
-## 💡 Guía de Uso (Generada por IA)
+## 💡 Guía de Uso 
 
 En la sección **Informes** encontrarás todas las plantillas de informes automáticos y personalizados disponibles en tu cuenta. Utiliza el **buscador** (1) para localizar una plantilla por nombre o descripción, y el **desplegable de categorías** (2) para filtrar por tipo; el **contador** (3) te indicará cuántas plantillas coinciden con tu búsqueda en cada momento. Cada **tarjeta** (4) resume la información clave de la plantilla —páginas, elementos, estado y fecha—, y puedes acceder a las opciones de edición o eliminación a través del menú (⋮) situado en su esquina superior derecha. Cuando necesites crear un nuevo informe, haz clic en **+ Nueva plantilla** (7) para iniciar el asistente de configuración.
