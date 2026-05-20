@@ -1,23 +1,23 @@
 # 📚 Índice de documentación CAPTIA.ai
 
 ## Base
-- [Página inicio](./base/pagina_inicio.md)
-- [Barra superior](./base/barra_superior.md)
-- [Barra lateral](./base/Barra_lateral.md)
+- [Página inicio](./Base/pagina_inicio.md)
+- [Barra superior](./Base/barra_superior.md)
+- [Barra lateral](./Base/Barra_lateral.md)
 
 ## Widgets
-- [Widgets](./widgets/widget.md)
-- [Widgets Analytics avanzados](./widgets/widgetsAnalytics_avanzados.md)
-- [Widgets Analytics contenido](./widgets/widgetsAnalytics_contenido.md)
-- [Widgets Analytics datos](./widgets/widgetsAnalytics_datos.md)
-- [Widgets Analytics formas SCADA](./widgets/widgetsAnalytics_formas_escada.md)
-- [Widgets Analytics gráficos](./widgets/widgetsAnalytics_graficos.md)
-- [Widgets Analytics indicadores](./widgets/widgetsAnalytics_indicadores.md)
-- [Widgets Analytics maintenance KPIs](./widgets/widgetsAnalytics_maintenance_KPIS.md)
-- [Widgets Analytics manufacturing KPIs](./widgets/widgetsAnalytics_manufacturing_KPIS.md)
-- [Widgets Analytics textos](./widgets/widgetsAnalytics_textos.md)
-- [Widgets SCADA alarmas](./widgets/widgetsScada_alarmas.md)
-- [Widgets SCADA básicos](./widgets/widgetsScada_basicos.md)
+- [Widgets](./Widgets/widget.md)
+- [Widgets Analytics avanzados](./Widgets/widgetsAnalytics_avanzados.md)
+- [Widgets Analytics contenido](./Widgets/widgetsAnalytics_contenido.md)
+- [Widgets Analytics datos](./Widgets/widgetsAnalytics_datos.md)
+- [Widgets Analytics formas SCADA](./Widgets/widgetsAnalytics_formas_escada.md)
+- [Widgets Analytics gráficos](./Widgets/widgetsAnalytics_graficos.md)
+- [Widgets Analytics indicadores](./Widgets/widgetsAnalytics_indicadores.md)
+- [Widgets Analytics maintenance KPIs](./Widgets/widgetsAnalytics_maintenance_KPIS.md)
+- [Widgets Analytics manufacturing KPIs](./Widgets/widgetsAnalytics_manufacturing_KPIS.md)
+- [Widgets Analytics textos](./Widgets/widgetsAnalytics_textos.md)
+- [Widgets SCADA alarmas](./Widgets/widgetsScada_alarmas.md)
+- [Widgets SCADA básicos](./Widgets/widgetsScada_basicos.md)
 
 ## SCADA
 - [SCADA](./SCADA/SCADA.md)
@@ -43,4 +43,4 @@
 - [Auditoría](./Auditoria/Auditoria.md)
 
 ## Cuenta
-- [Cuenta](./cuenta/Cuenta.md)
+- [Cuenta](./Cuenta/Cuenta.md)
