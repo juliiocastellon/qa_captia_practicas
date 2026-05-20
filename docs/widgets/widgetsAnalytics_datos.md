@@ -8,11 +8,13 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- |
-| Sección "Datos" (3.6) | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de visualización tabular disponibles. Muestra un contador (2) con el total de subelementos. |
-| Tabla (3.6.1) | Elemento seleccionable | Inserta una tabla de datos detallados | Presenta registros en formato de cuadrícula con el detalle completo de cada entrada, adecuada para inspección granular de los datos. |
-| Tabla por Asset (3.6.2) | Elemento seleccionable | Inserta una tabla de promedios por asset y variable | Muestra los valores promedio de cada variable agrupados por activo, facilitando la comparativa entre equipos o recursos. |
+
+| # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
+| :--- | :--- | :--- | :--- | :--- |
+| 3.6 | Sección "Datos" | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de visualización tabular disponibles. Muestra un contador (2) con el total de subelementos. |
+| 3.6.1 | Tabla | Elemento seleccionable | Inserta una tabla de datos detallados | Presenta registros en formato de cuadrícula con el detalle completo de cada entrada, adecuada para inspección granular de los datos. |
+| 3.6.2 | Tabla por Asset | Elemento seleccionable | Inserta una tabla de promedios por asset y variable | Muestra los valores promedio de cada variable agrupados por activo, facilitando la comparativa entre equipos o recursos. |
+
 
 ## 💡 Guía de Uso (Generada por IA)
 
