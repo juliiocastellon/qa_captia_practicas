@@ -2,6 +2,9 @@
 
 **Objetivo principal:** Permite al usuario consultar y supervisar el registro de actividad del sistema, visualizando acciones realizadas, accesos, cambios y eventos generados dentro de la plataforma.
 
+## 📸 Mapeo de interfaz
+<img width="1223" height="585" alt="image" src="https://github.com/user-attachments/assets/12813df9-7dd4-4a2a-b2a5-247190dfb2bb" />
+
 ## 🧩 Despiece de elementos funcionales
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
