@@ -31,4 +31,4 @@ El área central de diseño funciona como un canvas interactivo donde puedes añ
 
 Antes de publicar cambios, puedes alternar entre modo edición y ejecución para comprobar el comportamiento de la pantalla en tiempo real. El sistema muestra constantemente el estado de guardado y la conexión realtime para asegurar que la información visualizada está sincronizada correctamente.
 
-<sub>[← Volver al índice](../README.md)</sub>
+[← Anterior](./SCADA.md) • [📚 Índice](../README.md) • [Siguiente →](../DASHBOARD/DASHBOARD.md)
