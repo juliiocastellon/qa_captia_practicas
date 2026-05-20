@@ -4,14 +4,12 @@
 
 ## 📸 Mapeo de Interfaz
 
-<img width="268" height="615" alt="Captura de pantalla 2026-05-20 091106" src="https://github.com/user-attachments/assets/35dd719e-d361-4bc3-aecc-92409872654e" />
+<img width="282" height="667" alt="Captura de pantalla 2026-05-20 103921" src="https://github.com/user-attachments/assets/bbf3e70b-a307-460b-9238-e0357f1b98cb" />
 
 ## 🧩 Despiece de Elementos Funcionales
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| — | Logo "Captia.ai" | Marca / Header | — | Identifica la plataforma en la cabecera del menú lateral. Elemento estático no interactivo. |
-| — | Botón colapsar menú | Icono / Toggle | Colapsa/expande el panel lateral | Permite reducir el menú a iconos para ganar espacio en el área de trabajo. |
 | 1 | Inicio | Ítem de navegación (activo) | Navega a la pantalla de Inicio | Página principal de la plataforma. Se muestra resaltado en verde cuando está activo. |
 | 2 | SCADA | Ítem de navegación | Navega a la sección SCADA | Accede al entorno de supervisión y control de procesos industriales en tiempo real. |
 | 3 | Dashboards | Ítem de navegación | Navega a la sección Dashboards | Accede al constructor y visualizador de paneles de control con métricas e indicadores. |
@@ -24,7 +22,7 @@
 | 10 | Auditoría | Ítem de navegación (secundario) | Navega a la sección Auditoría | Accede al registro de actividad y trazabilidad de acciones realizadas en el sistema. |
 | 11 | Cuenta | Ítem de navegación (secundario) | Navega a la sección Cuenta | Accede a la configuración del perfil de usuario y ajustes de la cuenta. |
 | 12 | Toggle ON/OFF | Control de estado global | Activa/desactiva el modo operativo | Interruptor que permite activar o desactivar el estado operativo de la plataforma o sesión activa. Muestra el estado actual (ON en verde). |
-| — | Versión (v0.0.24) | Etiqueta informativa | — | Indica la versión actual del software desplegado. Elemento estático no interactivo. |
+| 13 | Botón colapsar menú | Icono / Toggle | Colapsa/expande el panel lateral | Permite reducir el menú a iconos para ganar espacio en el área de trabajo. |
 
 ## 💡 Guía de Uso (Generada por IA)
 
