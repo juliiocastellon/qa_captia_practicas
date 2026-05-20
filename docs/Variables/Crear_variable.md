@@ -2,6 +2,9 @@
 
 **Objetivo principal:** Permite al usuario crear nuevas variables globales dentro de la plataforma para utilizarlas posteriormente en dashboards, automatizaciones, SCADA e informes.
 
+## 📸 Mapeo de interfaz
+<img width="482" height="576" alt="image" src="https://github.com/user-attachments/assets/27d8b310-88f9-4f21-b762-9b29e29e5b8c" />
+
 ## 🧩 Despiece de elementos funcionales
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
