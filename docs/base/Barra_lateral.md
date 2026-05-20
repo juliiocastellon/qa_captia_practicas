@@ -8,23 +8,23 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- |
-| Logo "Captia.ai" | Marca / Header | — | Identifica la plataforma en la cabecera del menú lateral. Elemento estático no interactivo. |
-| Botón colapsar menú | Icono / Toggle | Colapsa/expande el panel lateral | Permite reducir el menú a iconos para ganar espacio en el área de trabajo. |
-| Inicio (1) | Ítem de navegación (activo) | Navega a la pantalla de Inicio | Página principal de la plataforma. Se muestra resaltado en verde cuando está activo. |
-| SCADA (2) | Ítem de navegación | Navega a la sección SCADA | Accede al entorno de supervisión y control de procesos industriales en tiempo real. |
-| Dashboards (3) | Ítem de navegación | Navega a la sección Dashboards | Accede al constructor y visualizador de paneles de control con métricas e indicadores. |
-| Informes (4) | Ítem de navegación | Navega a la sección Informes | Accede a la generación y consulta de informes de datos y rendimiento. |
-| Automatizaciones (5) | Ítem de navegación | Navega a la sección Automatizaciones | Accede a la configuración de reglas y flujos de automatización de procesos. |
-| Tareas (6) | Ítem de navegación | Navega a la sección Tareas | Accede a la gestión y seguimiento de tareas asignadas en la plataforma. |
-| Calendario (7) | Ítem de navegación | Navega a la sección Calendario | Accede a la vista de planificación temporal de eventos, tareas y mantenimientos. |
-| Alarmas (8) | Ítem de navegación | Navega a la sección Alarmas | Accede al panel de gestión y consulta del historial de alarmas del sistema. |
-| Variables (9) | Ítem de navegación | Navega a la sección Variables | Accede a la configuración y consulta de las variables de datos de la plataforma. |
-| Auditoría (10) | Ítem de navegación (secundario) | Navega a la sección Auditoría | Accede al registro de actividad y trazabilidad de acciones realizadas en el sistema. |
-| Cuenta (11) | Ítem de navegación (secundario) | Navega a la sección Cuenta | Accede a la configuración del perfil de usuario y ajustes de la cuenta. |
-| Toggle ON/OFF (12) | Control de estado global | Activa/desactiva el modo operativo | Interruptor que permite activar o desactivar el estado operativo de la plataforma o sesión activa. Muestra el estado actual (ON en verde). |
-| Versión (v0.0.24) | Etiqueta informativa | — | Indica la versión actual del software desplegado. Elemento estático no interactivo. |
+| # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
+| :--- | :--- | :--- | :--- | :--- |
+| — | Logo "Captia.ai" | Marca / Header | — | Identifica la plataforma en la cabecera del menú lateral. Elemento estático no interactivo. |
+| — | Botón colapsar menú | Icono / Toggle | Colapsa/expande el panel lateral | Permite reducir el menú a iconos para ganar espacio en el área de trabajo. |
+| 1 | Inicio | Ítem de navegación (activo) | Navega a la pantalla de Inicio | Página principal de la plataforma. Se muestra resaltado en verde cuando está activo. |
+| 2 | SCADA | Ítem de navegación | Navega a la sección SCADA | Accede al entorno de supervisión y control de procesos industriales en tiempo real. |
+| 3 | Dashboards | Ítem de navegación | Navega a la sección Dashboards | Accede al constructor y visualizador de paneles de control con métricas e indicadores. |
+| 4 | Informes | Ítem de navegación | Navega a la sección Informes | Accede a la generación y consulta de informes de datos y rendimiento. |
+| 5 | Automatizaciones | Ítem de navegación | Navega a la sección Automatizaciones | Accede a la configuración de reglas y flujos de automatización de procesos. |
+| 6 | Tareas | Ítem de navegación | Navega a la sección Tareas | Accede a la gestión y seguimiento de tareas asignadas en la plataforma. |
+| 7 | Calendario | Ítem de navegación | Navega a la sección Calendario | Accede a la vista de planificación temporal de eventos, tareas y mantenimientos. |
+| 8 | Alarmas | Ítem de navegación | Navega a la sección Alarmas | Accede al panel de gestión y consulta del historial de alarmas del sistema. |
+| 9 | Variables | Ítem de navegación | Navega a la sección Variables | Accede a la configuración y consulta de las variables de datos de la plataforma. |
+| 10 | Auditoría | Ítem de navegación (secundario) | Navega a la sección Auditoría | Accede al registro de actividad y trazabilidad de acciones realizadas en el sistema. |
+| 11 | Cuenta | Ítem de navegación (secundario) | Navega a la sección Cuenta | Accede a la configuración del perfil de usuario y ajustes de la cuenta. |
+| 12 | Toggle ON/OFF | Control de estado global | Activa/desactiva el modo operativo | Interruptor que permite activar o desactivar el estado operativo de la plataforma o sesión activa. Muestra el estado actual (ON en verde). |
+| — | Versión (v0.0.24) | Etiqueta informativa | — | Indica la versión actual del software desplegado. Elemento estático no interactivo. |
 
 ## 💡 Guía de Uso (Generada por IA)
 
