@@ -10,8 +10,8 @@
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 3.8 | Sección "Formas SCADA" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque para acceder a los elementos gráficos SCADA con comportamiento visual dinámico. |
-| 3.8.1 | Forma | Elemento seleccionable | Inserta una forma con reglas visuales | Úsala para representar el estado de un equipo o proceso de forma visual e intuitiva: configura las reglas para que el color o el icono cambien automáticamente según el valor de la variable monitorizada. |
+| 3.9 | Sección "Avanzados" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque cuando los widgets estándar no sean suficientes para representar la complejidad de tus datos. |
+| 3.9.1 | Series Avanzadas | Elemento seleccionable | Inserta un gráfico de series con doble eje Y y referencias | Úsalo cuando necesites comparar en un mismo gráfico variables con unidades o escalas muy distintas, o cuando quieras marcar visualmente umbrales y objetivos sobre la evolución temporal. |
 
 ## 💡 Guía de Uso 
 La sección **Avanzados** está pensada para casos de análisis que requieren mayor potencia de visualización que los gráficos estándar. Con **Series Avanzadas** (3.9.1) puedes representar simultáneamente variables de naturaleza o escala diferente en un único gráfico, gracias al soporte de doble eje Y: por ejemplo, combinar temperatura y presión sin que ninguna serie quede distorsionada por la escala de la otra. Además, la posibilidad de añadir líneas de referencia te permite marcar visualmente umbrales críticos, objetivos de producción o valores de alerta directamente sobre el gráfico. El contador (1) en la cabecera indica el elemento disponible en esta sección, y puedes colapsar o expandir el bloque con la flecha de la derecha.
