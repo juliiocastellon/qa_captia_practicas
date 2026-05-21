@@ -10,7 +10,7 @@ Documentación común de navegación y estructura principal de la plataforma.
 
 | Archivo | Contenido |
 |---|---|
-| `Base/Barra_lateral.md` | Menú lateral principal y navegación global |
+| ./Base/Barra_lateral.md | Menú lateral principal y navegación global |
 | `Base/barra_superior.md` | Barra superior, notificaciones y controles |
 | `Base/pagina_inicio.md` | Página principal y resumen inteligente |
 
