@@ -10,14 +10,13 @@
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Título "Timeline de Alarmas" | Cabecera informativa | — | Identifica la vista actual como la línea de tiempo de alarmas del sistema. |
-| 2 | Selector de rango "Desde – Hasta" | Control de fecha/hora | Define el intervalo temporal del timeline | Permite al usuario establecer manualmente una fecha y hora de inicio y fin para acotar la visualización de alarmas. Valores actuales: 20/05/2026 12:05 a 20/05/2026 14:05. |
-| 3 | Accesos rápidos de rango temporal | Botones de acceso rápido | Aplica un rango predefinido al timeline | Permite seleccionar intervalos de tiempo predefinidos: 1h, 2h, 12h, 24h y 7d, actualizando el timeline de forma inmediata. |
-| 4 | Botón "En vivo" | Toggle | Activa/desactiva la actualización en tiempo real | Permite iniciar o pausar el modo de actualización continua del timeline con los datos más recientes. |
-| 5 | Desplegable "Agrupar por: Severidad" | Filtro / Select | Cambia el criterio de agrupación de las filas del timeline | Permite reorganizar las barras del timeline agrupándolas por diferentes criterios (Severidad, Categoría o Regla), siendo "Severidad" el valor activo por defecto. |
-| 6 | Controles de visualización del gráfico | Barra de iconos | Zoom, reset, descarga y otras acciones sobre el gráfico | Agrupa las herramientas de interacción con el timeline: zoom in/out, restablecer vista, descargar imagen y anclar la vista actual. |
-| 7 | Gráfico | Gráfico de línea temporal | — | Representa las alarmas ordenadas según como esten agrupadas, ya sea por Severidad, Categoría o Regla |
-
+| 1 | Título "Timeline de Alarmas" | Cabecera informativa | — | — |
+| 2 | Selector de rango "Desde – Hasta" | Control de fecha/hora | Define el intervalo temporal del timeline | Ajústalo para enfocar el análisis en el periodo exacto que te interesa revisar. |
+| 3 | Accesos rápidos de rango temporal | Botones de acceso rápido | Aplica un rango predefinido al timeline | Úsalos para cambiar rápidamente el horizonte temporal sin tener que introducir fechas manualmente. |
+| 4 | Botón "En vivo" | Toggle | Activa/desactiva la actualización en tiempo real | Actívalo para que el timeline se actualice solo y puedas hacer seguimiento en tiempo real sin recargar. |
+| 5 | Desplegable "Agrupar por: Severidad" | Filtro / Select | Cambia el criterio de agrupación de las filas del timeline | Cámbialo para reorganizar las filas por Severidad, Categoría o Regla según el criterio que más te ayude a identificar patrones. |
+| 6 | Controles de visualización del gráfico | Barra de iconos | Zoom, reset, descarga y otras acciones sobre el gráfico | Úsalos para hacer zoom en un intervalo concreto, restablecer la vista o descargar el gráfico para compartirlo. |
+| 7 | Gráfico | Gráfico de línea temporal | — | Observa si alguna barra llega hasta el extremo derecho: si es así, esa alarma sigue activa en este momento. Usa la agrupación para identificar rápidamente dónde se concentra la actividad. |
 
 ## 💡 Guía de Uso 
 
