@@ -11,9 +11,9 @@
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 3.6 | Sección "Datos" | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de visualización tabular disponibles. Muestra un contador (2) con el total de subelementos. |
-| 3.6.1 | Tabla | Elemento seleccionable | Inserta una tabla de datos detallados | Presenta registros en formato de cuadrícula con el detalle completo de cada entrada, adecuada para inspección granular de los datos. |
-| 3.6.2 | Tabla por Asset | Elemento seleccionable | Inserta una tabla de promedios por asset y variable | Muestra los valores promedio de cada variable agrupados por activo, facilitando la comparativa entre equipos o recursos. |
+| 3.6 | Sección "Datos" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque para seleccionar el tipo de tabla que mejor se adapta a la forma en que quieres presentar los datos. |
+| 3.6.1 | Tabla | Elemento seleccionable | Inserta una tabla de datos detallados | Arrástrala al canvas o haz clic para insertarla cuando necesites revisar el detalle completo de cada registro individualmente. Configura en Propiedades la fuente de datos y las columnas que quieres mostrar. |
+| 3.6.2 | Tabla por Asset | Elemento seleccionable | Inserta una tabla de promedios por asset y variable | Arrástrala al canvas o haz clic para insertarla cuando quieras comparar el comportamiento de una misma variable entre distintos activos. Configura en Propiedades los activos y variables a comparar. |
 
 
 ## 💡 Guía de Uso
