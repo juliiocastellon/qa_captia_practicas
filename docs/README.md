@@ -6,149 +6,143 @@
 
 # 🏠 Base del sistema
 
-Documentación común de navegación y estructura principal de la plataforma.
-
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| ./Base/Barra_lateral.md | Menú lateral principal y navegación global |
-| `Base/barra_superior.md` | Barra superior, notificaciones y controles |
-| `Base/pagina_inicio.md` | Página principal y resumen inteligente |
+| [Barra_lateral.md](./Base/Barra_lateral.md) | Documentación de la navegación lateral principal y accesos globales de la plataforma. |
+| [barra_superior.md](./Base/barra_superior.md) | Explica los elementos de la barra superior, estado del sistema, notificaciones y controles globales. |
+| [pagina_inicio.md](./Base/pagina_inicio.md) | Describe la página principal inteligente y el funcionamiento del sistema de IA operacional. |
 
 ---
 
 # 🖥️ SCADA
 
-Documentación relacionada con supervisión y edición de pantallas SCADA.
-
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| `SCADA/SCADA.md` | Gestión de pantallas SCADA |
-| `SCADA/Edicion_SCADA.md` | Editor visual de escenas SCADA |
+| [SCADA.md](./SCADA/SCADA.md) | Gestión general de pantallas SCADA y navegación entre escenas. |
+| [Edicion_SCADA.md](./SCADA/Edicion_SCADA.md) | Explica el editor visual SCADA y cómo crear o modificar escenas industriales. |
 
 ---
 
 # 📊 Dashboards
 
-Documentación relacionada con dashboards y visualización analítica.
-
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| `DASHBOARD/DASHBOARD.md` | Gestión de dashboards |
-| `DASHBOARD/Edicion_DASHBOARD.md` | Editor visual de dashboards |
+| [DASHBOARD.md](./DASHBOARD/DASHBOARD.md) | Gestión y visualización de dashboards analíticos. |
+| [Edicion_DASHBOARD.md](./DASHBOARD/Edicion_DASHBOARD.md) | Uso del editor de dashboards y configuración de widgets. |
 
 ---
 
 # 📄 Informes
 
-Documentación de informes y generación de reportes.
-
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| `Informes/Informes.md` | Gestión de informes |
-| `Informes/Edición_Informes.md` | Configuración y edición de informes |
+| [Informes.md](./Informes/Informes.md) | Gestión de informes y visualización de resultados analíticos. |
+| [Edición_Informes.md](./Informes/Edición_Informes.md) | Configuración, creación y edición de informes personalizados. |
 
 ---
 
 # ⚙️ Automatizaciones
 
-Documentación sobre workflows y automatización de procesos.
-
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| `Automatizaciones/Automatizaciones.md` | Gestión de workflows |
-| `Automatizaciones/Edicion_Automatizaciones.md` | Editor visual de automatizaciones |
+| [Automatizaciones.md](./Automatizaciones/Automatizaciones.md) | Gestión de workflows y automatizaciones industriales. |
+| [Edicion_Automatizaciones.md](./Automatizaciones/Edicion_Automatizaciones.md) | Uso del editor visual de automatizaciones y nodos. |
 
 ---
 
 # 📡 Variables
 
-Documentación sobre variables y monitorización realtime.
-
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| `Variables/Variables.md` | Gestión y filtrado de variables |
-| `Variables/Crear_variable.md` | Creación y configuración de variables |
+| [Variables.md](./Variables/Variables.md) | Gestión y monitorización de variables industriales. |
+| [Crear_variable.md](./Variables/Crear_variable.md) | Creación y configuración de nuevas variables del sistema. |
 
 ---
 
 # 🚨 Alarmas
 
-Documentación del sistema de alarmas y monitorización operativa.
-
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| `Alarmas/alarmas_menu.md` | Navegación principal de alarmas |
-| `Alarmas/alarmas_overview.md` | Vista general de alarmas |
-| `Alarmas/alarmas_timeline.md` | Timeline de eventos |
-| `Alarmas/alarmas_reglas.md` | Configuración de reglas |
-| `Alarmas/alarmas_correlacion.md` | Correlación de alarmas |
-| `Alarmas/alarmas_KPIs.md` | KPIs y métricas |
-| `Alarmas/alarmas_auditoria.md` | Auditoría de alarmas |
-| `Alarmas/alarmas_creaciónAlarmas.md` | Creación manual de alarmas |
+| [alarmas_menu.md](./Alarmas/alarmas_menu.md) | Navegación principal del módulo de alarmas. |
+| [alarmas_overview.md](./Alarmas/alarmas_overview.md) | Vista general y monitorización de alarmas activas. |
+| [alarmas_timeline.md](./Alarmas/alarmas_timeline.md) | Línea temporal y seguimiento histórico de eventos. |
+| [alarmas_reglas.md](./Alarmas/alarmas_reglas.md) | Configuración de reglas automáticas de alarmas. |
+| [alarmas_correlacion.md](./Alarmas/alarmas_correlacion.md) | Correlación y agrupación inteligente de alarmas. |
+| [alarmas_KPIs.md](./Alarmas/alarmas_KPIs.md) | KPIs y métricas operativas relacionadas con alarmas. |
+| [alarmas_auditoria.md](./Alarmas/alarmas_auditoria.md) | Registro y auditoría de acciones realizadas sobre alarmas. |
+| [alarmas_creaciónAlarmas.md](./Alarmas/alarmas_creaciónAlarmas.md) | Creación manual y configuración de nuevas alarmas. |
 
 ---
 
 # 📅 Calendario
 
-Documentación relacionada con planificación y eventos.
-
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| `Calendario/Calendario.md` | Vista principal del calendario |
-| `Calendario/Evento_Calendario.md` | Gestión y creación de eventos |
+| [Calendario.md](./Calendario/Calendario.md) | Gestión del calendario operativo y planificación temporal. |
+| [Evento_Calendario.md](./Calendario/Evento_Calendario.md) | Creación y gestión de eventos dentro del calendario. |
 
 ---
 
 # 📋 Auditoría
 
-Documentación de trazabilidad y registros del sistema.
-
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| `Auditoria/Auditoria.md` | Registro y filtrado de actividad |
+| [Auditoria.md](./Auditoria/Auditoria.md) | Consulta de registros, actividad y trazabilidad del sistema. |
 
 ---
 
 # 👤 Cuenta
 
-Documentación de usuario y organización.
-
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| `Cuenta/Cuenta.md` | Configuración de cuenta y organización |
+| [Cuenta.md](./Cuenta/Cuenta.md) | Configuración de usuario, organización y preferencias generales. |
 
 ---
 
 # 🧩 Widgets
 
-Documentación de widgets visuales y componentes analíticos.
+## Widgets generales
 
-| Archivo | Contenido |
+| Documento | Descripción |
 |---|---|
-| `Widgets/widget.md` | Introducción general a widgets |
-| `Widgets/widgetsAnalytics_avanzados.md` | Widgets avanzados |
-| `Widgets/widgetsAnalytics_contenido.md` | Widgets de contenido |
-| `Widgets/widgetsAnalytics_datos.md` | Widgets de datos |
-| `Widgets/widgetsAnalytics_formas_escada.md` | Formas y elementos visuales |
-| `Widgets/widgetsAnalytics_graficos.md` | Widgets gráficos |
-| `Widgets/widgetsAnalytics_indicadores.md` | Indicadores visuales |
-| `Widgets/widgetsAnalytics_maintenance_K...` | Widgets de mantenimiento |
-| `Widgets/widgetsAnalytics_manufacturing_...` | Widgets manufacturing |
-| `Widgets/widgetsAnalytics_textos.md` | Widgets de texto |
-| `Widgets/widgetsScada_alarmas.md` | Widgets SCADA de alarmas |
-| `Widgets/widgetsScada_basicos.md` | Widgets básicos SCADA |
+| [widget.md](./Widgets/widget.md) | Introducción general y funcionamiento de widgets. |
+
+---
+
+## Widgets Analytics
+
+| Documento | Descripción |
+|---|---|
+| [widgetsAnalytics_avanzados.md](./Widgets/widgetsAnalytics_avanzados.md) | Widgets avanzados para análisis industriales complejos. |
+| [widgetsAnalytics_contenido.md](./Widgets/widgetsAnalytics_contenido.md) | Widgets orientados a contenido textual y visual. |
+| [widgetsAnalytics_datos.md](./Widgets/widgetsAnalytics_datos.md) | Widgets de representación de datos y tablas. |
+| [widgetsAnalytics_formas_escada.md](./Widgets/widgetsAnalytics_formas_escada.md) | Formas visuales y elementos gráficos SCADA. |
+| [widgetsAnalytics_graficos.md](./Widgets/widgetsAnalytics_graficos.md) | Widgets gráficos y representaciones visuales de métricas. |
+| [widgetsAnalytics_indicadores.md](./Widgets/widgetsAnalytics_indicadores.md) | Indicadores visuales y estados operativos. |
+| [widgetsAnalytics_maintenance_KPIs.md](./Widgets/widgetsAnalytics_maintenance_KPIs.md) | Widgets de mantenimiento y KPIs técnicos. |
+| [widgetsAnalytics_manufacturing_KPIs.md](./Widgets/widgetsAnalytics_manufacturing_KPIs.md) | Widgets de KPIs industriales y manufacturing. |
+| [widgetsAnalytics_textos.md](./Widgets/widgetsAnalytics_textos.md) | Widgets de texto y contenido descriptivo. |
+
+---
+
+## Widgets SCADA
+
+| Documento | Descripción |
+|---|---|
+| [widgetsScada_alarmas.md](./Widgets/widgetsScada_alarmas.md) | Widgets relacionados con alarmas SCADA. |
+| [widgetsScada_basicos.md](./Widgets/widgetsScada_basicos.md) | Widgets básicos utilizados en pantallas SCADA. |
 
 ---
 
 # ℹ️ Información
 
-Esta documentación está orientada a usuarios funcionales y operativos de la plataforma CAPTIA.AI.
+Esta documentación está diseñada para usuarios funcionales y operativos de CAPTIA.AI.
 
-Cada archivo explica:
+Cada documento explica:
 
-- Cómo utilizar cada elemento
-- Qué acciones realiza
-- Cómo interactuar con la interfaz
-- Flujo funcional desde el punto de vista del usuario
+- Cómo utilizar cada funcionalidad
+- Qué acciones realiza el sistema
+- Cómo interactuar correctamente con la interfaz
+- Flujos operativos desde el punto de vista del usuario
 
 ---
