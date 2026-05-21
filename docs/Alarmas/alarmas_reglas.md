@@ -10,10 +10,10 @@
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Título "Reglas de Alarma" | Cabecera informativa | — | Identifica la vista actual como el panel de gestión de reglas de alarma del sistema. |
-| 2 | Botón "Nueva Regla" | CTA Principal | Abre el flujo de creación de una nueva regla | Al hacer click en el inicia el proceso de configuración de una nueva regla de alarma desde cero |
-| 3 | Enlace "Reintentar" | Acción de recuperación | Reintenta la carga del listado de reglas | Haciendo click en el permite al usuario forzar una nueva solicitud de carga de datos sin necesidad de recargar la página completa. |
-| 4 | Estado de error "Error al cargar datos" | Mensaje de error | — | Indica que la vista no ha podido cargar el listado de reglas debido a un problema de configuración en el sistema. |
+| 1 | Título "Reglas de Alarma" | Cabecera informativa | — | — |
+| 2 | Botón "Nueva Regla" | CTA Principal | Abre el flujo de creación de una nueva regla | Haz clic aquí para comenzar a definir una nueva condición de disparo de alarma en el sistema. |
+| 3 | Enlace "Reintentar" | Acción de recuperación | Reintenta la carga del listado de reglas | Púlsalo una vez el administrador haya resuelto el problema de configuración para comprobar si el listado carga correctamente. |
+| 4 | Estado de error "Error al cargar datos" | Mensaje de error | — | Comunica este mensaje a tu administrador de sistema para que configure la variable EVENTS_ENGINE_URL y restaure el funcionamiento de esta sección. |
 
 ## 💡 Guía de Uso
 
