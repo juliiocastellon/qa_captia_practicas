@@ -2,15 +2,19 @@
 
 ## 📂 Índice de documentación
 
----
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<colgroup>
+<col style="width:30%;">
+<col style="width:70%;">
+</colgroup>
 
-# 🏠 Base del sistema
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
 <tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
+<th>Página</th>
+<th>Descripción</th>
 </tr>
+
+<!-- BASE -->
+<tr><td colspan="2"><strong>🏠 Base del sistema</strong></td></tr>
 
 <tr>
 <td><a href="./Base/Barra_lateral.md">Barra Lateral</a></td>
@@ -26,17 +30,9 @@
 <td><a href="./Base/pagina_inicio.md">Página Inicio</a></td>
 <td>Describe la página principal inteligente y el funcionamiento del sistema de IA operacional.</td>
 </tr>
-</table>
 
----
-
-# 🖥️ SCADA
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
+<!-- SCADA -->
+<tr><td colspan="2"><strong>🖥️ SCADA</strong></td></tr>
 
 <tr>
 <td><a href="./SCADA/SCADA.md">SCADA</a></td>
@@ -47,17 +43,9 @@
 <td><a href="./SCADA/Edicion_SCADA.md">Edición SCADA</a></td>
 <td>Explica el editor visual SCADA y cómo crear o modificar escenas industriales.</td>
 </tr>
-</table>
 
----
-
-# 📊 Dashboards
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
+<!-- DASHBOARDS -->
+<tr><td colspan="2"><strong>📊 Dashboards</strong></td></tr>
 
 <tr>
 <td><a href="./DASHBOARD/DASHBOARD.md">Dashboard</a></td>
@@ -68,17 +56,9 @@
 <td><a href="./DASHBOARD/Edicion_DASHBOARD.md">Edición Dashboard</a></td>
 <td>Uso del editor de dashboards y configuración de widgets.</td>
 </tr>
-</table>
 
----
-
-# 📄 Informes
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
+<!-- INFORMES -->
+<tr><td colspan="2"><strong>📄 Informes</strong></td></tr>
 
 <tr>
 <td><a href="./Informes/Informes.md">Informes</a></td>
@@ -89,17 +69,9 @@
 <td><a href="./Informes/Edición_Informes.md">Edición Informes</a></td>
 <td>Configuración, creación y edición de informes personalizados.</td>
 </tr>
-</table>
 
----
-
-# ⚙️ Automatizaciones
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
+<!-- AUTOMATIZACIONES -->
+<tr><td colspan="2"><strong>⚙️ Automatizaciones</strong></td></tr>
 
 <tr>
 <td><a href="./Automatizaciones/Automatizaciones.md">Automatizaciones</a></td>
@@ -110,17 +82,9 @@
 <td><a href="./Automatizaciones/Edicion_Automatizaciones.md">Edición Automatizaciones</a></td>
 <td>Uso del editor visual de automatizaciones y nodos.</td>
 </tr>
-</table>
 
----
-
-# 📡 Variables
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
+<!-- VARIABLES -->
+<tr><td colspan="2"><strong>📡 Variables</strong></td></tr>
 
 <tr>
 <td><a href="./Variables/Variables.md">Variables</a></td>
@@ -131,17 +95,9 @@
 <td><a href="./Variables/Crear_variable.md">Crear Variable</a></td>
 <td>Creación y configuración de nuevas variables del sistema.</td>
 </tr>
-</table>
 
----
-
-# 🚨 Alarmas
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
+<!-- ALARMAS -->
+<tr><td colspan="2"><strong>🚨 Alarmas</strong></td></tr>
 
 <tr>
 <td><a href="./Alarmas/alarmas_menu.md">Menú Alarmas</a></td>
@@ -182,17 +138,9 @@
 <td><a href="./Alarmas/alarmas_creaciónAlarmas.md">Creación de Alarmas</a></td>
 <td>Creación manual y configuración de nuevas alarmas.</td>
 </tr>
-</table>
 
----
-
-# 📅 Calendario
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
+<!-- CALENDARIO -->
+<tr><td colspan="2"><strong>📅 Calendario</strong></td></tr>
 
 <tr>
 <td><a href="./Calendario/Calendario.md">Calendario</a></td>
@@ -203,66 +151,29 @@
 <td><a href="./Calendario/Evento_Calendario.md">Evento Calendario</a></td>
 <td>Creación y gestión de eventos dentro del calendario.</td>
 </tr>
-</table>
 
----
-
-# 📋 Auditoría
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
+<!-- AUDITORIA -->
+<tr><td colspan="2"><strong>📋 Auditoría</strong></td></tr>
 
 <tr>
 <td><a href="./Auditoria/Auditoria.md">Auditoría</a></td>
 <td>Consulta de registros, actividad y trazabilidad del sistema.</td>
 </tr>
-</table>
 
----
-
-# 👤 Cuenta
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
+<!-- CUENTA -->
+<tr><td colspan="2"><strong>👤 Cuenta</strong></td></tr>
 
 <tr>
 <td><a href="./Cuenta/Cuenta.md">Cuenta</a></td>
 <td>Configuración de usuario, organización y preferencias generales.</td>
 </tr>
-</table>
 
----
-
-# 🧩 Widgets
-
-## Widgets Generales
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
+<!-- WIDGETS -->
+<tr><td colspan="2"><strong>🧩 Widgets</strong></td></tr>
 
 <tr>
 <td><a href="./Widgets/widget.md">Widgets</a></td>
 <td>Introducción general y funcionamiento de widgets.</td>
-</tr>
-</table>
-
----
-
-## Widgets Analytics
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
 </tr>
 
 <tr>
@@ -309,17 +220,6 @@
 <td><a href="./Widgets/widgetsAnalytics_avanzados.md">Widgets Analytics Avanzados</a></td>
 <td>Widgets avanzados para análisis industriales complejos.</td>
 </tr>
-</table>
-
----
-
-## Widgets SCADA
-
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;">
-<tr>
-<th style="width:30%;">Página</th>
-<th style="width:70%;">Descripción</th>
-</tr>
 
 <tr>
 <td><a href="./Widgets/widgetsScada_basicos.md">Widgets SCADA Básicos</a></td>
@@ -330,4 +230,5 @@
 <td><a href="./Widgets/widgetsScada_alarmas.md">Widgets SCADA Alarmas</a></td>
 <td>Widgets relacionados con alarmas SCADA.</td>
 </tr>
+
 </table>
