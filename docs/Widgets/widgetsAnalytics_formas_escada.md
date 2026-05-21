@@ -10,9 +10,8 @@
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 3.8 | Sección "Formas SCADA" | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos gráficos de tipo SCADA disponibles. Muestra un contador (1) con el total de subelementos. |
-| 3.8.1 | Forma | Elemento seleccionable | Inserta una forma con reglas visuales | Permite añadir un elemento gráfico SCADA cuyo aspecto visual cambia dinámicamente en función de reglas configuradas, reflejando el estado real del proceso o equipo monitorizado. |
-
+| 3.8 | Sección "Formas SCADA" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque para acceder a los elementos gráficos SCADA con comportamiento visual dinámico. |
+| 3.8.1 | Forma | Elemento seleccionable | Inserta una forma con reglas visuales | Úsala para representar el estado de un equipo o proceso de forma visual e intuitiva: configura las reglas para que el color o el icono cambien automáticamente según el valor de la variable monitorizada. |
 
 ## 💡 Guía de Uso 
 
