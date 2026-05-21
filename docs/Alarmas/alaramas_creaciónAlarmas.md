@@ -4,7 +4,7 @@
 
 ## 📸 Mapeo de Interfaz
 
-*(Formulario de creación de nueva regla de alarma)*
+<img width="602" height="532" alt="image" src="https://github.com/user-attachments/assets/f11b21ff-0fc6-4afd-95d8-036ff51c55e7" />
 
 ## 🧩 Despiece de Elementos Funcionales
 
