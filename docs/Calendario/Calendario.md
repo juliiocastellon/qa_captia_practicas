@@ -9,12 +9,12 @@
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Selector de fecha y navegación temporal | Control de calendario | Cambia periodo | Permite navegar entre meses y volver rápidamente al día actual dentro del calendario. |
-| 2 | Filtros de eventos | Filtros rápidos | Filtra eventos | Permite mostrar u ocultar distintos tipos de eventos como workflows, tareas, mantenimientos, recordatorios o alarmas. |
-| 3 | Selector de vista del calendario | Selector de visualización | Cambia vista | Permite alternar entre vistas de calendario por mes, semana, día o agenda. |
-| 4 | Botón "Nuevo evento" | CTA Principal | Crear evento | Permite crear un nuevo evento o elemento programado dentro del calendario. |
-| 5 | Botón "Leyenda" | CTA Secundario | Mostrar leyenda | Permite visualizar la leyenda de colores y categorías utilizadas dentro del calendario. |
-| 6 | Área del calendario | Vista principal | Visualiza eventos | Muestra el calendario interactivo con los días, eventos y actividades programadas según los filtros y vista seleccionados. |
+| 1 | Selector de fecha y navegación temporal | Control de calendario | Cambia periodo | Permite al usuario navegar entre diferentes meses y volver rápidamente al día actual dentro del calendario. Para utilizarlo, el usuario debe pulsar las flechas de navegación o seleccionar la fecha deseada desde el calendario. |
+| 2 | Filtros de eventos | Filtros rápidos | Filtra eventos | Permite al usuario mostrar u ocultar distintos tipos de eventos como workflows, tareas, mantenimientos, recordatorios o alarmas. Para utilizarlo, el usuario debe activar o desactivar los filtros disponibles según la información que desea visualizar. |
+| 3 | Selector de vista del calendario | Selector de visualización | Cambia vista | Permite al usuario cambiar la visualización del calendario entre vista mensual, semanal, diaria o agenda. Para utilizarlo, el usuario debe seleccionar el tipo de vista deseada desde el selector correspondiente. |
+| 4 | Botón "Nuevo evento" | CTA Principal | Crear evento | Permite al usuario crear un nuevo evento dentro del calendario. Para utilizarlo, el usuario debe pulsar el botón “Nuevo evento”, completar la información requerida como título, fecha o categoría y guardar el evento. |
+| 5 | Botón "Leyenda" | CTA Secundario | Mostrar leyenda | Permite al usuario visualizar la leyenda de colores y categorías utilizadas en el calendario para identificar rápidamente cada tipo de evento. Para utilizarlo, el usuario debe pulsar el botón “Leyenda”. |
+| 6 | Área del calendario | Vista principal | Visualiza eventos | Permite al usuario visualizar todos los eventos y actividades programadas dentro del calendario según los filtros y vistas seleccionadas. Para interactuar con los eventos, el usuario puede hacer clic sobre ellos para consultar o modificar su información. |
 
 ## 💡 Guía de uso
 
