@@ -1,5 +1,3 @@
-Adjunto como comentario el resultado del QA sobre Digital Ocean
-
 # Guía simple de validación QA — Issues Sprint 2 en Review
 
 Documento preparado para que un **QA tester** valide en la aplicación las issues del Sprint 2 que están en estado **In review**.
