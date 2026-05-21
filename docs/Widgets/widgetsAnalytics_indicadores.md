@@ -10,12 +10,12 @@
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 3.3 | Sección "Indicadores" | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa todos los elementos de tipo indicador disponibles. Muestra un contador (5) con la cantidad de subelementos. |
-| 3.3.1 | KPI | Elemento seleccionable | Inserta un indicador de métrica clave | Muestra un valor único y destacado que representa una métrica clave del negocio. |
-| 3.3.2 | KPI Calculado | Elemento seleccionable | Inserta un KPI con fórmula personalizada | Permite definir una fórmula de cálculo propia para derivar el valor mostrado a partir de otras métricas. |
-| 3.3.3 | Gauge Radial | Elemento seleccionable | Inserta un indicador circular de progreso | Visualiza el nivel de cumplimiento o progreso de una métrica mediante un arco o dial circular. |
-| 3.3.4 | Gauge | Elemento seleccionable | Inserta un indicador de nivel o progreso | Representa el estado de una métrica en forma de velocímetro o barra de progreso semicircular. |
-| 3.3.5 | Grupo de KPIs | Elemento seleccionable | Inserta un panel de múltiples métricas en rejilla | Permite mostrar simultáneamente varios KPIs organizados en una cuadrícula, facilitando la comparativa rápida. |
+| 3.3 | Sección "Indicadores" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque para seleccionar el tipo de indicador que mejor represente la métrica que quieres mostrar. |
+| 3.3.1 | KPI | Elemento seleccionable | Inserta un indicador de métrica clave | Arrástralo al canvas o haz clic para insertarlo cuando necesites destacar un valor clave de negocio de forma clara y directa. Configura en Propiedades la variable, el formato y el umbral de alerta. |
+| 3.3.2 | KPI Calculado | Elemento seleccionable | Inserta un KPI con fórmula personalizada | Arrástralo al canvas o haz clic para insertarlo cuando el valor que quieras mostrar no exista como variable directa y necesites calcularlo combinando otras métricas. Configura en Propiedades la fórmula de cálculo. |
+| 3.3.3 | Gauge Radial | Elemento seleccionable | Inserta un indicador circular de progreso | Arrástralo al canvas o haz clic para insertarlo cuando quieras que el operador vea de un vistazo qué porcentaje de un objetivo se ha alcanzado en formato circular. Configura en Propiedades la variable, el mínimo y el máximo del arco. |
+| 3.3.4 | Gauge | Elemento seleccionable | Inserta un indicador de nivel o progreso | Arrástralo al canvas o haz clic para insertarlo cuando quieras representar el nivel de una métrica dentro de un rango, de forma similar a un velocímetro. Configura en Propiedades la variable y los rangos de color. |
+| 3.3.5 | Grupo de KPIs | Elemento seleccionable | Inserta un panel de múltiples métricas en rejilla | Arrástralo al canvas o haz clic para insertarlo cuando necesites comparar varios KPIs en un mismo espacio sin añadir un indicador individual por cada uno. Configura en Propiedades las variables y el número de columnas de la rejilla. |
 
 
 ## 💡 Guía de Uso 
