@@ -10,12 +10,12 @@
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Buscador de pantallas SCADA | Campo de búsqueda | Filtra pantallas | Sirve para que el usuario pueda buscar con el nombre o parte del nombre una pantalla de SCADA. |
-| 2 | Selector de ordenación | Filtro desplegable | Cambia criterio de orden | Su utilidad es ordenar las pantallas ppor lo que decida el usuario, como favoritos, de la a-z, o por los mas recientes. |
-| 3 | Contador de pantallas | Indicador informativo | — | Muestra el número total de pantallas SCADA disponibles actualmente en la instalación o entorno activo. |
-| 4 | Botón "Importar" | CTA Secundario | Importa configuración SCADA | Permite importar nuevas pantallas o configuraciones SCADA desde archivos externos o plantillas previamente exportadas. |
-| 5 | Botón "Nueva pantalla SCADA" | CTA Principal | Crear nueva pantalla | Inicia el proceso de creación de una nueva pantalla SCADA dentro de la plataforma. |
-| 6 | Listado de pantallas SCADA | Grid de tarjetas | Accede a pantalla SCADA | Muestra todas las pantallas SCADA disponibles mediante tarjetas visuales. Cada tarjeta incluye nombre, número de elementos, fecha de modificación y accesos rápidos de gestión. |
+| 1 | Buscador de pantallas SCADA | Campo de búsqueda | Filtra pantallas | Permite al usuario buscar una pantalla SCADA concreta escribiendo su nombre o parte del mismo. Para utilizarlo, el usuario debe hacer clic sobre el buscador y escribir el nombre deseado. El listado se actualizará automáticamente mostrando únicamente las coincidencias. |
+| 2 | Selector de ordenación | Filtro desplegable | Cambia criterio de orden | Permite al usuario organizar las pantallas SCADA según distintos criterios como favoritos, orden alfabético o más recientes. Para utilizarlo, el usuario debe abrir el desplegable y seleccionar el tipo de ordenación que desea aplicar al listado. |
+| 3 | Contador de pantallas | Indicador informativo | — | Permite al usuario conocer el número total de pantallas SCADA disponibles dentro del entorno activo para tener una referencia rápida de la cantidad de elementos existentes. |
+| 4 | Botón "Importar" | CTA Secundario | Importa configuración SCADA | Permite al usuario conocer el número total de pantallas SCADA disponibles dentro del entorno activo para tener una referencia rápida de la cantidad de elementos existentes. |
+| 5 | Botón "Nueva pantalla SCADA" | CTA Principal | Crear nueva pantalla | Permite al usuario iniciar la creación de una nueva pantalla SCADA. Para utilizarlo, el usuario debe pulsar el botón, introducir un nombre para la pantalla y comenzar a añadir componentes gráficos y variables en tiempo real. |
+| 6 | Listado de pantallas SCADA | Grid de tarjetas | Accede a pantalla SCADA | Permite al usuario visualizar todas las pantallas SCADA disponibles mediante tarjetas informativas. Para acceder a una pantalla concreta, el usuario debe hacer clic sobre la tarjeta correspondiente y podrá visualizarla o editarla según sus permisos. |
 
 ## 💡 Guía de uso
 
