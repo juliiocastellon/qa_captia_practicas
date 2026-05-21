@@ -9,11 +9,11 @@
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Buscador de dashboards | Campo de búsqueda | Filtra dashboards | Permite localizar dashboards rápidamente mediante nombre o coincidencia textual. El listado se actualiza dinámicamente según el texto introducido. |
-| 2 | Selector de ordenación | Filtro desplegable | Cambia criterio de orden | Permite ordenar los dashboards disponibles según distintos criterios, como recientes, nombre o actividad reciente. |
-| 3 | Contador de dashboards | Indicador informativo | — | Muestra el número total de dashboards disponibles actualmente en el entorno activo. |
-| 4 | Botón "Nuevo dashboard" | CTA Principal | Crear nuevo dashboard | Inicia el proceso de creación de un nuevo dashboard dentro de la plataforma. |
-| 5 | Listado de dashboards | Grid de tarjetas | Accede a dashboard | Muestra todos los dashboards disponibles mediante tarjetas visuales. Cada tarjeta incluye nombre, fecha de actualización, número de widgets y accesos rápidos de gestión. |
+| 1 | Buscador de dashboards | Campo de búsqueda | Filtra dashboards | Permite al usuario localizar rápidamente un dashboard escribiendo su nombre o parte del mismo. Para utilizarlo, el usuario debe hacer clic sobre el buscador e introducir el texto deseado. El listado se actualizará automáticamente mostrando únicamente los dashboards coincidentes. |
+| 2 | Selector de ordenación | Filtro desplegable | Cambia criterio de orden | Permite al usuario organizar los dashboards según diferentes criterios como nombre, actividad reciente o dashboards más recientes. Para utilizarlo, el usuario debe abrir el desplegable y seleccionar el tipo de ordenación que desea aplicar. |
+| 3 | Contador de dashboards | Indicador informativo | — | Permite al usuario visualizar el número total de dashboards disponibles actualmente dentro del entorno activo para tener una referencia rápida de los paneles existentes. |
+| 4 | Botón "Nuevo dashboard" | CTA Principal | Crear nuevo dashboard | Permite al usuario iniciar la creación de un nuevo dashboard dentro de la plataforma. Para utilizarlo, el usuario debe pulsar el botón, introducir un nombre y comenzar a añadir widgets, gráficos y variables al nuevo panel. |
+| 5 | Listado de dashboards | Grid de tarjetas | Accede a dashboard | Permite al usuario visualizar todos los dashboards disponibles mediante tarjetas informativas. Para acceder a uno concreto, el usuario debe hacer clic sobre la tarjeta correspondiente y podrá visualizarlo o editarlo según sus permisos. |
 
 ## 💡 Guía de uso
 
