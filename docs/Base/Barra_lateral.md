@@ -10,19 +10,19 @@
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Inicio | Ítem de navegación (activo) | Navega a la pantalla de Inicio | Página principal de la plataforma. Se muestra resaltado en verde cuando está activo. |
-| 2 | SCADA | Ítem de navegación | Navega a la sección SCADA | Accede al entorno de supervisión y control de procesos industriales en tiempo real. |
-| 3 | Dashboards | Ítem de navegación | Navega a la sección Dashboards | Accede al constructor y visualizador de paneles de control con métricas e indicadores. |
-| 4 | Informes | Ítem de navegación | Navega a la sección Informes | Accede a la generación y consulta de informes de datos y rendimiento. |
-| 5 | Automatizaciones | Ítem de navegación | Navega a la sección Automatizaciones | Accede a la configuración de reglas y flujos de automatización de procesos. |
-| 6 | Tareas | Ítem de navegación | Navega a la sección Tareas | Accede a la gestión y seguimiento de tareas asignadas en la plataforma. |
-| 7 | Calendario | Ítem de navegación | Navega a la sección Calendario | Accede a la vista de planificación temporal de eventos, tareas y mantenimientos. |
-| 8 | Alarmas | Ítem de navegación | Navega a la sección Alarmas | Accede al panel de gestión y consulta del historial de alarmas del sistema. |
-| 9 | Variables | Ítem de navegación | Navega a la sección Variables | Accede a la configuración y consulta de las variables de datos de la plataforma. |
-| 10 | Auditoría | Ítem de navegación (secundario) | Navega a la sección Auditoría | Accede al registro de actividad y trazabilidad de acciones realizadas en el sistema. |
-| 11 | Cuenta | Ítem de navegación (secundario) | Navega a la sección Cuenta | Accede a la configuración del perfil de usuario y ajustes de la cuenta. |
-| 12 | Toggle ON/OFF | Control de estado global | Activa/desactiva el modo operativo | Interruptor que permite activar o desactivar el estado operativo de la plataforma o sesión activa. Muestra el estado actual (ON en verde). |
-| 13 | Botón colapsar menú | Icono / Toggle | Colapsa/expande el panel lateral | Permite reducir el menú a iconos para ganar espacio en el área de trabajo. |
+| 1 | Inicio | Ítem de navegación (activo) | Navega a la pantalla de Inicio | Permite al usuario acceder a la pantalla principal de la plataforma donde se muestran resúmenes, métricas y accesos rápidos. Para utilizarlo, el usuario debe pulsar sobre la opción “Inicio” en el menú lateral. |
+| 2 | SCADA | Ítem de navegación | Navega a la sección SCADA | Permite al usuario acceder al entorno de supervisión y control industrial en tiempo real. Para utilizarlo, el usuario debe pulsar la opción “SCADA” y podrá visualizar o editar pantallas de monitorización. |
+| 3 | Dashboards | Ítem de navegación | Navega a la sección Dashboards | Permite al usuario acceder al módulo de dashboards para visualizar métricas, gráficos y KPIs. Para utilizarlo, el usuario debe pulsar sobre “Dashboards” en el menú lateral. |
+| 4 | Informes | Ítem de navegación | Navega a la sección Informes | Permite al usuario acceder a la generación y consulta de informes del sistema. Para utilizarlo, el usuario debe pulsar la opción “Informes” y seleccionar o crear un informe. |
+| 5 | Automatizaciones | Ítem de navegación | Navega a la sección Automatizaciones | Permite al usuario acceder al entorno de workflows y automatizaciones de procesos. Para utilizarlo, el usuario debe pulsar sobre “Automatizaciones” y podrá gestionar reglas y flujos automáticos. |
+| 6 | Tareas | Ítem de navegación | Navega a la sección Tareas | Permite al usuario acceder a la gestión de tareas y seguimiento de actividades dentro de la plataforma. Para utilizarlo, el usuario debe pulsar la opción “Tareas”. |
+| 7 | Calendario | Ítem de navegación | Navega a la sección Calendario | Permite al usuario acceder a la planificación temporal de eventos, tareas y mantenimientos. Para utilizarlo, el usuario debe pulsar sobre “Calendario” para visualizar la agenda correspondiente. |
+| 8 | Alarmas | Ítem de navegación | Navega a la sección Alarmas | Permite al usuario acceder al panel de alarmas activas e históricas del sistema. Para utilizarlo, el usuario debe pulsar la opción “Alarmas” para consultar incidencias y estados críticos. |
+| 9 | Variables | Ítem de navegación | Navega a la sección Variables | Permite al usuario acceder a la configuración y consulta de variables monitorizadas dentro de la plataforma. Para utilizarlo, el usuario debe pulsar la opción “Variables”. |
+| 10 | Auditoría | Ítem de navegación (secundario) | Navega a la sección Auditoría | Permite al usuario acceder al historial de actividad y trazabilidad de acciones realizadas en la plataforma. Para utilizarlo, el usuario debe pulsar la opción “Auditoría” dentro del menú lateral. |
+| 11 | Cuenta | Ítem de navegación (secundario) | Navega a la sección Cuenta | Permite al usuario acceder a la configuración de perfil, preferencias y ajustes de la cuenta. Para utilizarlo, el usuario debe pulsar la opción “Cuenta”. |
+| 12 | Toggle ON/OFF | Control de estado global | Activa/desactiva el modo operativo | Permite al usuario activar o desactivar el estado operativo de la plataforma o sesión actual. Para utilizarlo, el usuario debe pulsar el interruptor para cambiar entre estado ON y OFF. |
+| 13 | Botón colapsar menú | Icono / Toggle | Colapsa/expande el panel lateral | Permite al usuario reducir o expandir el menú lateral para ganar espacio en el área de trabajo. Para utilizarlo, el usuario debe pulsar el icono de colapsado situado en el lateral del menú. |
 
 ## 💡 Guía de Uso 
 
