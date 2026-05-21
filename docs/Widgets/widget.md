@@ -10,22 +10,22 @@
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Pestaña "Widgets" | Pestaña activa | Muestra el catálogo de widgets | Vista activa del panel lateral. Muestra todos los widgets disponibles organizados por categoría. |
-| 2 | Pestaña "Propiedades" | Pestaña | Muestra propiedades del elemento seleccionado | Cambia la vista del panel lateral para mostrar las propiedades de configuración del widget actualmente seleccionado. |
-| 3 | Widgets de Analytics | Grupo colapsable | Despliega/colapsa subcategorías | Agrupa todos los widgets de análisis de datos. Contiene 9 subcategorías con un total variable de widgets. |
-| 3.1 | Gráficos | Subcategoría | Despliega listado de widgets | Widgets de representación visual de datos. Contiene 9 widgets disponibles. |
-| 3.2 | Textos | Subcategoría | Despliega listado de widgets | Widgets de contenido textual. Contiene 2 widgets disponibles. |
-| 3.3 | Indicadores | Subcategoría | Despliega listado de widgets | Widgets para mostrar valores de indicadores y KPIs individuales. Contiene 5 widgets disponibles. |
-| 3.4 | Manufacturing KPIs | Subcategoría | Despliega listado de widgets | Widgets especializados en indicadores de producción y fabricación. Contiene 12 widgets disponibles. |
-| 3.5 | Maintenance KPIs | Subcategoría | Despliega listado de widgets | Widgets especializados en indicadores de mantenimiento. Contiene 8 widgets disponibles. |
-| 3.6 | Datos | Subcategoría | Despliega listado de widgets | Widgets para visualización directa de datos en bruto. Contiene 2 widgets disponibles. |
-| 3.7 | Contenido | Subcategoría | Despliega listado de widgets | Widgets de contenido embebido o estático. Contiene 1 widget disponible. |
-| 3.8 | Formas SCADA | Subcategoría | Despliega listado de widgets | Widgets de formas y elementos visuales para vistas SCADA. Contiene 1 widget disponible. |
-| 3.9 | Avanzados | Subcategoría | Despliega listado de widgets | Widgets de uso avanzado o configuración compleja. Contiene 1 widget disponible. |
-| 4 | Elementos SCADA | Grupo colapsable | Despliega/colapsa subcategorías | Agrupa los elementos propios del editor SCADA. Se puede arrastrar al canvas o hacer clic para añadir. |
-| 4.1 | Básicos | Subcategoría | Despliega listado de elementos | Elementos SCADA fundamentales para construir vistas de control. Contiene 6 elementos disponibles. |
-| 4.2 | Alarmas | Subcategoría | Despliega listado de elementos | Elementos SCADA específicos para representar estados de alarma. Contiene 1 elemento disponible. |
-| — | Barra de consejos | Información | — | Muestra atajos de teclado disponibles: Shift+clic para multiselección, Ctrl/Cmd+C/V/D para copiar, pegar y duplicar elementos. |
+| 1 | Pestaña "Widgets" | Pestaña activa | Muestra el catálogo de widgets | Accede aquí para explorar y añadir widgets al canvas; están organizados por categoría para facilitar su localización. |
+| 2 | Pestaña "Propiedades" | Pestaña | Muestra propiedades del elemento seleccionado | Haz clic aquí tras seleccionar un widget en el canvas para configurar sus opciones: fuente de datos, colores, títulos y demás parámetros. |
+| 3 | Widgets de Analytics | Grupo colapsable | Despliega/colapsa subcategorías | Despliégalo para acceder a todos los widgets de análisis de datos, organizados en 9 subcategorías. |
+| 3.1 | Gráficos | Subcategoría | Despliega listado de widgets | Úsala para localizar y añadir cualquiera de los 9 widgets de representación visual de datos disponibles. |
+| 3.2 | Textos | Subcategoría | Despliega listado de widgets | Úsala para añadir cualquiera de los 2 widgets de contenido textual disponibles. |
+| 3.3 | Indicadores | Subcategoría | Despliega listado de widgets | Úsala para añadir cualquiera de los 5 widgets de indicadores y KPIs individuales disponibles. |
+| 3.4 | Manufacturing KPIs | Subcategoría | Despliega listado de widgets | Úsala para añadir cualquiera de los 12 widgets especializados en indicadores de producción y fabricación disponibles. |
+| 3.5 | Maintenance KPIs | Subcategoría | Despliega listado de widgets | Úsala para añadir cualquiera de los 8 widgets especializados en indicadores de mantenimiento disponibles. |
+| 3.6 | Datos | Subcategoría | Despliega listado de widgets | Úsala para añadir cualquiera de los 2 widgets de visualización de datos en bruto disponibles. |
+| 3.7 | Contenido | Subcategoría | Despliega listado de widgets | Úsala para añadir el widget de contenido embebido o estático disponible. |
+| 3.8 | Formas SCADA | Subcategoría | Despliega listado de widgets | Úsala para añadir el widget de formas y elementos visuales para vistas SCADA disponible. |
+| 3.9 | Avanzados | Subcategoría | Despliega listado de widgets | Úsala cuando los widgets estándar no cubran tu necesidad; contiene 1 widget de configuración avanzada. |
+| 4 | Elementos SCADA | Grupo colapsable | Despliega/colapsa subcategorías | Despliégalo para acceder a los elementos del editor SCADA; arrástralos al canvas o haz clic sobre ellos para añadirlos. |
+| 4.1 | Básicos | Subcategoría | Despliega listado de elementos | Úsala para añadir cualquiera de los 6 elementos SCADA fundamentales para construir vistas de control. |
+| 4.2 | Alarmas | Subcategoría | Despliega listado de elementos | Úsala para añadir el elemento SCADA de representación de estados de alarma disponible. |
+| — | Barra de consejos | Información | — | Consúltala para recordar los atajos de teclado disponibles: Shift+clic para multiselección, Ctrl/Cmd+C para copiar, Ctrl/Cmd+V para pegar y Ctrl/Cmd+D para duplicar elementos. |
 
 ## 💡 Guía de uso
 
