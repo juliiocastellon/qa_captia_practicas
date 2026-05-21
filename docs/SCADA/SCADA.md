@@ -10,8 +10,8 @@
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Buscador de pantallas SCADA | Campo de búsqueda | Filtra pantallas | Permite localizar rápidamente pantallas SCADA mediante nombre o coincidencia textual. El listado se actualiza dinámicamente según el texto introducido. |
-| 2 | Selector de ordenación | Filtro desplegable | Cambia criterio de orden | Permite ordenar las pantallas disponibles según distintos criterios, como recientes, nombre o actividad reciente. |
+| 1 | Buscador de pantallas SCADA | Campo de búsqueda | Filtra pantallas | Sirve para que el usuario pueda buscar con el nombre o parte del nombre una pantalla de SCADA. |
+| 2 | Selector de ordenación | Filtro desplegable | Cambia criterio de orden | Su utilidad es ordenar las pantallas ppor lo que decida el usuario, como favoritos, de la a-z, o por los mas recientes. |
 | 3 | Contador de pantallas | Indicador informativo | — | Muestra el número total de pantallas SCADA disponibles actualmente en la instalación o entorno activo. |
 | 4 | Botón "Importar" | CTA Secundario | Importa configuración SCADA | Permite importar nuevas pantallas o configuraciones SCADA desde archivos externos o plantillas previamente exportadas. |
 | 5 | Botón "Nueva pantalla SCADA" | CTA Principal | Crear nueva pantalla | Inicia el proceso de creación de una nueva pantalla SCADA dentro de la plataforma. |
