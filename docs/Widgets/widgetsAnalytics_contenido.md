@@ -17,5 +17,5 @@
 ## 💡 Guía de Uso 
 La sección **Contenido** incluye actualmente un elemento de enriquecimiento contextual para tus vistas. Seleccionando **Tiempo meteorológico** (3.7.1) podrás incorporar un widget que muestra las condiciones climáticas actuales y el pronóstico asociados a una ubicación determinada, especialmente útil en entornos operativos donde las condiciones atmosféricas influyen en la actividad —como logística, agricultura o producción exterior. El contador (1) en la cabecera indica el número de elementos disponibles en esta sección, y puedes colapsar o expandir el bloque en cualquier momento usando la flecha de la derecha.
 
-[← Anterior](./widgetsAnalytics_avanzados.md) • [📚 Índice](../README.md) • [Siguiente →](./widgetsAnalytics_datos.md)
+[← Anterior](./widgetsAnalytics_datos.md) • [📚 Índice](../README.md) • [Siguiente →](./widgetsAnalytics_datos.md)
 
