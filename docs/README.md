@@ -113,15 +113,15 @@
 
 | Documento | Descripción |
 |---|---|
-| [widgetsAnalytics_avanzados.md](./Widgets/widgetsAnalytics_avanzados.md) | Widgets avanzados para análisis industriales complejos. |
-| [widgetsAnalytics_contenido.md](./Widgets/widgetsAnalytics_contenido.md) | Widgets orientados a contenido textual y visual. |
-| [widgetsAnalytics_datos.md](./Widgets/widgetsAnalytics_datos.md) | Widgets de representación de datos y tablas. |
-| [widgetsAnalytics_formas_escada.md](./Widgets/widgetsAnalytics_formas_escada.md) | Formas visuales y elementos gráficos SCADA. |
 | [widgetsAnalytics_graficos.md](./Widgets/widgetsAnalytics_graficos.md) | Widgets gráficos y representaciones visuales de métricas. |
-| [widgetsAnalytics_indicadores.md](./Widgets/widgetsAnalytics_indicadores.md) | Indicadores visuales y estados operativos. |
-| [widgetsAnalytics_maintenance_KPIs.md](./Widgets/widgetsAnalytics_maintenance_KPIs.md) | Widgets de mantenimiento y KPIs técnicos. |
-| [widgetsAnalytics_manufacturing_KPIs.md](./Widgets/widgetsAnalytics_manufacturing_KPIs.md) | Widgets de KPIs industriales y manufacturing. |
 | [widgetsAnalytics_textos.md](./Widgets/widgetsAnalytics_textos.md) | Widgets de texto y contenido descriptivo. |
+| [widgetsAnalytics_indicadores.md](./Widgets/widgetsAnalytics_indicadores.md) | Indicadores visuales y estados operativos. |
+| [widgetsAnalytics_manufacturing_KPIs.md](./Widgets/widgetsAnalytics_manufacturing_KPIs.md) | Widgets de KPIs industriales y manufacturing. |
+| [widgetsAnalytics_maintenance_KPIs.md](./Widgets/widgetsAnalytics_maintenance_KPIs.md) | Widgets de mantenimiento y KPIs técnicos. |
+| [widgetsAnalytics_datos.md](./Widgets/widgetsAnalytics_datos.md) | Widgets de representación de datos y tablas. |
+| [widgetsAnalytics_contenido.md](./Widgets/widgetsAnalytics_contenido.md) | Widgets orientados a contenido textual y visual. |
+| [widgetsAnalytics_formas_escada.md](./Widgets/widgetsAnalytics_formas_escada.md) | Formas visuales y elementos gráficos SCADA. |
+| [widgetsAnalytics_avanzados.md](./Widgets/widgetsAnalytics_avanzados.md) | Widgets avanzados para análisis industriales complejos. |
 
 ---
 
@@ -129,8 +129,8 @@
 
 | Documento | Descripción |
 |---|---|
-| [widgetsScada_alarmas.md](./Widgets/widgetsScada_alarmas.md) | Widgets relacionados con alarmas SCADA. |
 | [widgetsScada_basicos.md](./Widgets/widgetsScada_basicos.md) | Widgets básicos utilizados en pantallas SCADA. |
+| [widgetsScada_alarmas.md](./Widgets/widgetsScada_alarmas.md) | Widgets relacionados con alarmas SCADA. |
 
 ---
 
