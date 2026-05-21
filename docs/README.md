@@ -8,9 +8,9 @@
 
 | Documento | Descripción |
 |---|---|
-| [Barra_lateral.md](./Base/Barra_lateral.md) | Documentación de la navegación lateral principal y accesos globales de la plataforma. |
-| [barra_superior.md](./Base/barra_superior.md) | Explica los elementos de la barra superior, estado del sistema, notificaciones y controles globales. |
-| [pagina_inicio.md](./Base/pagina_inicio.md) | Describe la página principal inteligente y el funcionamiento del sistema de IA operacional. |
+| [Barra_Lateral](./Base/Barra_lateral.md) | Documentación de la navegación lateral principal y accesos globales de la plataforma. |
+| [Barra_Superior](./Base/barra_superior.md) | Explica los elementos de la barra superior, estado del sistema, notificaciones y controles globales. |
+| [Página Inicio](./Base/pagina_inicio.md) | Describe la página principal inteligente y el funcionamiento del sistema de IA operacional. |
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Documento | Descripción |
 |---|---|
-| [SCADA.md](./SCADA/SCADA.md) | Gestión general de pantallas SCADA y navegación entre escenas. |
-| [Edicion_SCADA.md](./SCADA/Edicion_SCADA.md) | Explica el editor visual SCADA y cómo crear o modificar escenas industriales. |
+| [SCADA](./SCADA/SCADA.md) | Gestión general de pantallas SCADA y navegación entre escenas. |
+| [Edición SCADA](./SCADA/Edicion_SCADA.md) | Explica el editor visual SCADA y cómo crear o modificar escenas industriales. |
 
 ---
 
@@ -27,8 +27,8 @@
 
 | Documento | Descripción |
 |---|---|
-| [DASHBOARD.md](./DASHBOARD/DASHBOARD.md) | Gestión y visualización de dashboards analíticos. |
-| [Edicion_DASHBOARD.md](./DASHBOARD/Edicion_DASHBOARD.md) | Uso del editor de dashboards y configuración de widgets. |
+| [DASHBOARD](./DASHBOARD/DASHBOARD.md) | Gestión y visualización de dashboards analíticos. |
+| [Edicion DASHBOARD](./DASHBOARD/Edicion_DASHBOARD.md) | Uso del editor de dashboards y configuración de widgets. |
 
 ---
 
@@ -36,8 +36,8 @@
 
 | Documento | Descripción |
 |---|---|
-| [Informes.md](./Informes/Informes.md) | Gestión de informes y visualización de resultados analíticos. |
-| [Edición_Informes.md](./Informes/Edición_Informes.md) | Configuración, creación y edición de informes personalizados. |
+| [Informes](./Informes/Informes.md) | Gestión de informes y visualización de resultados analíticos. |
+| [Edición Informes](./Informes/Edición_Informes.md) | Configuración, creación y edición de informes personalizados. |
 
 ---
 
@@ -45,8 +45,8 @@
 
 | Documento | Descripción |
 |---|---|
-| [Automatizaciones.md](./Automatizaciones/Automatizaciones.md) | Gestión de workflows y automatizaciones industriales. |
-| [Edicion_Automatizaciones.md](./Automatizaciones/Edicion_Automatizaciones.md) | Uso del editor visual de automatizaciones y nodos. |
+| [Automatizaciones](./Automatizaciones/Automatizaciones.md) | Gestión de workflows y automatizaciones industriales. |
+| [Edicion Automatizaciones](./Automatizaciones/Edicion_Automatizaciones.md) | Uso del editor visual de automatizaciones y nodos. |
 
 ---
 
@@ -54,8 +54,8 @@
 
 | Documento | Descripción |
 |---|---|
-| [Variables.md](./Variables/Variables.md) | Gestión y monitorización de variables industriales. |
-| [Crear_variable.md](./Variables/Crear_variable.md) | Creación y configuración de nuevas variables del sistema. |
+| [Variables](./Variables/Variables.md) | Gestión y monitorización de variables industriales. |
+| [Crear variable](./Variables/Crear_variable.md) | Creación y configuración de nuevas variables del sistema. |
 
 ---
 
