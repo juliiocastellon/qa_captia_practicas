@@ -10,8 +10,8 @@
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 4.1 | Sección "Alarmas" | Grupo / Acordeón | Expande/colapsa el bloque | Agrupa los elementos de gestión y visualización de alarmas disponibles. Muestra un contador (1) con el total de subelementos. |
-| 4.1.1 | Banner de Alarmas | Elemento seleccionable | Inserta un banner compacto de alarmas activas | Presenta de forma condensada la lista de alarmas activas en el momento de la consulta, permitiendo al operador identificar incidencias rápidamente sin abandonar la vista actual. |
+| 4.1 | Sección "Alarmas" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque para acceder al elemento de notificación de alarmas disponible. |
+| 4.1.1 | Banner de Alarmas | Elemento seleccionable | Inserta un banner compacto de alarmas activas | Arrástralo al canvas o haz clic para insertarlo cuando quieras que el operador tenga siempre visibles las alarmas activas sin necesidad de abandonar la vista actual. Configura en Propiedades los niveles de severidad y los activos que quieres monitorizar. |
 
 ## 💡 Guía de Uso 
 
