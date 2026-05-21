@@ -8,16 +8,16 @@
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 3.1 | Categoría "Gráficos" | Categoría de widgets | Despliega widgets | Agrupa todos los widgets relacionados con representación gráfica y visualización de datos. |
-| 3.1.1 | Widget "Líneas" | Widget gráfico | Inserta gráfico | Permite añadir un gráfico de líneas orientado a representar tendencias y evolución temporal de datos. |
-| 3.1.2 | Widget "Área" | Widget gráfico | Inserta gráfico | Permite añadir un gráfico de área para representar volumen acumulado o evolución continua de valores. |
-| 3.1.3 | Widget "Barras Horizontales" | Widget gráfico | Inserta gráfico | Permite visualizar comparaciones entre categorías mediante barras horizontales. |
-| 3.1.4 | Widget "Columnas" | Widget gráfico | Inserta gráfico | Permite representar comparaciones de valores mediante columnas verticales. |
-| 3.1.5 | Widget "Barras Apiladas" | Widget gráfico | Inserta gráfico | Permite representar composición horizontal agrupada por categorías o estados. |
-| 3.1.6 | Widget "Columnas Apiladas" | Widget gráfico | Inserta gráfico | Permite visualizar composición de datos mediante columnas agrupadas y apiladas. |
-| 3.1.7 | Widget "Pastel" | Widget gráfico | Inserta gráfico | Permite mostrar distribución porcentual de datos mediante gráfico circular. |
-| 3.1.8 | Widget "Dona" | Widget gráfico | Inserta gráfico | Permite representar distribuciones porcentuales mediante gráfico circular con centro vacío. |
-| 3.1.9 | Widget "Imagen" | Widget multimedia | Inserta imagen | Permite añadir imágenes PNG, JPG o SVG dentro del dashboard o pantalla SCADA. |
+| 3.1 | Categoría "Gráficos" | Categoría de widgets | Despliega widgets | Despliégala para localizar y añadir el tipo de gráfico que mejor represente tus datos. |
+| 3.1.1 | Widget "Líneas" | Widget gráfico | Inserta gráfico | Arrástralo al canvas o haz clic para insertarlo cuando necesites visualizar la evolución temporal de una o varias variables. Configura en Propiedades las series, el rango de tiempo y los ejes. |
+| 3.1.2 | Widget "Área" | Widget gráfico | Inserta gráfico | Arrástralo al canvas o haz clic para insertarlo cuando quieras resaltar visualmente el volumen acumulado o la evolución continua de un valor. Configura en Propiedades las series y el periodo a mostrar. |
+| 3.1.3 | Widget "Barras Horizontales" | Widget gráfico | Inserta gráfico | Arrástralo al canvas o haz clic para insertarlo cuando necesites comparar valores entre categorías de forma horizontal. Configura en Propiedades las categorías y la métrica a representar. |
+| 3.1.4 | Widget "Columnas" | Widget gráfico | Inserta gráfico | Arrástralo al canvas o haz clic para insertarlo cuando quieras comparar valores entre categorías en formato vertical. Configura en Propiedades las categorías y la métrica a representar. |
+| 3.1.5 | Widget "Barras Apiladas" | Widget gráfico | Inserta gráfico | Arrástralo al canvas o haz clic para insertarlo cuando necesites mostrar cómo se compone un total a partir de varias categorías en formato horizontal. Configura en Propiedades los segmentos y la agrupación. |
+| 3.1.6 | Widget "Columnas Apiladas" | Widget gráfico | Inserta gráfico | Arrástralo al canvas o haz clic para insertarlo cuando quieras visualizar la composición de un total mediante columnas agrupadas en formato vertical. Configura en Propiedades los segmentos y la agrupación. |
+| 3.1.7 | Widget "Pastel" | Widget gráfico | Inserta gráfico | Arrástralo al canvas o haz clic para insertarlo cuando necesites mostrar la distribución porcentual de un conjunto de valores de forma circular. Configura en Propiedades las categorías y la métrica a distribuir. |
+| 3.1.8 | Widget "Dona" | Widget gráfico | Inserta gráfico | Arrástralo al canvas o haz clic para insertarlo cuando quieras representar distribuciones porcentuales dejando el centro libre para mostrar un valor resumen. Configura en Propiedades las categorías y el valor central. |
+| 3.1.9 | Widget "Imagen" | Widget multimedia | Inserta imagen | Arrástralo al canvas o haz clic para insertarlo cuando necesites añadir un elemento visual estático como un plano, un logotipo o un diagrama. Configura en Propiedades el archivo PNG, JPG o SVG a mostrar. |
 
 ## 💡 Guía de uso
 
