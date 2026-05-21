@@ -11,7 +11,7 @@
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
 | 3.7 | Sección "Contenido" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque para acceder a elementos de contenido contextual que enriquecen la información de tu vista. |
-| 3.7.1 | Tiempo meteorológico | Elemento seleccionable | Inserta un widget de tiempo actual y pronóstico | Úsalo en dashboards de operaciones donde las condiciones climáticas afectan a la actividad, para que el operador tenga el tiempo disponible sin salir de la vista. |
+| 3.7.1 | Tiempo meteorológico | Elemento seleccionable | Inserta un widget de tiempo actual y pronóstico | Inserta el elemento en la platilla y úsalo en dashboards de operaciones donde las condiciones climáticas afectan a la actividad, para que el operador tenga el tiempo disponible sin salir de la vista. |
 
 
 ## 💡 Guía de Uso 
