@@ -10,13 +10,13 @@
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Pestaña "Overview" | Tab (activo) | Navega a la vista general de alarmas | Muestra un resumen del estado actual de las alarmas del sistema. Se presenta activa y subrayada al ser la vista por defecto. |
-| 2 | Pestaña "Timeline" | Tab | Navega a la vista de línea de tiempo | Permite visualizar la evolución cronológica de las alarmas registradas en el sistema. |
-| 3 | Pestaña "Reglas" | Tab | Navega a la gestión de reglas de alarma | Permite configurar, crear y editar las reglas que definen cuándo y cómo se disparan las alarmas. |
-| 4 | Pestaña "Correlación" | Tab | Navega a la vista de correlación de alarmas | Permite identificar relaciones y patrones entre distintas alarmas para facilitar el análisis de causas raíz. |
-| 5 | Pestaña "KPIs" | Tab | Navega a los indicadores clave de alarmas | Muestra métricas de rendimiento relacionadas con la gestión de alarmas, como frecuencia, tiempo de respuesta o tasa de resolución. |
-| 6 | Pestaña "Auditoría" | Tab | Navega al registro de auditoría de alarmas | Presenta el historial de acciones realizadas sobre las alarmas, incluyendo cambios de estado, asignaciones y resoluciones. |
-| 7 | Pestaña "Monitores" | Tab | Navega a la gestión de monitores de alarma | Permite configurar y supervisar los monitores encargados de la detección continua de condiciones de alarma. |
+| 1 | Pestaña "Overview" | Tab (activo) | Navega a la vista general de alarmas | Accede aquí para obtener el resumen global del estado actual de las alarmas del sistema. |
+| 2 | Pestaña "Timeline" | Tab | Navega a la vista de línea de tiempo | Accede aquí para analizar cuándo se han producido las alarmas y durante cuánto tiempo han permanecido activas. |
+| 3 | Pestaña "Reglas" | Tab | Navega a la gestión de reglas de alarma | Accede aquí para crear, editar o eliminar las condiciones que determinan cuándo se dispara cada alarma. |
+| 4 | Pestaña "Correlación" | Tab | Navega a la vista de correlación de alarmas | Accede aquí para identificar relaciones entre alarmas y detectar posibles causas raíz de forma automática. |
+| 5 | Pestaña "KPIs" | Tab | Navega a los indicadores clave de alarmas | Accede aquí para evaluar el rendimiento de la gestión de alarmas mediante indicadores clave. |
+| 6 | Pestaña "Auditoría" | Tab | Navega al registro de auditoría de alarmas | Accede aquí para consultar el historial de acciones manuales realizadas sobre alarmas e incidentes. |
+| 7 | Pestaña "Monitores" | Tab | Navega a la gestión de monitores de alarma | Accede aquí para verificar el estado técnico interno del sistema de alarmas y diagnosticar posibles problemas de infraestructura. |
 
 ## 💡 Guía de Uso
 
