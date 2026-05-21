@@ -10,15 +10,15 @@
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 3.5 | Maintenance KPIs | Categoría / Contenedor | Expande o colapsa el listado | Agrupa todos los widgets y métricas relacionadas con mantenimiento industrial. |
-| 3.5.1 | Availability | Widget KPI | Navega al detalle de disponibilidad | Muestra la disponibilidad operativa del equipo respecto al tiempo total planificado. |
-| 3.5.2 | MTBF | KPI Temporal | Navega al detalle de fiabilidad | Presenta el tiempo medio entre fallos (Mean Time Between Failures). |
-| 3.5.3 | MTTR | KPI Temporal | Navega al detalle de reparación | Muestra el tiempo medio necesario para reparar incidencias (Mean Time To Repair). |
-| 3.5.4 | Fault Events | Contador KPI | Navega al detalle de fallos | Indica el número total de eventos de fallo registrados en los equipos. |
-| 3.5.5 | Unplanned Downtime | KPI Temporal | Navega al detalle de paradas | Permite visualizar el tiempo de parada no planificada. |
-| 3.5.6 | Setup Time | KPI Operacional | Navega al detalle de preparación | Muestra el tiempo empleado en preparación, configuración o cambios de producción. |
-| 3.5.7 | Fault Events per Hour | Gráfico de barras | Navega al análisis horario | Representa la cantidad de eventos de fallo registrados por hora. |
-| 3.5.8 | Downtime Breakdown | Gráfico stacked | Navega al desglose de paradas | Visualiza la distribución de tiempos de parada clasificados por tipo o causa. |
+| 3.5 | Maintenance KPIs | Categoría / Contenedor | Expande o colapsa el listado | Despliega el bloque para acceder a los widgets especializados en indicadores de mantenimiento industrial. |
+| 3.5.1 | Availability | Widget KPI | Inserta indicador de disponibilidad | Arrástralo al canvas o haz clic para insertarlo cuando necesites monitorizar qué porcentaje del tiempo planificado el equipo ha estado realmente operativo. Configura en Propiedades el activo y el periodo de cálculo. |
+| 3.5.2 | MTBF | KPI Temporal | Inserta indicador de fiabilidad | Arrástralo al canvas o haz clic para insertarlo cuando quieras evaluar la fiabilidad de un equipo midiendo el tiempo medio que transcurre entre un fallo y el siguiente. Configura en Propiedades el activo y el rango temporal. |
+| 3.5.3 | MTTR | KPI Temporal | Inserta indicador de reparación | Arrástralo al canvas o haz clic para insertarlo cuando necesites medir la eficiencia del equipo de mantenimiento a través del tiempo medio que se tarda en reparar una incidencia. Configura en Propiedades el activo y el periodo de análisis. |
+| 3.5.4 | Fault Events | Contador KPI | Inserta contador de fallos | Arrástralo al canvas o haz clic para insertarlo cuando quieras llevar un recuento acumulado de los eventos de fallo registrados en un equipo durante un periodo determinado. Configura en Propiedades el activo y el intervalo de tiempo. |
+| 3.5.5 | Unplanned Downtime | KPI Temporal | Inserta indicador de paradas no planificadas | Arrástralo al canvas o haz clic para insertarlo cuando necesites cuantificar el tiempo de parada no planificada y evaluar su impacto en la disponibilidad del equipo. Configura en Propiedades el activo y el periodo a analizar. |
+| 3.5.6 | Setup Time | KPI Operacional | Inserta indicador de tiempo de preparación | Arrástralo al canvas o haz clic para insertarlo cuando quieras hacer seguimiento del tiempo invertido en preparaciones, cambios de formato o configuraciones entre producciones. Configura en Propiedades el activo y el tipo de cambio a medir. |
+| 3.5.7 | Fault Events per Hour | Gráfico de barras | Inserta gráfico de fallos por hora | Arrástralo al canvas o haz clic para insertarlo cuando necesites identificar en qué franjas horarias se concentran los fallos de un equipo. Configura en Propiedades el activo y el rango temporal del análisis. |
+| 3.5.8 | Downtime Breakdown | Gráfico stacked | Inserta gráfico de desglose de paradas | Arrástralo al canvas o haz clic para insertarlo cuando quieras visualizar cómo se distribuye el tiempo de parada entre los distintos tipos o causas. Configura en Propiedades el activo, las categorías de parada y el periodo a representar. |
 
 
 ## 💡 Guía de Uso 
