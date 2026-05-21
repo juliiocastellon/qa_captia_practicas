@@ -9,14 +9,14 @@
 
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Filtro de rango temporal | Selector de fecha | Filtrar registros | Permite definir el periodo de tiempo sobre el que se consultarán los eventos de auditoría. |
-| 2 | Buscador de usuario | Campo de búsqueda | Filtrar por usuario | Permite localizar registros de auditoría asociados a usuarios concretos mediante email o identificador. |
-| 3 | Filtro de acción | Filtro desplegable | Filtrar acciones | Permite mostrar únicamente determinados tipos de acciones registradas dentro del sistema. |
-| 4 | Filtro de tipo de recurso | Filtro desplegable | Filtrar recursos | Permite visualizar eventos relacionados con recursos o módulos específicos de la plataforma. |
-| 5 | Botón "Actualizar" | CTA Secundario | Refrescar auditoría | Permite actualizar manualmente los registros y eventos mostrados en pantalla. |
-| 6 | Filtro de resultado | Filtro desplegable | Filtrar resultados | Permite visualizar registros según el resultado de la acción ejecutada, como éxito o error. |
-| 7 | Acciones de filtrado | CTA Secundario | Aplicar/Limpiar filtros | Permite aplicar los filtros configurados o limpiar rápidamente la búsqueda actual. |
-| 8 | Registro de auditoría | Tabla de eventos | Consultar actividad | Muestra el historial detallado de eventos y acciones realizadas dentro de la plataforma, incluyendo usuario, recurso, resultado y fecha de ejecución. |
+| 1 | Filtro de rango temporal | Selector de fecha | Filtrar registros | Permite al usuario definir el periodo de tiempo sobre el que se consultarán los eventos de auditoría. Para utilizarlo, el usuario debe seleccionar una fecha de inicio y una fecha final para mostrar únicamente los registros comprendidos dentro de ese rango temporal. |
+| 2 | Buscador de usuario | Campo de búsqueda | Filtrar por usuario | Permite al usuario localizar registros de auditoría asociados a usuarios concretos mediante email o identificador. Para utilizarlo, el usuario debe escribir el nombre, email o identificador del usuario en el buscador para filtrar automáticamente los resultados. |
+| 3 | Filtro de acción | Filtro desplegable | Filtrar acciones | Permite al usuario mostrar únicamente determinados tipos de acciones registradas dentro del sistema. Para utilizarlo, el usuario debe abrir el desplegable y seleccionar la acción que desea visualizar. |
+| 4 | Filtro de tipo de recurso | Filtro desplegable | Filtrar recursos | Permite al usuario visualizar eventos relacionados con módulos o recursos específicos de la plataforma. Para utilizarlo, el usuario debe seleccionar el tipo de recurso desde el menú desplegable correspondiente. |
+| 5 | Botón "Actualizar" | CTA Secundario | Refrescar auditoría | Permite al usuario actualizar manualmente los registros y eventos mostrados en pantalla para consultar la información más reciente. Para utilizarlo, el usuario debe pulsar el botón “Actualizar”. |
+| 6 | Filtro de resultado | Filtro desplegable | Filtrar resultados | Permite al usuario visualizar registros según el resultado de la acción ejecutada, como éxito o error. Para utilizarlo, el usuario debe seleccionar el resultado deseado desde el filtro desplegable. |
+| 7 | Acciones de filtrado | CTA Secundario | Aplicar/Limpiar filtros | Permite al usuario aplicar los filtros configurados o limpiar rápidamente la búsqueda actual. Para utilizarlo, el usuario debe pulsar “Aplicar filtros” para ejecutar la búsqueda o “Limpiar filtros” para restablecer los valores por defecto. |
+| 8 | Registro de auditoría | Tabla de eventos | Consultar actividad | Permite al usuario visualizar el historial detallado de eventos y acciones realizadas dentro de la plataforma. Para utilizarlo, el usuario puede consultar información como usuario, recurso, resultado o fecha de ejecución directamente desde la tabla de auditoría. |
 
 ## 💡 Guía de uso
 
