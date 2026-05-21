@@ -20,7 +20,7 @@
 | 8 | Asistente IA | Herramienta IA | Abre asistente inteligente | Permite al usuario acceder a herramientas de ayuda basadas en inteligencia artificial para facilitar tareas de configuración, diseño o automatización. Para utilizarlo, el usuario debe pulsar el botón del asistente y escribir la consulta o acción deseada. |
 | 9 | Botón de imagen de fondo | CTA Secundario | Configurar fondo de escena | Permite al usuario añadir o modificar la imagen de fondo utilizada en la escena SCADA. Para utilizarlo, el usuario debe pulsar el botón, seleccionar una imagen desde su dispositivo y confirmar la carga. |
 | 10 | Botón "Guardar" | CTA Principal | Guarda cambios | Permite al usuario almacenar todos los cambios realizados en la escena SCADA actual. Para utilizarlo, el usuario debe pulsar el botón “Guardar” después de realizar modificaciones en la pantalla. |
-| 11 | Área de diseño SCADA | Canvas de edición | Edita escena | Permite al usuario diseñar y organizar visualmente la pantalla SCADA añadiendo widgets, componentes y variables. Para utilizarla, el usuario debe arrastrar elementos al canvas y configurarlos según sus necesidades. |
+| 11 | Área de diseño SCADA | Canvas de edición | Edita escena | Permite al usuario diseñar y organizar visualmente la pantalla SCADA añadiendo [← Widgets](../Widgets/widgets.md), componentes y variables. Para utilizarla, el usuario debe arrastrar elementos al canvas y configurarlos según sus necesidades. |
 | 12 | Toggle panel de widgets | Toggle | Mostrar/ocultar panel lateral | Permite al usuario mostrar u ocultar el panel lateral de widgets y propiedades para aumentar el espacio de edición disponible. Para utilizarlo, el usuario debe pulsar el botón de apertura o cierre del panel lateral. |
 
 ## 💡 Guía de uso
