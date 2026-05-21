@@ -26,4 +26,4 @@ La sección de widgets gráficos permite incorporar distintos tipos de visualiza
 Para utilizar un widget, basta con seleccionarlo desde el panel lateral e insertarlo en el área de trabajo. Posteriormente, cada gráfico podrá configurarse mediante propiedades visuales, conexiones de datos y parámetros de visualización adaptados al contexto industrial.
 
 
-[← Anterior](./widgetsAnalytics_formas_escada.md) • [📚 Índice](../README.md) • [Siguiente →](./widgetsAnalytics_indicadores.md)
+[← Anterior](./widget.md) • [📚 Índice](../README.md) • [Siguiente →](./widgetsAnalytics_textos.md)
