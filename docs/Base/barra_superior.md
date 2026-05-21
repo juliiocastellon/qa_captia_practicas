@@ -7,12 +7,12 @@
 ## 🧩 Despiece de elementos funcionales
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Nombre de plataforma / entorno | Información | — | Muestra el nombre de la plataforma y el entorno activo de trabajo visible para el usuario. |
-| 2 | Toggle Carrusel | Toggle | Activa/desactiva rotación | Permite habilitar o deshabilitar la rotación automática entre dashboards disponibles en la vista principal. |
-| 3 | Indicador de estado de servicios | Estado | — | Indicador visual rápido del estado general de los servicios conectados. El color verde indica operación estable y conectividad correcta. |
-| 4 | Botón de notificaciones | CTA Secundario | Abre panel de notificaciones | Permite acceder al listado de alertas, eventos recientes y notificaciones generadas por el sistema. |
-| 5 | Menú de usuario | Menú desplegable | Abre opciones de cuenta | Muestra accesos relacionados con la sesión del usuario, configuración personal y cierre de sesión. |
-| 6 | Indicador de pantalla actual | Navegación contextual | — | Indica en qué sección de la plataforma se encuentra actualmente el usuario (Inicio, Dashboards, Informes, SCADA, etc.), facilitando la orientación y el contexto de navegación. |
+| 1 | Nombre de plataforma / entorno | Información | — | Permite al usuario identificar rápidamente la plataforma y el entorno de trabajo activo en el que se encuentra operando, facilitando el contexto general de navegación dentro del sistema. |
+| 2 | Toggle Carrusel | Toggle | Activa/desactiva rotación | Permite al usuario activar o desactivar la rotación automática entre dashboards visibles en la vista principal. Para utilizarlo, el usuario debe pulsar el toggle para habilitar o detener el cambio automático de pantallas. |
+| 3 | Indicador de estado de servicios | Estado | — | Permite al usuario comprobar de forma visual el estado general de los servicios y conexiones activas de la plataforma. El color verde indica que los servicios funcionan correctamente y mantienen conectividad estable. |
+| 4 | Botón de notificaciones | CTA Secundario | Abre panel de notificaciones | Permite al usuario acceder al listado de alertas, eventos recientes y notificaciones generadas por el sistema. Para utilizarlo, el usuario debe pulsar el icono de notificaciones para abrir el panel correspondiente. |
+| 5 | Menú de usuario | Menú desplegable | Abre opciones de cuenta | Permite al usuario acceder a opciones relacionadas con su cuenta y sesión activa. Para utilizarlo, el usuario debe pulsar sobre el avatar o nombre de usuario para desplegar las opciones de configuración personal y cierre de sesión. |
+| 6 | Indicador de pantalla actual | Navegación contextual | — | Permite al usuario identificar en qué sección de la plataforma se encuentra actualmente, como Inicio, Dashboards, Informes o SCADA, facilitando la orientación y navegación dentro del sistema. |
 
 # 💡 Guía de uso
 La barra superior proporciona acceso rápido a funciones globales de la plataforma. Desde ella el usuario puede identificar la sección actual en la que se encuentra, consultar el estado general de los servicios, acceder a notificaciones, gestionar su sesión y activar o desactivar el carrusel automático de dashboards.
