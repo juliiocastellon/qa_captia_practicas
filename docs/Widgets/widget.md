@@ -17,7 +17,7 @@
 | 3.2 | Textos | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_textos.md) | Úsala para añadir cualquiera de los 2 widgets de contenido textual disponibles. |
 | 3.3 | Indicadores | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_indicadores.md) | Úsala para añadir cualquiera de los 5 widgets de indicadores y KPIs individuales disponibles. |
 | 3.4 | Manufacturing KPIs | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_manufacturing_KPIs.md) | Úsala para añadir cualquiera de los 12 widgets especializados en indicadores de producción y fabricación disponibles. |
-| 3.5 | Maintenance KPIs | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_maintenance_KPIs.md) | Úsala para añadir cualquiera de los 8 widgets especializados en indicadores de mantenimiento disponibles. |
+| 3.5 | Maintenance KPIs | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_maintenance_KPIS.md) | Úsala para añadir cualquiera de los 8 widgets especializados en indicadores de mantenimiento disponibles. |
 | 3.6 | Datos | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_datos.md) | Úsala para añadir cualquiera de los 2 widgets de visualización de datos en bruto disponibles. |
 | 3.7 | Contenido | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_contenido.md) | Úsala para añadir el widget de contenido embebido o estático disponible. |
 | 3.8 | Formas SCADA | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_formas_scada.md) | Úsala para añadir el widget de formas y elementos visuales para vistas SCADA disponible. |
