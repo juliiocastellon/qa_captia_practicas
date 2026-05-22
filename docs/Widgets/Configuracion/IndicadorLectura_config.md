@@ -33,17 +33,8 @@
 
 # 💡 Guía de Uso
 
-El widget **Indicador de Lectura** está diseñado para mostrar información industrial crítica de forma rápida y visual dentro de dashboards y pantallas SCADA.
+El widget **Indicador de Lectura** está diseñado para mostrar información crítica de forma rápida y visual dentro de dashboards y pantallas SCADA.
 
-Se utiliza principalmente para visualizar:
-
-- Temperatura
-- Presión
-- Producción
-- Consumo
-- Estados de máquina
-- Variables ambientales
-- KPIs industriales
 
 ## ✅ Cómo configurar correctamente el Indicador de Lectura
 
