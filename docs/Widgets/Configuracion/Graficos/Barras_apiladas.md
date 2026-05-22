@@ -30,31 +30,29 @@
 
 ---
 
-# 💡 Guía de Uso
+# 💡 Guía de Uso · Barras Apiladas
 
-El widget **Barras Apiladas** está diseñado para representar la evolución temporal de datos mediante líneas continuas, permitiendo detectar tendencias, cambios y comportamientos a lo largo del tiempo.
+El widget **Barras Apiladas** está diseñado para representar composiciones y distribuciones agrupadas dentro de una misma barra horizontal.
 
 Se utiliza principalmente para:
 
-- Representar datos visualmente
-- Supervisar información en tiempo real
-- Analizar cambios y tendencias
-- Comparar valores y periodos
-- Facilitar la interpretación de datos
-- Mostrar información histórica
-- Visualizar métricas de forma gráfica
+- Mostrar composiciones de datos
+- Comparar partes de un total
+- Visualizar agrupaciones
+- Analizar distribuciones
+- Representar categorías combinadas
+- Supervisar relaciones entre valores
+- Facilitar comparaciones visuales
 
-## ✅ Cómo configurar correctamente el widget Líneas
+## ✅ Cómo configurar correctamente el widget Barras Apiladas
 
 1. Arrastra el widget al canvas.
 2. Selecciona el gráfico dentro del dashboard.
 3. Desde el panel de propiedades:
-   - Configura variables y agregaciones.
-   - Ajusta rango temporal.
-   - Personaliza colores y estilos.
-   - Configura leyendas y ejes.
-   - Ajusta grosor y tamaños visuales.
-   - Añade referencias o umbrales si es necesario.
+   - Configura segmentos y categorías.
+   - Ajusta colores y agrupaciones.
+   - Personaliza leyendas y etiquetas.
+   - Configura ejes y estilos visuales.
 4. Guarda los cambios realizados.
 
 ---
