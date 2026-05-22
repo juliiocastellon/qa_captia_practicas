@@ -56,3 +56,5 @@ Se utiliza principalmente para visualizar:
    - Configura alineación y tipografía.
    - Personaliza fondo y bordes.
 4. Guarda los cambios realizados.
+
+[← Volver a Widgets SCADA Básicos](../Widgets/widgetsScada_basicos.md)
