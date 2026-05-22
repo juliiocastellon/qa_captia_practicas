@@ -1,4 +1,4 @@
-# 📈 Area · Propiedades del Widget
+# 📈 Columnas Apiladas · Propiedades del Widget
 
 **Objetivo Principal:** Permite al usuario configurar el widget **Líneas**, utilizado para representar tendencias y evolución temporal de datos industriales dentro de dashboards Analytics.
 
@@ -30,31 +30,29 @@
 
 ---
 
-# 💡 Guía de Uso
+# 💡 Guía de Uso · Columnas Apiladas
 
-El widget **Area** está diseñado para representar la evolución temporal de datos mediante líneas continuas, permitiendo detectar tendencias, cambios y comportamientos a lo largo del tiempo.
+El widget **Columnas Apiladas** está diseñado para representar composiciones agrupadas mediante columnas verticales.
 
 Se utiliza principalmente para:
 
-- Representar datos visualmente
-- Supervisar información en tiempo real
-- Analizar cambios y tendencias
-- Comparar valores y periodos
-- Facilitar la interpretación de datos
-- Mostrar información histórica
-- Visualizar métricas de forma gráfica
+- Visualizar partes de un total
+- Comparar composiciones
+- Analizar distribuciones
+- Representar agrupaciones verticales
+- Mostrar relaciones entre categorías
+- Supervisar variaciones agrupadas
+- Facilitar análisis visual
 
-## ✅ Cómo configurar correctamente el widget Líneas
+## ✅ Cómo configurar correctamente el widget Columnas Apiladas
 
 1. Arrastra el widget al canvas.
 2. Selecciona el gráfico dentro del dashboard.
 3. Desde el panel de propiedades:
-   - Configura variables y agregaciones.
-   - Ajusta rango temporal.
-   - Personaliza colores y estilos.
-   - Configura leyendas y ejes.
-   - Ajusta grosor y tamaños visuales.
-   - Añade referencias o umbrales si es necesario.
+   - Configura categorías y segmentos.
+   - Ajusta colores y estilos.
+   - Configura etiquetas y leyendas.
+   - Personaliza ejes y agrupaciones.
 4. Guarda los cambios realizados.
 
 ---
