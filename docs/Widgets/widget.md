@@ -20,7 +20,7 @@
 | 3.5 | Maintenance KPIs | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_maintenance_KPIS.md) | Úsala para añadir cualquiera de los 8 widgets especializados en indicadores de mantenimiento disponibles. |
 | 3.6 | Datos | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_datos.md) | Úsala para añadir cualquiera de los 2 widgets de visualización de datos en bruto disponibles. |
 | 3.7 | Contenido | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_contenido.md) | Úsala para añadir el widget de contenido embebido o estático disponible. |
-| 3.8 | Formas SCADA | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_formas_scada.md) | Úsala para añadir el widget de formas y elementos visuales para vistas SCADA disponible. |
+| 3.8 | Formas SCADA | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_formas_escada.md) | Úsala para añadir el widget de formas y elementos visuales para vistas SCADA disponible. |
 | 3.9 | Avanzados | Subcategoría | Despliega listado de widgets | [Configuración](./widgetsAnalytics_avanzados.md) | Úsala cuando los widgets estándar no cubran tu necesidad; contiene 1 widget de configuración avanzada. |
 | 4 | Elementos SCADA | Grupo colapsable | Despliega/colapsa subcategorías | — | Despliégalo para acceder a los elementos del editor SCADA; arrástralos al canvas o haz clic sobre ellos para añadirlos. |
 | 4.1 | Básicos | Subcategoría | Despliega listado de elementos | [Configuración](./widgetsScada_basicos.md) | Úsala para añadir cualquiera de los 6 elementos SCADA fundamentales para construir vistas de control. |
