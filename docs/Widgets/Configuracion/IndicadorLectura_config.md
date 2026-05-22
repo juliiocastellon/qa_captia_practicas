@@ -57,4 +57,4 @@ Se utiliza principalmente para visualizar:
    - Personaliza fondo y bordes.
 4. Guarda los cambios realizados.
 
-[← Volver a Widgets SCADA Básicos](../Widgets)
+[← Volver a Widgets SCADA Básicos](../widgetsScada_basicos.md)
