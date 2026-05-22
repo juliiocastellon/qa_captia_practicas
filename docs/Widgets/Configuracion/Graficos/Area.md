@@ -32,17 +32,17 @@
 
 # 💡 Guía de Uso
 
-El widget **Area** está diseñado para representar la evolución temporal de datos mediante líneas continuas, permitiendo detectar tendencias, cambios y comportamientos a lo largo del tiempo.
+El widget **Área** está diseñado para representar datos de forma continua rellenando visualmente el espacio bajo la línea del gráfico.
 
 Se utiliza principalmente para:
 
-- Representar datos visualmente
-- Supervisar información en tiempo real
-- Analizar cambios y tendencias
-- Comparar valores y periodos
-- Facilitar la interpretación de datos
-- Mostrar información histórica
-- Visualizar métricas de forma gráfica
+- Visualizar evolución temporal de datos
+- Representar acumulaciones visuales
+- Supervisar cambios continuos
+- Mostrar tendencias de comportamiento
+- Comparar variaciones entre periodos
+- Analizar información histórica
+- Monitorizar datos en tiempo real
 
 ## ✅ Cómo configurar correctamente el widget Líneas
 
