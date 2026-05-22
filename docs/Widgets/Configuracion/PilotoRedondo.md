@@ -6,7 +6,8 @@
 
 # 📸 Mapeo de Interfaz
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0e05c2d6-8fb6-4c7f-9b1b-08b00a839fe6" />
+<img width="1367" height="745" alt="image" src="https://github.com/user-attachments/assets/ff61398b-7f6f-42f6-bead-e577fb616d6a" />
+
 
 ---
 
@@ -52,3 +53,5 @@ Se utiliza principalmente para mostrar:
    - Añade etiquetas descriptivas.
    - Configura efectos Blink si es necesario.
 4. Guarda los cambios realizados.
+
+[← Volver a Widgets SCADA Básicos](../widgetsScada_basicos.md)
