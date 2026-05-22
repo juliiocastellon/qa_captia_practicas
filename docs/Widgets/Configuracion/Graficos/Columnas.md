@@ -1,4 +1,4 @@
-# 📈 Columnas · Propiedades del Widget
+# 📶 Columnas · Propiedades del Widget
 
 **Objetivo Principal:** Permite al usuario configurar el widget **Líneas**, utilizado para representar tendencias y evolución temporal de datos industriales dentro de dashboards Analytics.
 
