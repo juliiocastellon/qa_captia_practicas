@@ -57,4 +57,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Widgets Analytics Avanzados](../widgetsAnalytics_avanzados.md)
+[← Volver a Widgets Analytics Avanzados](../../widgetsAnalytics_avanzados.md)
