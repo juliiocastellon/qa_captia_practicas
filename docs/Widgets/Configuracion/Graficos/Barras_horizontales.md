@@ -30,33 +30,31 @@
 
 ---
 
-# 💡 Guía de Uso
+# 💡 Guía de Uso · Barras Horizontales
 
-El widget **Area** está diseñado para representar la evolución temporal de datos mediante líneas continuas, permitiendo detectar tendencias, cambios y comportamientos a lo largo del tiempo.
+El widget **Barras Horizontales** está diseñado para comparar valores entre distintas categorías mediante barras distribuidas horizontalmente.
 
 Se utiliza principalmente para:
 
-- Representar datos visualmente
-- Supervisar información en tiempo real
-- Analizar cambios y tendencias
-- Comparar valores y periodos
-- Facilitar la interpretación de datos
-- Mostrar información histórica
-- Visualizar métricas de forma gráfica
+- Comparar categorías
+- Visualizar rankings
+- Representar distribuciones
+- Mostrar comparativas rápidas
+- Analizar diferencias entre valores
+- Supervisar agrupaciones de datos
+- Facilitar interpretación visual
 
-## ✅ Cómo configurar correctamente el widget Líneas
+## ✅ Cómo configurar correctamente el widget Barras Horizontales
 
 1. Arrastra el widget al canvas.
 2. Selecciona el gráfico dentro del dashboard.
 3. Desde el panel de propiedades:
-   - Configura variables y agregaciones.
-   - Ajusta rango temporal.
-   - Personaliza colores y estilos.
-   - Configura leyendas y ejes.
-   - Ajusta grosor y tamaños visuales.
-   - Añade referencias o umbrales si es necesario.
+   - Configura categorías y variables.
+   - Ajusta colores y estilos.
+   - Configura leyendas y etiquetas.
+   - Personaliza ejes y tamaños.
 4. Guarda los cambios realizados.
 
 ---
 
-[← Volver a Widgets Analytics Gráficos](../widgetsAnalytics_graficos.md)
+[← Volver a Widgets Analytics Gráficos](../../widgetsAnalytics_graficos.md)
