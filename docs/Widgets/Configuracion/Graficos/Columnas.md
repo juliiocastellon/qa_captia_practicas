@@ -1,4 +1,4 @@
-# 📈 Area · Propiedades del Widget
+# 📈 Columnas · Propiedades del Widget
 
 **Objetivo Principal:** Permite al usuario configurar el widget **Líneas**, utilizado para representar tendencias y evolución temporal de datos industriales dentro de dashboards Analytics.
 
@@ -30,33 +30,31 @@
 
 ---
 
-# 💡 Guía de Uso
+# 💡 Guía de Uso · Columnas
 
-El widget **Area** está diseñado para representar la evolución temporal de datos mediante líneas continuas, permitiendo detectar tendencias, cambios y comportamientos a lo largo del tiempo.
+El widget **Columnas** está diseñado para representar comparaciones entre distintos valores utilizando barras verticales.
 
 Se utiliza principalmente para:
 
-- Representar datos visualmente
-- Supervisar información en tiempo real
-- Analizar cambios y tendencias
-- Comparar valores y periodos
-- Facilitar la interpretación de datos
-- Mostrar información histórica
-- Visualizar métricas de forma gráfica
+- Comparar valores
+- Representar categorías
+- Mostrar diferencias visuales
+- Analizar agrupaciones
+- Visualizar métricas comparativas
+- Supervisar cambios entre periodos
+- Facilitar análisis visual
 
-## ✅ Cómo configurar correctamente el widget Líneas
+## ✅ Cómo configurar correctamente el widget Columnas
 
 1. Arrastra el widget al canvas.
 2. Selecciona el gráfico dentro del dashboard.
 3. Desde el panel de propiedades:
-   - Configura variables y agregaciones.
-   - Ajusta rango temporal.
-   - Personaliza colores y estilos.
-   - Configura leyendas y ejes.
-   - Ajusta grosor y tamaños visuales.
-   - Añade referencias o umbrales si es necesario.
+   - Configura variables y categorías.
+   - Ajusta estilos visuales.
+   - Configura colores y etiquetas.
+   - Personaliza ejes y leyendas.
 4. Guarda los cambios realizados.
-
+   
 ---
 
 [← Volver a Widgets Analytics Gráficos](../../widgetsAnalytics_graficos.md)
