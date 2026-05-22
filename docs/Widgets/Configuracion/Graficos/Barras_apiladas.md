@@ -1,4 +1,4 @@
-# 📈 Area · Propiedades del Widget
+# 📈 Barras Apiladas · Propiedades del Widget
 
 **Objetivo Principal:** Permite al usuario configurar el widget **Líneas**, utilizado para representar tendencias y evolución temporal de datos industriales dentro de dashboards Analytics.
 
@@ -32,7 +32,7 @@
 
 # 💡 Guía de Uso
 
-El widget **Area** está diseñado para representar la evolución temporal de datos mediante líneas continuas, permitiendo detectar tendencias, cambios y comportamientos a lo largo del tiempo.
+El widget **Barras Apiladas** está diseñado para representar la evolución temporal de datos mediante líneas continuas, permitiendo detectar tendencias, cambios y comportamientos a lo largo del tiempo.
 
 Se utiliza principalmente para:
 
