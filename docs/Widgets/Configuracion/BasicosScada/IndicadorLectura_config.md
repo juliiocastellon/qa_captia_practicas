@@ -48,4 +48,4 @@ El widget **Indicador de Lectura** está diseñado para mostrar información cr�
    - Personaliza fondo y bordes.
 4. Guarda los cambios realizados.
 
-[← Volver a Widgets SCADA Básicos](../widgetsScada_basicos.md)
+[← Volver a Widgets SCADA Básicos](../../widgetsScada_basicos.md)
