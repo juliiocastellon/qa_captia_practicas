@@ -50,12 +50,22 @@
 
 ---
 
-# 📡 Variables
+# ✅ Tareas
 
 | Página | Descripción |
 |---|---|
-| [Variables](./Variables/Variables.md) | Gestión y monitorización de variables industriales. |
-| [Crear Variable](./Variables/Crear_variable.md) | Creación y configuración de nuevas variables del sistema. |
+| [Tareas](./Tareas/Tareas.md) | Gestión y seguimiento de tareas operativas dentro de la plataforma. |
+| [Crear Tarea](./Tareas/Crear_Tarea.md) | Creación, configuración y asignación de nuevas tareas. |
+| [Detalle de Tarea](./Tareas/Detalle_Tarea.md) | Visualización detallada del estado, progreso y actividad de una tarea. |
+
+---
+
+# 📅 Calendario
+
+| Página | Descripción |
+|---|---|
+| [Calendario](./Calendario/Calendario.md) | Gestión del calendario operativo y planificación temporal. |
+| [Evento Calendario](./Calendario/Evento_Calendario.md) | Creación y gestión de eventos dentro del calendario. |
 
 ---
 
@@ -74,14 +84,16 @@
 
 ---
 
-# 📅 Calendario
+# 📡 Variables
 
 | Página | Descripción |
 |---|---|
-| [Calendario](./Calendario/Calendario.md) | Gestión del calendario operativo y planificación temporal. |
-| [Evento Calendario](./Calendario/Evento_Calendario.md) | Creación y gestión de eventos dentro del calendario. |
+| [Variables](./Variables/Variables.md) | Gestión y monitorización de variables industriales. |
+| [Crear Variable](./Variables/Crear_variable.md) | Creación y configuración de nuevas variables del sistema. |
 
 ---
+
+
 
 # 📋 Auditoría
 
