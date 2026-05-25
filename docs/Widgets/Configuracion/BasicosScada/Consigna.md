@@ -57,4 +57,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Widgets SCADA Básicos](../widgetsScada_basicos.md)
+[← Volver a Widgets SCADA Básicos](../../widgetsScada_basicos.md)
