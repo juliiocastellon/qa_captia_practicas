@@ -67,3 +67,5 @@ Se utiliza principalmente para:
    - Configura el contenedor: marco, fondo y transparencia.
    - Añade subtítulo y nota al pie si se requiere contexto adicional.
 4. Guarda los cambios realizados.
+
+[← Volver a Widgets Indicadores](../../widgetsAnalytics_indicadores.md)
