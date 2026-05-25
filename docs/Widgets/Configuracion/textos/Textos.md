@@ -62,4 +62,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Widgets Analytics Textos](../widgetsAnalytics_textos.md)
+[← Volver a Widgets Analytics Textos](../../widgetsAnalytics_textos.md)
