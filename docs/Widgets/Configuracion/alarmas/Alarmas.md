@@ -52,4 +52,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Alarmas](../,,/widgetsScada_alarmas.md)
+[← Volver a Alarmas](../../widgetsScada_alarmas.md)
