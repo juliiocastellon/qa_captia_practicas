@@ -6,7 +6,7 @@
 
 # 📸 Mapeo de Interfaz
 
-<img width="1561" height="407" alt="image" src="https://github.com/user-attachments/assets/4d1e3b4a-45e1-4d8f-bdc5-7fcb74fd96a7" />
+<img width="1561" height="407" alt="image" src="https://github.com/user-attachments/assets/6a144fd3-d51b-41cc-b602-7798586f90fb" />
 
 ---
 
