@@ -6,7 +6,7 @@
 
 # 📸 Mapeo de Interfaz
 
-<img width="1189" height="726" alt="image" src="https://github.com/user-attachments/assets/8f2cb4b1-3a0d-4d22-9df7-9d63f7fd6b6a" />
+<img width="898" height="582" alt="image" src="https://github.com/user-attachments/assets/1f0163b6-0626-4b52-aa47-7d63a11dccb6" />
 
 ---
 
@@ -62,4 +62,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Widgets Analytics Textos](../widgetsAnalytics_textos.md)
+[← Volver a Widgets Analytics Textos](../../widgetsAnalytics_textos.md)
