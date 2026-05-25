@@ -21,3 +21,6 @@
 ## 💡 Guía de Uso 
 
 En la sección **Informes** encontrarás todas las plantillas de informes automáticos y personalizados disponibles en tu cuenta. Utiliza el **buscador** (1) para localizar una plantilla por nombre o descripción, y el **desplegable de categorías** (2) para filtrar por tipo; el **contador** (3) te indicará cuántas plantillas coinciden con tu búsqueda en cada momento. Cada **tarjeta** (4) resume la información clave de la plantilla —páginas, elementos, estado y fecha—, y puedes acceder a las opciones de edición o eliminación a través del menú (⋮) situado en su esquina superior derecha. Cuando necesites crear un nuevo informe, haz clic en **+ Nueva plantilla** (7) para iniciar el asistente de configuración.
+
+
+[← Anterior](./Edicion_DASHBOARD.md) • [📚 Índice](../README.md) • [Siguiente →](../Informes/Edición_Informes.md)
