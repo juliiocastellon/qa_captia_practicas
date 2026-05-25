@@ -8,11 +8,11 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- | :--- |
-| 3.2 | Sección "Textos" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque para seleccionar el tipo de elemento de texto que necesitas añadir a tu vista. |
-| 3.2.1 | Texto | Elemento seleccionable | Inserta un bloque de texto simple | Arrástralo al canvas o haz clic para insertarlo cuando necesites añadir un título de sección, una etiqueta o una nota aclaratoria que no cambie dinámicamente. Configura en Propiedades el contenido, el tamaño y el estilo del texto. |
-| 3.2.2 | Texto Enriquecido | Elemento seleccionable | Inserta un bloque de texto con variables | Arrástralo al canvas o haz clic para insertarlo cuando el texto deba adaptarse al contexto, por ejemplo mostrando el nombre del usuario, un valor calculado o una fecha. Configura en Propiedades las variables a incrustar y el formato del texto. |
+| # | Nombre del Elemento | Tipo | Destino / Acción | Configuración | Descripción Funcional |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 3.2 | Sección "Textos" | Grupo / Acordeón | Expande/colapsa el bloque | — | Despliega el bloque para seleccionar el tipo de elemento de texto que necesitas añadir a tu vista. |
+| 3.2.1 | Texto | Elemento seleccionable | Inserta un bloque de texto simple | [Configuración](./configuracion/Texto.md) | Arrástralo al canvas o haz clic para insertarlo cuando necesites añadir un título de sección, una etiqueta o una nota aclaratoria que no cambie dinámicamente. Configura en Propiedades el contenido, el tamaño y el estilo del texto. |
+| 3.2.2 | Texto Enriquecido | Elemento seleccionable | Inserta un bloque de texto con variables | [Configuración](./configuracion/textos/TextoEnriquecido.md) | Arrástralo al canvas o haz clic para insertarlo cuando el texto deba adaptarse al contexto, por ejemplo mostrando el nombre del usuario, un valor calculado o una fecha. Configura en Propiedades las variables a incrustar y el formato del texto. |
 
 ## 💡 Guía de Uso 
 
