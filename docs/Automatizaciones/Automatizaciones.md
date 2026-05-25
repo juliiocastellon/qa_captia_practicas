@@ -25,4 +25,4 @@ La sección de Automatizaciones centraliza todos los workflows y reglas automát
 
 Cada tarjeta representa un workflow independiente e incluye información relevante como triggers configurados, fecha de última ejecución y estado operativo. Desde esta sección también es posible consultar logs de ejecución, seleccionar múltiples workflows para gestión masiva y crear nuevas automatizaciones adaptadas a distintos procesos industriales.
 
-[← Anterior](../DASHBOARD/Edicion_DASHBOARD.md) • [📚 Índice](../README.md) • [Siguiente →](./Edicion_Automatizaciones.md)
+[← Anterior](../Informes/Edició_nInformes.md) • [📚 Índice](../README.md) • [Siguiente →](./Edicion_Automatizaciones.md)
