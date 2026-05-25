@@ -57,4 +57,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Formas SCADA](../widgetsAnalytics_formas_scada.md)
+[← Volver a Formas SCADA](../../widgetsAnalytics_formas_scada.md)
