@@ -56,7 +56,6 @@
 |---|---|
 | [Tareas](./Tareas/Tareas.md) | Gestión y seguimiento de tareas operativas dentro de la plataforma. |
 | [Crear Tarea](./Tareas/Crear_Tarea.md) | Creación, configuración y asignación de nuevas tareas. |
-| [Detalle de Tarea](./Tareas/Detalle_Tarea.md) | Visualización detallada del estado, progreso y actividad de una tarea. |
 
 ---
 
