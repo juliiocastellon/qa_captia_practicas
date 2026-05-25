@@ -54,4 +54,4 @@ Se utiliza principalmente para mostrar:
    - Configura efectos Blink si es necesario.
 4. Guarda los cambios realizados.
 
-[← Volver a Widgets SCADA Básicos](../widgetsScada_basicos.md)
+[← Volver a Widgets SCADA Básicos](../../widgetsScada_basicos.md)
