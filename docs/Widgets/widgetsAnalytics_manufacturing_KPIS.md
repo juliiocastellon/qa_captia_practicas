@@ -9,7 +9,7 @@
 ## 🧩 Despiece de Elementos Funcionales
 
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | 3.4 | Sección "Manufacturing KPIs" | Grupo / Acordeón | Expande/colapsa el bloque |  [Configuración](./Configuracion/Manufacturing_KPIs/Manufacturing_KPIs.md) | Despliega el bloque para acceder a los indicadores industriales específicos de fabricación disponibles. |
 | 3.4.1 | OEE | Elemento seleccionable | Inserta indicador OEE  | [Configuración](./Configuracion/Manufacturing_KPIs/Manufacturing_KPIs.md) | Arrástralo al canvas o haz clic para insertarlo cuando necesites tener en un solo elemento la visión global de la eficiencia del equipo. Configura en Propiedades el activo y el periodo de cálculo. |
 | 3.4.2 | Disponibilidad | Elemento seleccionable | Inserta indicador de Availability (A)  | [Configuración](./Configuracion/Manufacturing_KPIs/Manufacturing_KPIs.md) | Arrástralo al canvas o haz clic para insertarlo cuando quieras monitorizar qué porcentaje del tiempo planificado el equipo ha estado realmente operativo. Configura en Propiedades el activo y el turno o periodo a analizar. |
