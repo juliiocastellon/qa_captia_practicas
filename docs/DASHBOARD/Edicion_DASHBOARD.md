@@ -41,4 +41,4 @@ El área central funciona como un canvas interactivo donde se añaden y organiza
 
 Las herramientas inferiores permiten controlar el zoom, resolución, fondo y organización visual del panel. El sistema muestra continuamente el estado de guardado para indicar si existen cambios pendientes antes de publicar o abandonar el dashboard.
 
-[← Anterior](./DASHBOARD.md) • [📚 Índice](../README.md) • [Siguiente →](../Automatizaciones/Automatizaciones.md)
+[← Anterior](./DASHBOARD.md) • [📚 Índice](../README.md) • [Siguiente →](../Informes/Informes.md)
