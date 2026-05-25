@@ -8,9 +8,9 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| # | Nombre del Elemento | Tipo | Destino / Acción | Configuración |Descripción Funcional |
+| # | Nombre del Elemento | Tipo | Destino / Acción | Configuración | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- | | :--- |
-| 3.3 | Sección "Indicadores" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque para seleccionar el tipo de indicador que mejor represente la métrica que quieres mostrar. |
+| 3.3 | Sección "Indicadores" | Grupo / Acordeón | Expande/colapsa el bloque | [Configuración](./Configuracion/Indicadores/KPI.md) |Despliega el bloque para seleccionar el tipo de indicador que mejor represente la métrica que quieres mostrar. |
 | 3.3.1 | KPI | Elemento seleccionable | Inserta un indicador de métrica clave | Arrástralo al canvas o haz clic para insertarlo cuando necesites destacar un valor clave de negocio de forma clara y directa. Configura en Propiedades la variable, el formato y el umbral de alerta. |
 | 3.3.2 | KPI Calculado | Elemento seleccionable | Inserta un KPI con fórmula personalizada | Arrástralo al canvas o haz clic para insertarlo cuando el valor que quieras mostrar no exista como variable directa y necesites calcularlo combinando otras métricas. Configura en Propiedades la fórmula de cálculo. |
 | 3.3.3 | Gauge Radial | Elemento seleccionable | Inserta un indicador circular de progreso | Arrástralo al canvas o haz clic para insertarlo cuando quieras que el operador vea de un vistazo qué porcentaje de un objetivo se ha alcanzado en formato circular. Configura en Propiedades la variable, el mínimo y el máximo del arco. |
