@@ -8,10 +8,10 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- | :--- |
-| 3.8 | Sección "Formas SCADA" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque para acceder a los elementos gráficos SCADA con comportamiento visual dinámico. |
-| 3.8.1 | Forma | Elemento seleccionable | Inserta una forma con reglas visuales | Úsala para representar el estado de un equipo o proceso de forma visual e intuitiva: configura las reglas para que el color o el icono cambien automáticamente según el valor de la variable monitorizada. |
+| # | Nombre del Elemento | Tipo | Destino / Acción | Configuración | Descripción Funcional |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 3.8 | Sección "Formas SCADA" | Grupo / Acordeón | Expande/colapsa el bloque | — | Despliega el bloque para acceder a los elementos gráficos SCADA con comportamiento visual dinámico. |
+| 3.8.1 | Forma | Elemento seleccionable | Inserta una forma con reglas visuales | [Configuración](./Configuracion/formas/Forma.md) | Úsala para representar el estado de un equipo o proceso de forma visual e intuitiva: configura las reglas para que el color o el icono cambien automáticamente según el valor de la variable monitorizada. |
 
 ## 💡 Guía de Uso 
 
