@@ -46,3 +46,5 @@ Se utiliza principalmente para:
 5. Pulsa sobre una tarjeta para acceder al detalle o editar la tarea.
 6. Pulsa "+ Nueva tarea" para crear una nueva tarea desde cero.
 7. Alterna a la vista Lista si necesitas filtrar o buscar tareas específicas.
+
+[← Anterior](./Tareas.md) • [📚 Índice](../README.md) • [Siguiente →](./Crear_Tareas.md)
