@@ -8,9 +8,10 @@
 
 | Página | Descripción |
 |---|---|
+| [Página Inicio](./Base/pagina_inicio.md) | Describe la página principal inteligente y el funcionamiento del sistema de IA operacional. |
 | [Barra Lateral](./Base/Barra_lateral.md) | Documentación de la navegación lateral principal y accesos globales de la plataforma. |
 | [Barra Superior](./Base/barra_superior.md) | Explica los elementos de la barra superior, estado del sistema, notificaciones y controles globales. |
-| [Página Inicio](./Base/pagina_inicio.md) | Describe la página principal inteligente y el funcionamiento del sistema de IA operacional. |
+
 
 ---
 
