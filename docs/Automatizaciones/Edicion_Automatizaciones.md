@@ -32,4 +32,4 @@ Los paneles laterales permiten consultar información, estadísticas y triggers 
 
 Durante la edición, el sistema permite guardar cambios, duplicar workflows, deshacer acciones y ejecutar automatizaciones para validar su comportamiento antes de ponerlas en producción.
 
-[← Anterior](./Automatizaciones.md) • [📚 Índice](../README.md) • [Siguiente →](../Calendario/Calendario.md)
+[← Anterior](./Automatizaciones.md) • [📚 Índice](../README.md) • [Siguiente →](../Tareas/Tareas.md)
