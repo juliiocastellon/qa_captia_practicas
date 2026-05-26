@@ -4,7 +4,7 @@
 
 ## 📸 Mapeo de Interfaz
 
-*(Vista de edición/previsualización de la plantilla "Informe Energía 7d" con sus 19 elementos identificados)*
+<img width="1161" height="543" alt="Captura de pantalla 2026-05-20 123934" src="https://github.com/user-attachments/assets/cacdb38d-a673-4869-a133-bee43259356e" />
 
 ## 🧩 Despiece de Elementos Funcionales
 
