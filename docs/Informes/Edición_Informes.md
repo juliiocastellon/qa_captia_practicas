@@ -35,4 +35,4 @@
 En la vista de edición de **Informes** puedes configurar y revisar el contenido de tu plantilla de forma completa. Utiliza los filtros de la barra superior —**Planta** (8), **Zona** (9), **Máq.** (10) e intervalo temporal (7)— para contextualizar los datos que se mostrarán en el informe, y pulsa el botón de **recarga** (12) para aplicar los cambios. Si necesitas añadir o reorganizar elementos visuales, despliega el **panel de widgets** (16); para navegar entre las diferentes páginas del documento, usa el **desplegable de páginas** (1). Una vez satisfecho con el resultado, puedes **previsualizar** (13) el informe tal como lo verá el destinatario, **exportarlo a PDF** (14) o **guardar** (15) los cambios en la plantilla. Controla el nivel de detalle del canvas con los botones de zoom (17–19), pudiendo restablecer la vista al 100% en cualquier momento con el botón de reset (18).
 
 
-[← Anterior](../Informes/Informes.md) • [📚 Índice](../README.md) • [Siguiente →](../Widgets/widgets.md)
+[← Anterior](../Informes/Informes.md) • [📚 Índice](../README.md) • [Siguiente →](../Widgets/widget.md)
