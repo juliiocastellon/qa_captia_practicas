@@ -46,3 +46,6 @@ Se utiliza principalmente para:
 5. Pulsa el icono de papelera para eliminar una tarea (acción irreversible).
 6. Pulsa "+ Nueva tarea" para crear una nueva tarea desde cero.
 7. Alterna a la vista Kanban si prefieres una visualización por columnas de estado.
+
+
+[← Anterior](../Automatizaciones/Edicion_Automatizaciones.md) • [📚 Índice](../README.md) • [Siguiente →](../Tareas/Tareas.md)
