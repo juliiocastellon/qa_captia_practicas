@@ -57,5 +57,5 @@ Se utiliza principalmente para:
 4. Guarda los cambios realizados.
 
 
-[← Volver a Widgets SCADA Básicos](../../widgetsAnalitycs_contenido.md)
+[← Volver a Widgets SCADA Básicos](../../widgetsAnalytics_contenido.md)
 
