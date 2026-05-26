@@ -56,3 +56,6 @@ Se utiliza principalmente para:
    - Añade subtítulo y nota al pie si se requiere contexto adicional.
 4. Guarda los cambios realizados.
 
+
+[← Volver a Widgets SCADA Básicos](../../widgetsAnalitycs_contenido.md)
+
