@@ -19,4 +19,4 @@ La sección **Alarmas** pone a tu disposición un elemento de notificación dise
 
 [← Volver a Widgets](./widget.md)
 
-[← Anterior](./widgetsScada_basicos.md) • [📚 Índice](../README.md) • [Siguiente →](../SCADA/SCADA.md)
+[← Anterior](./widgetsScada_basicos.md) • [📚 Índice](../README.md) • [Siguiente →](./widgetsAnalytics_graficos.md)
