@@ -8,10 +8,10 @@
 
 ## 🧩 Despiece de Elementos Funcionales
 
-| # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
-| :--- | :--- | :--- | :--- | :--- |
-| 4.2 | Sección "Alarmas" | Grupo / Acordeón | Expande/colapsa el bloque | Despliega el bloque para acceder al elemento de notificación de alarmas disponible. |
-| 4.2.1 | Banner de Alarmas | Elemento seleccionable | Inserta un banner compacto de alarmas activas | Arrástralo al canvas o haz clic para insertarlo cuando quieras que el operador tenga siempre visibles las alarmas activas sin necesidad de abandonar la vista actual. Configura en Propiedades los niveles de severidad y los activos que quieres monitorizar. |
+| # | Nombre del Elemento | Tipo | Destino / Acción | Configuración | Descripción Funcional |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 4.2 | Sección "Alarmas" | Grupo / Acordeón | Expande/colapsa el bloque | — | Despliega el bloque para acceder al elemento de notificación de alarmas disponible. |
+| 4.2.1 | Banner de Alarmas | Elemento seleccionable | Inserta un banner compacto de alarmas activas | [Configuración](./Configuracion/alarmas/Alarmas.md) | Arrástralo al canvas o haz clic para insertarlo cuando quieras que el operador tenga siempre visibles las alarmas activas sin necesidad de abandonar la vista actual. Configura en Propiedades los niveles de severidad y los activos que quieres monitorizar. |
 
 ## 💡 Guía de Uso 
 
