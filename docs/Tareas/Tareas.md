@@ -48,4 +48,4 @@ Se utiliza principalmente para:
 7. Alterna a la vista Kanban si prefieres una visualización por columnas de estado.
 
 
-[← Anterior](../Automatizaciones/Edicion_Automatizaciones.md) • [📚 Índice](../README.md) • [Siguiente →](../Tareas/Tareas.md)
+[← Anterior](../Automatizaciones/Edicion_Automatizaciones.md) • [📚 Índice](../README.md) • [Siguiente →](./Tareas_kanban.md)
