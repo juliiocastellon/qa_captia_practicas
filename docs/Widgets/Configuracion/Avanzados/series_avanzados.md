@@ -57,3 +57,6 @@ Se utiliza principalmente para:
    - Regula el grosor de línea, tamaño de puntos y borde de puntos mediante los sliders.
    - Añade subtítulo y nota al pie si se requiere contexto adicional.
 4. Guarda los cambios realizados.
+
+
+[← Volver a Widgets SCADA Básicos](../../widgetsScada_basicos.md)
