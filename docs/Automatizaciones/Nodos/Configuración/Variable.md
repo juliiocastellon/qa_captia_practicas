@@ -15,7 +15,7 @@
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Nodo "Variable" | Nodo de referencia | Configura referencia de variable | Permite seleccionar y utilizar variables disponibles dentro del workflow y del sistema de automatización. |
-| 1.1 | Campo "Variable" | Selector de variable | Selecciona referencia | [Ir a Variables](../../Variables/Variables.md) | Permite buscar y seleccionar una variable utilizando su referencia o path correspondiente. Para utilizarlo, el usuario debe escribir o buscar la variable deseada y seleccionarla dentro del listado disponible. |
+| 1.1 | Campo "Variable" | Selector de variable | Selecciona referencia | [Ir a Variables](../../../Variables/Variables.md) | Permite buscar y seleccionar una variable utilizando su referencia o path correspondiente. Para utilizarlo, el usuario debe escribir o buscar la variable deseada y seleccionarla dentro del listado disponible. |
 
 ---
 
