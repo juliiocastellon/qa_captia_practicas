@@ -6,7 +6,7 @@
 
 # 📸 Mapeo de Interfaz
 
-<img width="635" height="524" alt="image" src="https://github.com/user-attachments/assets/3d97a9f0-f6bb-4f8e-bc6a-5f1d1e7a9a45" />
+<img width="615" height="525" alt="image" src="https://github.com/user-attachments/assets/eb1dc150-b2ce-4256-bd61-f12bb3f62596" />
 
 ---
 
@@ -15,7 +15,7 @@
 | # | Nombre del Elemento | Tipo | Destino / Acción | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Nodo "Variable" | Nodo de referencia | Configura referencia de variable | Permite seleccionar y utilizar variables disponibles dentro del workflow y del sistema de automatización. |
-| 1.1 | Campo "Variable" | Selector de variable | Selecciona referencia | Permite buscar y seleccionar una variable utilizando su referencia o path correspondiente. Para utilizarlo, el usuario debe escribir o buscar la variable deseada y seleccionarla dentro del listado disponible. |
+| 1.1 | Campo "Variable" | Selector de variable | Selecciona referencia | [Ir a Variables](../../Variables/Variables.md) | Permite buscar y seleccionar una variable utilizando su referencia o path correspondiente. Para utilizarlo, el usuario debe escribir o buscar la variable deseada y seleccionarla dentro del listado disponible. |
 
 ---
 
