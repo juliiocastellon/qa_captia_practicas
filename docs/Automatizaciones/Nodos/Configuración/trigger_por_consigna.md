@@ -28,3 +28,6 @@
 5. Opcionalmente, especifica el **Variable ID** para limitar el trigger a una consigna concreta del asset. Si se deja vacío, cualquier cambio de setpoint lo activará.
 6. Selecciona el **Origen** del cambio de consigna (por defecto `SCADA`).
 7. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
+
+[← Volver a Triggers](../triggers.md)
+
