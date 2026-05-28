@@ -45,4 +45,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Nodos del Workflow](../Automatizaciones.md)
+[← Volver a Nodos del Workflow](./nodos.md)
