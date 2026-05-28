@@ -24,3 +24,6 @@
    - **Escribir global**: cuando el workflow deba modificar el valor de una variable de proceso vía adapter command.
 3. Una vez seleccionado, configura los parámetros específicos del nodo elegido.
 4. Puedes reordenar los nodos arrastrando el icono de puntos (⠿) a la izquierda de cada item.
+
+
+[← Volver a Nodos del Workflow](./nodos.md)
