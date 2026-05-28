@@ -15,7 +15,7 @@
 | # | Nombre del Elemento | Tipo | Destino / Acción | Configuración | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Categoría "Bloques IA" | Categoría de nodos | Expande/colapsa el bloque | — | Permite visualizar los nodos relacionados con inteligencia artificial disponibles dentro del editor de workflows. Para utilizarlo, el usuario debe expandir la categoría y seleccionar el nodo que quiera añadir al canvas. |
-| 1.1 | Nodo "Decisión con IA" | Nodo IA | Inserta bloque inteligente | [Configuración](./configuración/IA.md) | Permite utilizar inteligencia artificial para analizar información y decidir automáticamente el siguiente paso dentro del workflow. Para utilizarlo, el usuario debe arrastrar el nodo al canvas y configurar los prompts correspondientes. |
+| 1.1 | Nodo "Decisión con IA" | Nodo IA | Inserta bloque inteligente | [Configuración](./Configuración/IA.md) | Permite utilizar inteligencia artificial para analizar información y decidir automáticamente el siguiente paso dentro del workflow. Para utilizarlo, el usuario debe arrastrar el nodo al canvas y configurar los prompts correspondientes. |
 
 ---
 
