@@ -26,3 +26,8 @@
    - **Por consigna**: cuando el disparo deba estar vinculado a un cambio de setpoint en SCADA.
 3. Una vez seleccionado, configura los parámetros específicos del trigger elegido.
 4. Puedes reordenar los triggers arrastrando el icono de puntos (⠿) a la izquierda de cada item.
+
+
+
+
+[← Volver a Nodos del Workflow](./nodos.md)
