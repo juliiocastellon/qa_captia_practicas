@@ -2,7 +2,7 @@
 **Objetivo principal:** Permite al usuario acceder rápidamente a funciones globales de la plataforma, consultar el estado general de los servicios, identificar la sección actual de navegación y gestionar elementos relacionados con la sesión y las notificaciones.
 
 ## 📸 Mapeo de interfaz
-<img width="1143" height="97" alt="Captura de pantalla 2026-05-19 085723" src="https://github.com/user-attachments/assets/23e83df9-f693-41a3-aac9-2da8ef376f2d" />
+<img width="950" height="77" alt="image" src="https://github.com/user-attachments/assets/25e086de-9b4b-422a-b167-5a9fdfcb435b" />
 
 ## 🧩 Despiece de elementos funcionales
 | # | Nombre del elemento | Tipo | Destino / Acción | Descripción funcional |
