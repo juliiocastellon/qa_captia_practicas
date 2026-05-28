@@ -11,9 +11,9 @@
 | # | Nombre del Elemento | Tipo | Destino / Acción | Configuración | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | — | Sección "Globals" (cabecera) | Contenedor / Acordeón | Expande/colapsa la lista de nodos globales disponibles | - | Agrupa los 3 tipos de nodos de variables globales bajo un único bloque colapsable. Muestra el contador de items (3). |
-| 1 | Variable UDT | Opción seleccionable | Abre configuración de Variable UDT | - | Construye una estructura de datos tipada (UDT) mapeando variables globales del proceso. |
-| 2 | Leer global | Opción seleccionable | Abre configuración de lectura de variable global | - | Lee el valor actual de una variable de proceso global. |
-| 3 | Escribir global | Opción seleccionable | Abre configuración de escritura de variable global | - | Escribe un valor en una variable de proceso global mediante adapter command. |
+| 1 | Variable UDT | Opción seleccionable | Abre configuración de Variable UDT | [Configuración](./Configuración/variables_udt.md) | Construye una estructura de datos tipada (UDT) mapeando variables globales del proceso. |
+| 2 | Leer global | Opción seleccionable | Abre configuración de lectura de variable global | [Configuración](./Configuración/leer_global.md) | Lee el valor actual de una variable de proceso global. |
+| 3 | Escribir global | Opción seleccionable | Abre configuración de escritura de variable global | [Configuración](./Configuración/escribir_global.md) | Escribe un valor en una variable de proceso global mediante adapter command. |
 
 ## 💡 Guía de Uso
 
