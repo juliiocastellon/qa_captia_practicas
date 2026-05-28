@@ -11,7 +11,7 @@
 | # | Nombre del Elemento | Tipo | Destino / Acción | Configuración | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Sección "Monitor" (cabecera) | Contenedor / Acordeón | Expande/colapsa la lista de nodos de monitorización | - | Agrupa el nodo de monitorización disponible bajo un único bloque colapsable. Muestra el contador de items (1). |
-| 2 | Visualizador | Opción seleccionable | Abre configuración del nodo visualizador | - | Muestra el valor actual de una conexión o variable de proceso en tiempo real dentro del workflow. |
+| 2 | Visualizador | Opción seleccionable | Abre configuración del nodo visualizador | [Configuración](./Configuración/visualizador.md) | Muestra el valor actual de una conexión o variable de proceso en tiempo real dentro del workflow. |
 
 ## 💡 Guía de Uso
 
