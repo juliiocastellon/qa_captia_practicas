@@ -28,3 +28,6 @@
    - **Crear tarea**: para generar órdenes de trabajo en el GMAO automáticamente.
 3. Una vez seleccionada, configura los parámetros específicos de la acción elegida.
 4. Puedes reordenar las acciones arrastrando el icono de puntos (⠿) a la izquierda de cada item.
+
+
+[← Volver a Nodos del Workflow](./nodos.md)
