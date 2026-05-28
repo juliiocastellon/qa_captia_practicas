@@ -11,12 +11,11 @@
 | # | Nombre del Elemento | Tipo | Destino / Acción | Configuración | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Sección "Acciones" (cabecera) | Contenedor / Acordeón | Expande/colapsa la lista de acciones disponibles | - | Agrupa los 5 tipos de acciones disponibles bajo un único bloque colapsable. Muestra el contador de items (5). |
-| 2 | Enviar email | Opción seleccionable | Abre configuración de envío de email | - | Permite configurar el envío de un correo electrónico como respuesta al trigger. |
-| 3 | Enviar WhatsApp | Opción seleccionable | Abre configuración de mensaje WhatsApp | - | Permite configurar el envío de un mensaje de WhatsApp como respuesta al trigger. |
-| 4 | Generar informe | Opción seleccionable | Abre configuración de generación de PDF | - | Permite generar un informe en formato PDF a partir de una plantilla predefinida. |
-| 5 | Petición HTTP | Opción seleccionable | Abre configuración de webhook/API externa | - | Permite realizar una llamada a una API externa mediante una petición HTTP (webhook). |
-| 6 | Crear tarea | Opción seleccionable | Abre configuración de tarea GMAO | - | Permite crear automáticamente una tarea en el sistema GMAO vinculada al evento del trigger. |
-| - | Icono de arrastre (⠿) | Control UI | Reordena la acción dentro de la lista | - | Permite reorganizar el orden de las acciones mediante drag & drop. |
+| 2 | Enviar email | Opción seleccionable | Abre configuración de envío de email | [Configuración](./Configuración/enviar_email.md)  | Permite configurar el envío de un correo electrónico como respuesta al trigger. |
+| 3 | Enviar WhatsApp | Opción seleccionable | Abre configuración de mensaje WhatsApp | [Configuración](./Configuración/enviar_whatsapp.md)  | Permite configurar el envío de un mensaje de WhatsApp como respuesta al trigger. |
+| 4 | Generar informe | Opción seleccionable | Abre configuración de generación de PDF | [Configuración](./Configuración/generar_informe.md)  | Permite generar un informe en formato PDF a partir de una plantilla predefinida. |
+| 5 | Petición HTTP | Opción seleccionable | Abre configuración de webhook/API externa | [Configuración](./Configuración/peticion_http.md)  | Permite realizar una llamada a una API externa mediante una petición HTTP (webhook). |
+| 6 | Crear tarea | Opción seleccionable | Abre configuración de tarea GMAO | [Configuración](./Configuración/crear_tarea.md)  | Permite crear automáticamente una tarea en el sistema GMAO vinculada al evento del trigger. |
 
 ## 💡 Guía de Uso
 
