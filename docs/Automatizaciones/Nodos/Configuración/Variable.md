@@ -43,4 +43,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Variables](../Nodos_Workflow.md)
+[← Volver a Variables](../Variables.md)
