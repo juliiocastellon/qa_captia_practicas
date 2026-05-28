@@ -25,3 +25,6 @@
 4. Selecciona la **Variable a monitorear** en el desplegable — será la variable del sistema evaluada continuamente.
 5. Define la condición de disparo combinando el **Operador** (ej: `> Mayor que`) y el valor de **Umbral** (ej: `100`).
 6. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
+
+
+[← Volver a Triggers](../triggers.md)
