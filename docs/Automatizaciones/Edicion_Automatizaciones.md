@@ -22,7 +22,8 @@
 | 11 | Atajos de teclado | Panel contextual | Ver atajos | Permite al usuario consultar los atajos de teclado disponibles para agilizar la edición y navegación dentro del editor de workflows. Para utilizarlo, el usuario debe abrir el panel de atajos y revisar las combinaciones disponibles. |
 | 12 | Categoría "Nodos del workflow" | Categoría de biblioteca | Mostrar nodos | Permite al usuario visualizar los nodos estándar disponibles para construir automatizaciones dentro del canvas. Para utilizarlo, el usuario debe abrir la categoría y arrastrar los nodos deseados al área de trabajo. |
 | 13 | Categoría "Catálogo UDT" | Categoría de biblioteca | Mostrar catálogo UDT | Permite al usuario acceder a nodos y elementos basados en definiciones UDT para automatizaciones avanzadas. Para utilizarlo, el usuario debe abrir la categoría y seleccionar los elementos que desea utilizar en el workflow. |
-| 14 | Categorías de nodos | Listado de categorías | Filtrar nodos | Permite al usuario organizar y localizar nodos según categorías funcionales como triggers, acciones, variables o monitorización. Para utilizarlo, el usuario debe seleccionar la categoría correspondiente para visualizar los nodos relacionados. |
+| 14 | Categorías de nodos | Listado de categorías | Filtrar nodos | Permite al usuario organizar y localizar nodos según categorías funcionales como triggers, acciones, variables o monitorización. Para utilizarlo, el usuario debe seleccionar la categoría correspondiente para visualizar los nodos relacionados. [NODOS](./Nodos/nodos.md)
+ |
 | 15 | Canvas del workflow | Área de trabajo | Edita automatización | Permite al usuario crear y organizar visualmente automatizaciones conectando nodos dentro del workflow. Para utilizarlo, el usuario debe arrastrar nodos al canvas y conectarlos entre sí según la lógica deseada. |
 ## 💡 Guía de uso
 
