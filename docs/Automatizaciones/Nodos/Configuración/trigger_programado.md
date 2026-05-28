@@ -25,3 +25,6 @@
 4. Introduce la **Expresión Cron** que define cuándo debe ejecutarse el workflow. Ejemplo: `0 9 * * 1-5` ejecuta de lunes a viernes a las 09:00.
 5. Selecciona la **Zona horaria** correcta para que el cron se interprete en el huso horario esperado.
 6. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
+
+
+[← Volver a Triggers](../triggers.md)
