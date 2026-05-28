@@ -11,10 +11,10 @@
 | # | Nombre del Elemento | Tipo | Destino / Acción | Configuración | Descripción Funcional |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Sección "Triggers" (cabecera) | Contenedor / Acordeón | Expande/colapsa la lista de triggers disponibles | - | Agrupa los 4 tipos de triggers disponibles bajo un único bloque colapsable. Muestra el contador de items (4). |
-| 1.1 | Trigger manual | Opción seleccionable | Configura el workflow para ejecución manual | - | Permite lanzar el workflow de forma manual bajo demanda, sin automatización. |
-| 1.2 | Trigger programado | Opción seleccionable | Abre configuración de cron/horario | - | Ejecuta el workflow de forma recurrente según una expresión cron o franjas horarias definidas. |
-| 1.3 | Trigger por umbral | Opción seleccionable | Abre configuración de variable y valor límite | - | Dispara el workflow cuando una variable monitorizada supera un valor umbral definido. |
-| 1.4 | Trigger por consigna | Opción seleccionable | Abre configuración de señal SCADA | - | Activa el workflow cuando el sistema SCADA modifica una consigna o setpoint específico. |
+| 1.1 | Trigger manual | Opción seleccionable | Configura el workflow para ejecución manual |  [Configuración](./Configuración/trigger_manual.md) | Permite lanzar el workflow de forma manual bajo demanda, sin automatización. |
+| 1.2 | Trigger programado | Opción seleccionable | Abre configuración de cron/horario |  [Configuración](./Configuración/trigger_programado.md) | Ejecuta el workflow de forma recurrente según una expresión cron o franjas horarias definidas. |
+| 1.3 | Trigger por umbral | Opción seleccionable | Abre configuración de variable y valor límite |  [Configuración](./Configuración/trigger_por_umbral.md) | Dispara el workflow cuando una variable monitorizada supera un valor umbral definido. |
+| 1.4 | Trigger por consigna | Opción seleccionable | Abre configuración de señal SCADA |  [Configuración](./Configuración/trigger_por_consigna.md) | Activa el workflow cuando el sistema SCADA modifica una consigna o setpoint específico. |
 
 ## 💡 Guía de Uso
 
