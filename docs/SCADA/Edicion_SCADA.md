@@ -3,7 +3,7 @@
 **Objetivo principal:** Permite al usuario crear, editar y configurar pantallas SCADA de forma visual, incorporando widgets, elementos industriales y propiedades dinámicas para supervisión y control en tiempo real.
 
 ## 📸 Mapeo de interfaz
-<img width="1226" height="637" alt="image" src="https://github.com/user-attachments/assets/06697305-d4c4-4aab-b000-39fbdcb31d07" />
+<img width="1031" height="491" alt="image" src="https://github.com/user-attachments/assets/bca6cade-4d21-4f20-9227-66505cd898c1" />
 
 
 ## 🧩 Despiece de elementos funcionales
