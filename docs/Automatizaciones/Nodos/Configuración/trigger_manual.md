@@ -23,3 +23,5 @@
 3. Añade opcionalmente una **Descripción** para documentar para qué sirve este trigger en el contexto del workflow.
 4. La sección **Configuración específica** es informativa: este trigger no requiere parámetros adicionales, se lanza desde el botón "Probar workflow".
 5. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
+
+[← Volver a Triggers](../triggers.md)
