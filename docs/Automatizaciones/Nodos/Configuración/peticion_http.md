@@ -29,4 +29,4 @@
 6. Usa el botón **Probar** para verificar que la petición llega correctamente al endpoint antes de guardar.
 7. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
 
-   [← Volver a Nodos del Workflow](../nodos.md)
+[← Volver a Acciones](../Acciones.md)
