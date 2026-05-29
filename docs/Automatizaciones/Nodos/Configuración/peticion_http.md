@@ -28,3 +28,5 @@
 5. Ajusta el **Timeout** si el sistema externo puede tardar más de 30 segundos en responder (máx. 300 segundos).
 6. Usa el botón **Probar** para verificar que la petición llega correctamente al endpoint antes de guardar.
 7. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
+
+   [← Volver a Nodos del Workflow](../nodos.md)
