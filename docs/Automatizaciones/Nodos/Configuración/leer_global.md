@@ -23,4 +23,4 @@
 3. Selecciona la variable deseada de la lista de resultados — aparecerá confirmada en el campo de selección activa.
 4. Pulsa **Guardar** para confirmar, o **Cancelar** para descartar.
 
-[← Volver a Nodos del Workflow](../nodos.md)
+[← Volver a Globals](../Globals.md)
