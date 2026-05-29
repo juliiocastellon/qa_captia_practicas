@@ -46,4 +46,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Lógica y Control](../logica_control.md)
+[← Volver a Nodos del Workflow](../nodos.md)
