@@ -30,4 +30,4 @@
 4. Puedes reordenar las acciones arrastrando el icono de puntos (⠿) a la izquierda de cada item.
 
 
-[← Volver a Nodos del Workflow](./Acciones.md)
+[← Volver a Nodos del Workflow](./nodos.md)
