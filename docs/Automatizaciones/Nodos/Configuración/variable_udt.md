@@ -27,4 +27,4 @@
 5. Verifica en la sección **D. Resumen final** que todos los campos están correctos antes de guardar. El aviso naranja indica campos pendientes que deben resolverse.
 6. Pulsa **Guardar** para confirmar, o **Cancelar** para descartar.
 
-   [← Volver a Nodos del Workflow](./nodos.md)
+[← Volver a Nodos del Workflow](../nodos.md)
