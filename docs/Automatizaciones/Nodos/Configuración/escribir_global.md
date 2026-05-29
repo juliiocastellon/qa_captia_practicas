@@ -24,4 +24,4 @@
 4. Si no aparecen variables disponibles, es necesario crear primero una variable de tipo GLOBAL desde el módulo **Variables**.
 5. Pulsa **Guardar** para confirmar, o **Cancelar** para descartar.
 
-   [← Volver a Nodos del Workflow](../nodos.md)
+   [← Volver a Globals](../Globals.md)
