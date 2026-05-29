@@ -27,3 +27,5 @@
 5. Ten en cuenta la restricción de WhatsApp: el destinatario debe haber iniciado conversación en las últimas 24h, o el mensaje debe basarse en una plantilla aprobada por WhatsApp.
 6. Si necesitas adjuntar archivos, añade un nodo **Generar informe** antes de este nodo en el workflow.
 7. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
+
+   [← Volver a Nodos del Workflow](../nodos.md)
