@@ -29,4 +29,4 @@
 6. Selecciona el **Origen** del cambio de consigna (por defecto `SCADA`).
 7. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
 
-[← Volver a Nodos del Workflow](../nodos.md)
+[← Volver a Nodos del Workflow](../triggers.md)
