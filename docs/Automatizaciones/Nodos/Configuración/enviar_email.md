@@ -39,3 +39,5 @@
 9. Configura el **botón CTA** con su texto y URL de destino.
 10. Si necesitas adjuntar archivos, añade un nodo **Generar informe** antes de este nodo en el workflow.
 11. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
+
+    [← Volver a Nodos del Workflow](../nodos.md)
