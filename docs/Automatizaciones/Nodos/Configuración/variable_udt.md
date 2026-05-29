@@ -26,3 +26,5 @@
 4. En la sección **C. Mapeo global → UDT**, vincula cada campo del UDT a su variable global de origen. Usa el botón **Auto-map** para intentar el mapeo automático.
 5. Verifica en la sección **D. Resumen final** que todos los campos están correctos antes de guardar. El aviso naranja indica campos pendientes que deben resolverse.
 6. Pulsa **Guardar** para confirmar, o **Cancelar** para descartar.
+
+   [← Volver a Nodos del Workflow](./nodos.md)
