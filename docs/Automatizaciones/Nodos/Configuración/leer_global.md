@@ -22,3 +22,5 @@
 2. Usa el campo de búsqueda para localizar la variable por su **nombre** o **clave técnica**.
 3. Selecciona la variable deseada de la lista de resultados — aparecerá confirmada en el campo de selección activa.
 4. Pulsa **Guardar** para confirmar, o **Cancelar** para descartar.
+
+[← Volver a Nodos del Workflow](../nodos.md)
