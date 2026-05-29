@@ -48,4 +48,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Nodos del Workflow](../bloquesIA.md)
+[← Volver a Nodos del Workflow](../nodos.md)
