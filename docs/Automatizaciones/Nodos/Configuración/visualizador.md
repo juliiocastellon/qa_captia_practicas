@@ -22,3 +22,5 @@
 2. Edita el **Nombre del nodo** y la **Descripción** si lo necesitas.
 3. Completa los parámetros de la sección **Configuración específica** para definir qué conexión o variable debe monitorizar el nodo.
 4. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
+
+   [← Volver a Nodos del Workflow](./nodos.md)
