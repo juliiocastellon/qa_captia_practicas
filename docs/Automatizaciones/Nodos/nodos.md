@@ -19,7 +19,7 @@
 | 3 | Categoría "Acciones" | Categoría de nodos | Expande/colapsa acciones | [Abrir categoría](./Acciones.md) | Permite acceder a nodos encargados de ejecutar acciones y operaciones dentro del workflow. |
 | 4 | Categoría "Variables" | Categoría de nodos | Expande/colapsa variables | [Abrir categoría](./Variables.md) | Permite acceder a nodos relacionados con variables, referencias y valores utilizados por el workflow. |
 | 5 | Categoría "Globals" | Categoría de nodos | Expande/colapsa globals | [Abrir categoría](./Globals.md) | Permite acceder a nodos y configuraciones relacionadas con variables y parámetros globales del sistema. |
-| 6 | Categoría "Monitor" | Categoría de nodos | Expande/colapsa monitorización | [Abrir categoría](./Monitor.md) | Permite acceder a nodos orientados a monitorización, supervisión y control operativo dentro de workflows. |
+| 6 | Categoría "Monitor" | Categoría de nodos | Expande/colapsa monitorización | [Abrir categoría](./monitor.md) | Permite acceder a nodos orientados a monitorización, supervisión y control operativo dentro de workflows. |
 | 7 | Categoría "Bloques IA" | Categoría de nodos | Expande/colapsa IA | [Abrir categoría](./bloquesIA.md) | Permite acceder a nodos basados en inteligencia artificial y automatización inteligente. |
 | 8 | Categoría "Biblioteca" | Categoría de nodos | Expande/colapsa biblioteca | ----- | Permite acceder a elementos reutilizables y componentes compartidos dentro de automatizaciones. |
 
