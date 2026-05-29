@@ -27,3 +27,5 @@
 5. Si la plantilla requiere parámetros adicionales, introdúcelos en el campo **Parámetros (JSON)** como un objeto JSON válido.
 6. Coloca este nodo **antes** de cualquier nodo de envío (email, WhatsApp) si necesitas adjuntar el informe generado.
 7. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
+
+   [← Volver a Nodos del Workflow](../nodos.md)
