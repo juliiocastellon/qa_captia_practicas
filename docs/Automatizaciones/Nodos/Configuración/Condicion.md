@@ -50,4 +50,4 @@ Se utiliza principalmente para:
 
 ---
 
-[← Volver a Nodos del Workflow](../nodos.md)
+[← Volver a Nodos del Workflow](../logica_control.md)
