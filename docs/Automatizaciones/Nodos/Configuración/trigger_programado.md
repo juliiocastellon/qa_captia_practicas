@@ -27,4 +27,4 @@
 6. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
 
 
-[← Volver a Nodos del Workflow](../triggers.md)
+[← Volver a triggers](../triggers.md)
