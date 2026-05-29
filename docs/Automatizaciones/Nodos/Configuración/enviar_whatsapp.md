@@ -28,4 +28,4 @@
 6. Si necesitas adjuntar archivos, añade un nodo **Generar informe** antes de este nodo en el workflow.
 7. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
 
-[← Volver a Nodos del Workflow](../Acciones.md)
+[← Volver a Acciones](../Acciones.md)
