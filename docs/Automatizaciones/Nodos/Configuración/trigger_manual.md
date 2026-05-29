@@ -24,4 +24,4 @@
 4. La sección **Configuración específica** es informativa: este trigger no requiere parámetros adicionales, se lanza desde el botón "Probar workflow".
 5. Pulsa **Guardar cambios** para confirmar, o **Cancelar** para descartar.
 
-[← Volver a Nodos del Workflow](../triggers.md)
+[← Volver a Triggers](../triggers.md)
