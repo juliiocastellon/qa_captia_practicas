@@ -48,6 +48,7 @@
 |---|---|
 | [Automatizaciones](./Automatizaciones/Automatizaciones.md) | Gestión de workflows y automatizaciones industriales. |
 | [Edición Automatizaciones](./Automatizaciones/Edicion_Automatizaciones.md) | Uso del editor visual de automatizaciones y nodos. |
+| [Nodos de Automatización](./Automatizaciones/Nodos/nodos.md) | Documentación de categorías, nodos y configuraciones disponibles dentro del editor de workflows. |
 
 ---
 
